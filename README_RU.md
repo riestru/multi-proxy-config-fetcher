@@ -40,7 +40,7 @@
 </div>
 
 ### Подробная аналитика
-📊 [Просмотреть полную интерактивную панель](https://htmlpreview.github.io/?https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+📊 [Просмотреть полную интерактивную панель](https://htmlpreview.github.io/?https://github.com/riestru/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
 
 > **Важно для форков репозитория**:  
 > Если вы форкнули этот репозиторий, замените `4n0nymou3` в ссылке на панели выше на ваш GitHub-логин, чтобы получить доступ к собственной аналитике.
