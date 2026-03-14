@@ -110,6 +110,7 @@
                 "🇨🇭 35 - CH - VLESS/REALITY/PBK/VISION/UTLS - 510",
                 "🇩🇪 36 - DE - VLESS/REALITY/PBK/VISION/UTLS - 9443",
                 "🇳🇱 38 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
+                "🇷🇺 46 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8449",
                 "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇺🇸 50 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 51 - US - VLESS/WS/TLS/UTLS - 443",
@@ -118,8 +119,6 @@
                 "🇺🇸 54 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 55 - US - VLESS/WS/TLS - 443",
                 "🇷🇺 62 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7445",
-                "🇷🇺 63 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7443",
-                "🇷🇺 64 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7445",
                 "🇩🇪 75 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇳🇱 76 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇷🇺 79 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -129,8 +128,6 @@
                 "🇷🇺 101 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
                 "🇫🇷 102 - FR - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇳🇴 107 - NO - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇷🇺 109 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
-                "🇷🇺 108 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇬🇧 133 - GB - VLESS/REALITY/PBK/SID/UTLS - 2040",
                 "🇱🇻 135 - LV - VLESS/REALITY/PBK/SID/UTLS - 2040",
                 "🇱🇻 134 - LV - VLESS/REALITY/PBK/SID/UTLS - 2040",
@@ -138,10 +135,6 @@
                 "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇳🇱 164 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇷🇺 166 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5555",
-                "🇷🇺 168 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5555",
-                "🇷🇺 169 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5555",
-                "🇷🇺 170 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5555",
                 "🇷🇺 176 - RU - VLESS/REALITY/PBK/VISION - 443",
                 "🇲🇦 199 - MA - VLESS/REALITY/PBK/SID/VISION/UTLS - 12574",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
@@ -184,19 +177,15 @@
                 "🇩🇪 269 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇵🇱 275 - PL - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇷🇺 277 - RU - VLESS/WS/TLS - 443",
+                "🇨🇾 278 - CY - VLESS/REALITY/PBK/UTLS - 8080",
                 "🇨🇾 279 - CY - VLESS/REALITY/PBK/UTLS - 8080",
                 "🇩🇪 280 - DE - VLESS/REALITY/PBK/UTLS - 8080",
-                "🇷🇺 281 - RU - VLESS/REALITY/PBK/SID/UTLS - 7433",
-                "🇷🇺 283 - RU - VLESS/REALITY/PBK/SID/UTLS - 8081",
-                "🇷🇺 284 - RU - VLESS/REALITY/PBK/SID/UTLS - 8083",
-                "🇷🇺 285 - RU - VLESS/REALITY/PBK/SID/UTLS - 8181",
-                "🇷🇺 286 - RU - VLESS/REALITY/PBK/SID/UTLS - 8444",
                 "🇩🇪 287 - DE - VLESS/REALITY/PBK/SID/UTLS - 8443",
                 "🇪🇸 289 - ES - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇩🇪 288 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇭🇺 301 - HU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5443",
                 "🇰🇷 302 - KR - VLESS/REALITY/PBK/SID/UTLS - 25380",
-                "🇷🇺 309 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7443",
+                "🇷🇺 306 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇷🇺 308 - RU - VLESS/GRPC/REALITY/PBK/SID/UTLS - 4013",
                 "🇧🇪 311 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇧🇪 312 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -222,7 +211,6 @@
                 "🇪🇪 388 - EE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇷🇴 389 - RO - VLESS/TLS/VISION - 443",
                 "🇳🇱 395 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
-                "🇷🇺 394 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8448",
                 "🇵🇱 400 - PL - VLESS/GRPC/REALITY/PBK/SID/UTLS - 443",
                 "🇵🇱 401 - PL - VLESS/GRPC/REALITY/PBK/SID - 443",
                 "🇺🇸 404 - US - VLESS/WS/TLS - 443",
@@ -234,7 +222,6 @@
                 "🇳🇱 446 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇩🇪 448 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇩🇪 449 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇷🇺 457 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇳🇱 501 - NL - VLESS/REALITY/PBK/SID/UTLS - 2280",
                 "🇳🇱 503 - NL - VLESS/REALITY/PBK/UTLS - 8080",
                 "🇩🇪 505 - DE - VLESS/REALITY/PBK/UTLS - 8080",
@@ -242,24 +229,18 @@
                 "🇩🇪 508 - DE - VLESS/REALITY/PBK/SID/UTLS - 8444",
                 "🇩🇪 509 - DE - VLESS/TLS/VISION - 443",
                 "🇳🇱 510 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
-                "🇷🇺 511 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7445",
                 "🇳🇱 521 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇳🇱 530 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇳🇱 531 - NL - VLESS/REALITY/PBK/VISION/UTLS - 9443",
                 "🇨🇾 532 - CY - VLESS/REALITY/PBK/SID/UTLS - 7433",
-                "🇨🇾 533 - CY - VLESS/REALITY/PBK/SID/UTLS - 8080",
                 "🇨🇾 534 - CY - VLESS/REALITY/PBK/SID/UTLS - 8081",
                 "🇨🇾 535 - CY - VLESS/REALITY/PBK/SID/UTLS - 8444",
-                "🇫🇷 536 - FR - VLESS/REALITY/PBK/UTLS - 8080",
-                "🇫🇮 537 - FI - VLESS/REALITY/PBK/UTLS - 8080",
                 "🇩🇪 538 - DE - VLESS/REALITY/PBK/SID/UTLS - 7433",
-                "🇩🇪 539 - DE - VLESS/REALITY/PBK/UTLS - 8080",
                 "🇩🇪 540 - DE - VLESS/REALITY/PBK/SID/UTLS - 8080",
                 "🇩🇪 541 - DE - VLESS/REALITY/PBK/SID/UTLS - 8083",
                 "🇩🇪 542 - DE - VLESS/REALITY/PBK/SID/UTLS - 8181",
                 "🇩🇪 552 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 7443",
                 "🇷🇺 551 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8449",
-                "🇷🇺 568 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7445",
                 "🇮🇳 570 - IN - VLESS/REALITY/PBK/VISION/UTLS - 24725",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇷🇺 569 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8449",
@@ -288,7 +269,6 @@
                 "🇳🇱 594 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇳🇱 595 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇳🇱 596 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇳🇱 597 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇩🇪 598 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇩🇪 599 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇩🇪 600 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -302,29 +282,16 @@
                 "🇳🇱 613 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 7443",
                 "🇳🇱 615 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇳🇱 616 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
-                "🇷🇺 619 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
-                "🇷🇺 620 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇷🇺 628 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
                 "🇺🇸 631 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 632 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 633 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 634 - US - VLESS/WS/TLS - 443",
-                "🇷🇺 636 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8447",
-                "🇷🇺 635 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8449",
-                "🇷🇺 637 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8449",
                 "🇳🇱 676 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇺🇸 690 - US - VLESS/REALITY/PBK/SID/UTLS - 10001",
                 "🇷🇺 692 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇷🇺 700 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇷🇺 705 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5443",
-                "🇷🇺 707 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 10443",
-                "🇷🇺 708 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5443",
-                "🇭🇺 710 - HU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇭🇺 711 - HU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5443",
-                "🇭🇺 712 - HU - VLESS/REALITY/PBK/SID/VISION/UTLS - 7443",
+                "🇷🇺 697 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇭🇰 1 - HK - SS/AEAD - 11201",
                 "🇸🇬 2 - SG - SS/AEAD - 16922",
-                "🇷🇺 714 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 3443",
                 "🇫🇷 3 - FR - SS/AEAD - 29796",
                 "🇫🇷 6 - FR - SS/AEAD - 10018",
                 "🇦🇷 7 - AR - SS/AEAD - 11201",
@@ -344,14 +311,12 @@
                 "🇦🇺 27 - AU - SS/AEAD - 47385",
                 "🇦🇺 28 - AU - SS/AEAD - 47386",
                 "🇦🇺 29 - AU - SS/AEAD - 47386",
-                "🇸🇬 25 - SG - SS/AEAD - 14453",
                 "🇦🇺 30 - AU - SS/AEAD - 47387",
                 "🇦🇺 31 - AU - SS/AEAD - 47387",
                 "🇦🇺 32 - AU - SS/AEAD - 47388",
                 "🇦🇺 33 - AU - SS/AEAD - 47388",
                 "🇨🇦 34 - CA - SS/AEAD - 46534",
                 "🇸🇬 35 - SG - SS/AEAD - 48801",
-                "🇸🇬 36 - SG - SS/AEAD - 48802",
                 "🇸🇬 38 - SG - SS/AEAD - 48804",
                 "🇸🇬 37 - SG - SS/AEAD - 48803",
                 "🇸🇬 39 - SG - SS/AEAD - 48804",
@@ -443,7 +408,6 @@
                 "🇪🇨 133 - EC - SS/AEAD - 990",
                 "🇬🇹 134 - GT - SS/AEAD - 990",
                 "🇦🇷 135 - AR - SS/AEAD - 990",
-                "🇧🇬 136 - BG - SS/AEAD - 990",
                 "🇭🇰 137 - HK - SS/AEAD - 990",
                 "🇨🇦 138 - CA - SS/AEAD - 990",
                 "🇫🇮 139 - FI - SS/AEAD - 990",
@@ -477,12 +441,9 @@
                 "🇱🇹 174 - LT - SS/AEAD - 40521",
                 "🇳🇱 179 - NL - SS/AEAD - 8080",
                 "🇲🇾 182 - MY - SS/AEAD - 51348",
-                "🇩🇪 184 - DE - SS/AEAD - 1080",
                 "🇲🇾 183 - MY - SS/AEAD - 51348",
-                "🇫🇮 185 - FI - SS/AEAD - 1080",
                 "🇺🇸 187 - US - SS/AEAD - 443",
                 "🇬🇧 190 - GB - SS/AEAD - 443",
-                "🇮🇹 186 - IT - SS/AEAD - 443",
                 "🇬🇧 191 - GB - SS/AEAD - 443",
                 "🇬🇧 192 - GB - SS/AEAD - 443",
                 "🇬🇧 193 - GB - SS/AEAD - 443",
@@ -519,8 +480,7 @@
                 "🇮🇱 235 - IL - SS/AEAD - 11201",
                 "🇮🇱 236 - IL - SS/AEAD - 11201",
                 "🇫🇷 238 - FR - SS/AEAD - 11202",
-                "🇸🇬 241 - SG - SS/AEAD - 27883",
-                "🇸🇬 240 - SG - SS/AEAD - 27882",
+                "🇸🇬 242 - SG - SS/AEAD - 27884",
                 "🇫🇷 244 - FR - SS/AEAD - 25665",
                 "🇺🇦 245 - UA - SS/AEAD - 47392",
                 "🇸🇬 243 - SG - SS/AEAD - 27885",
@@ -546,34 +506,28 @@
                 "🇬🇧 269 - GB - SS/AEAD - 8388",
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
-                "🇺🇸 23 - US - Trojan/WS/TLS - 443",
-                "🇺🇸 24 - US - Trojan/WS/TLS - 443",
-                "🇺🇸 25 - US - Trojan/WS/TLS - 443",
-                "🇺🇸 26 - US - Trojan/WS/TLS - 443",
                 "🇯🇵 34 - JP - Trojan/TLS - 3057",
-                "🇯🇵 35 - JP - Trojan/TLS - 34818",
                 "🇯🇵 36 - JP - Trojan/TLS - 4674",
-                "🇯🇵 37 - JP - Trojan/TLS - 3057",
                 "🇯🇵 38 - JP - Trojan/TLS - 4674",
-                "🇯🇵 39 - JP - Trojan/TLS - 4937",
-                "🇯🇵 40 - JP - Trojan/TLS - 4937",
-                "🇯🇵 42 - JP - Trojan/TLS - 4937",
+                "🇯🇵 41 - JP - Trojan/TLS - 3057",
                 "🇺🇸 100 - US - Trojan/TLS - 443",
                 "🇺🇸 101 - US - Trojan/TLS - 443",
                 "🇺🇸 13 - US - VMess - 14102",
                 "🇺🇸 18 - US - VMess - 14102",
                 "🇭🇰 33 - HK - VMess/WS/TLS - 443",
-                "🇭🇰 34 - HK - VMess/WS/TLS - 443",
-                "🇨🇦 38 - CA - VMess/WS - 80",
                 "🇭🇰 35 - HK - VMess/WS/TLS - 443",
                 "🇺🇸 42 - US - VMess/WS - 80",
                 "🇺🇸 68 - US - VMess/WS - 80",
+                "🇺🇸 81 - US - VMess/WS - 80",
+                "🇺🇸 87 - US - VMess/WS - 80",
+                "🇺🇸 91 - US - VMess/WS - 80",
+                "🇺🇸 92 - US - VMess/WS - 80",
+                "🇺🇸 93 - US - VMess/WS - 80",
                 "🇺🇸 96 - US - VMess/WS - 80",
                 "🇺🇸 99 - US - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
                 "🇨🇦 124 - CA - VMess/WS - 80",
                 "🇫🇷 136 - FR - VMess - 44030",
-                "🇨🇦 148 - CA - VMess/WS - 80",
                 "🇩🇪 149 - DE - VMess - 550",
                 "🇺🇸 162 - US - VMess/WS/TLS - 2053",
                 "🇭🇰 177 - HK - VMess/WS/TLS - 443",
@@ -599,6 +553,7 @@
                 "🇨🇭 35 - CH - VLESS/REALITY/PBK/VISION/UTLS - 510",
                 "🇩🇪 36 - DE - VLESS/REALITY/PBK/VISION/UTLS - 9443",
                 "🇳🇱 38 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
+                "🇷🇺 46 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8449",
                 "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇺🇸 50 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 51 - US - VLESS/WS/TLS/UTLS - 443",
@@ -607,8 +562,6 @@
                 "🇺🇸 54 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 55 - US - VLESS/WS/TLS - 443",
                 "🇷🇺 62 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7445",
-                "🇷🇺 63 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7443",
-                "🇷🇺 64 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7445",
                 "🇩🇪 75 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇳🇱 76 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇷🇺 79 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -618,8 +571,6 @@
                 "🇷🇺 101 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
                 "🇫🇷 102 - FR - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇳🇴 107 - NO - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇷🇺 109 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
-                "🇷🇺 108 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇬🇧 133 - GB - VLESS/REALITY/PBK/SID/UTLS - 2040",
                 "🇱🇻 135 - LV - VLESS/REALITY/PBK/SID/UTLS - 2040",
                 "🇱🇻 134 - LV - VLESS/REALITY/PBK/SID/UTLS - 2040",
@@ -627,10 +578,6 @@
                 "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇳🇱 164 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇷🇺 166 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5555",
-                "🇷🇺 168 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5555",
-                "🇷🇺 169 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5555",
-                "🇷🇺 170 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5555",
                 "🇷🇺 176 - RU - VLESS/REALITY/PBK/VISION - 443",
                 "🇲🇦 199 - MA - VLESS/REALITY/PBK/SID/VISION/UTLS - 12574",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
@@ -673,19 +620,15 @@
                 "🇩🇪 269 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇵🇱 275 - PL - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇷🇺 277 - RU - VLESS/WS/TLS - 443",
+                "🇨🇾 278 - CY - VLESS/REALITY/PBK/UTLS - 8080",
                 "🇨🇾 279 - CY - VLESS/REALITY/PBK/UTLS - 8080",
                 "🇩🇪 280 - DE - VLESS/REALITY/PBK/UTLS - 8080",
-                "🇷🇺 281 - RU - VLESS/REALITY/PBK/SID/UTLS - 7433",
-                "🇷🇺 283 - RU - VLESS/REALITY/PBK/SID/UTLS - 8081",
-                "🇷🇺 284 - RU - VLESS/REALITY/PBK/SID/UTLS - 8083",
-                "🇷🇺 285 - RU - VLESS/REALITY/PBK/SID/UTLS - 8181",
-                "🇷🇺 286 - RU - VLESS/REALITY/PBK/SID/UTLS - 8444",
                 "🇩🇪 287 - DE - VLESS/REALITY/PBK/SID/UTLS - 8443",
                 "🇪🇸 289 - ES - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇩🇪 288 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇭🇺 301 - HU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5443",
                 "🇰🇷 302 - KR - VLESS/REALITY/PBK/SID/UTLS - 25380",
-                "🇷🇺 309 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7443",
+                "🇷🇺 306 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇷🇺 308 - RU - VLESS/GRPC/REALITY/PBK/SID/UTLS - 4013",
                 "🇧🇪 311 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇧🇪 312 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -711,7 +654,6 @@
                 "🇪🇪 388 - EE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇷🇴 389 - RO - VLESS/TLS/VISION - 443",
                 "🇳🇱 395 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
-                "🇷🇺 394 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8448",
                 "🇵🇱 400 - PL - VLESS/GRPC/REALITY/PBK/SID/UTLS - 443",
                 "🇵🇱 401 - PL - VLESS/GRPC/REALITY/PBK/SID - 443",
                 "🇺🇸 404 - US - VLESS/WS/TLS - 443",
@@ -723,7 +665,6 @@
                 "🇳🇱 446 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇩🇪 448 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇩🇪 449 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇷🇺 457 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇳🇱 501 - NL - VLESS/REALITY/PBK/SID/UTLS - 2280",
                 "🇳🇱 503 - NL - VLESS/REALITY/PBK/UTLS - 8080",
                 "🇩🇪 505 - DE - VLESS/REALITY/PBK/UTLS - 8080",
@@ -731,24 +672,18 @@
                 "🇩🇪 508 - DE - VLESS/REALITY/PBK/SID/UTLS - 8444",
                 "🇩🇪 509 - DE - VLESS/TLS/VISION - 443",
                 "🇳🇱 510 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
-                "🇷🇺 511 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7445",
                 "🇳🇱 521 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇳🇱 530 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇳🇱 531 - NL - VLESS/REALITY/PBK/VISION/UTLS - 9443",
                 "🇨🇾 532 - CY - VLESS/REALITY/PBK/SID/UTLS - 7433",
-                "🇨🇾 533 - CY - VLESS/REALITY/PBK/SID/UTLS - 8080",
                 "🇨🇾 534 - CY - VLESS/REALITY/PBK/SID/UTLS - 8081",
                 "🇨🇾 535 - CY - VLESS/REALITY/PBK/SID/UTLS - 8444",
-                "🇫🇷 536 - FR - VLESS/REALITY/PBK/UTLS - 8080",
-                "🇫🇮 537 - FI - VLESS/REALITY/PBK/UTLS - 8080",
                 "🇩🇪 538 - DE - VLESS/REALITY/PBK/SID/UTLS - 7433",
-                "🇩🇪 539 - DE - VLESS/REALITY/PBK/UTLS - 8080",
                 "🇩🇪 540 - DE - VLESS/REALITY/PBK/SID/UTLS - 8080",
                 "🇩🇪 541 - DE - VLESS/REALITY/PBK/SID/UTLS - 8083",
                 "🇩🇪 542 - DE - VLESS/REALITY/PBK/SID/UTLS - 8181",
                 "🇩🇪 552 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 7443",
                 "🇷🇺 551 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8449",
-                "🇷🇺 568 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7445",
                 "🇮🇳 570 - IN - VLESS/REALITY/PBK/VISION/UTLS - 24725",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇷🇺 569 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8449",
@@ -777,7 +712,6 @@
                 "🇳🇱 594 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇳🇱 595 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇳🇱 596 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇳🇱 597 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇩🇪 598 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇩🇪 599 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇩🇪 600 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -791,29 +725,16 @@
                 "🇳🇱 613 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 7443",
                 "🇳🇱 615 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇳🇱 616 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
-                "🇷🇺 619 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
-                "🇷🇺 620 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇷🇺 628 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
                 "🇺🇸 631 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 632 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 633 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 634 - US - VLESS/WS/TLS - 443",
-                "🇷🇺 636 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8447",
-                "🇷🇺 635 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8449",
-                "🇷🇺 637 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8449",
                 "🇳🇱 676 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇺🇸 690 - US - VLESS/REALITY/PBK/SID/UTLS - 10001",
                 "🇷🇺 692 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇷🇺 700 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇷🇺 705 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5443",
-                "🇷🇺 707 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 10443",
-                "🇷🇺 708 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5443",
-                "🇭🇺 710 - HU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇭🇺 711 - HU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5443",
-                "🇭🇺 712 - HU - VLESS/REALITY/PBK/SID/VISION/UTLS - 7443",
+                "🇷🇺 697 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇭🇰 1 - HK - SS/AEAD - 11201",
                 "🇸🇬 2 - SG - SS/AEAD - 16922",
-                "🇷🇺 714 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 3443",
                 "🇫🇷 3 - FR - SS/AEAD - 29796",
                 "🇫🇷 6 - FR - SS/AEAD - 10018",
                 "🇦🇷 7 - AR - SS/AEAD - 11201",
@@ -833,14 +754,12 @@
                 "🇦🇺 27 - AU - SS/AEAD - 47385",
                 "🇦🇺 28 - AU - SS/AEAD - 47386",
                 "🇦🇺 29 - AU - SS/AEAD - 47386",
-                "🇸🇬 25 - SG - SS/AEAD - 14453",
                 "🇦🇺 30 - AU - SS/AEAD - 47387",
                 "🇦🇺 31 - AU - SS/AEAD - 47387",
                 "🇦🇺 32 - AU - SS/AEAD - 47388",
                 "🇦🇺 33 - AU - SS/AEAD - 47388",
                 "🇨🇦 34 - CA - SS/AEAD - 46534",
                 "🇸🇬 35 - SG - SS/AEAD - 48801",
-                "🇸🇬 36 - SG - SS/AEAD - 48802",
                 "🇸🇬 38 - SG - SS/AEAD - 48804",
                 "🇸🇬 37 - SG - SS/AEAD - 48803",
                 "🇸🇬 39 - SG - SS/AEAD - 48804",
@@ -932,7 +851,6 @@
                 "🇪🇨 133 - EC - SS/AEAD - 990",
                 "🇬🇹 134 - GT - SS/AEAD - 990",
                 "🇦🇷 135 - AR - SS/AEAD - 990",
-                "🇧🇬 136 - BG - SS/AEAD - 990",
                 "🇭🇰 137 - HK - SS/AEAD - 990",
                 "🇨🇦 138 - CA - SS/AEAD - 990",
                 "🇫🇮 139 - FI - SS/AEAD - 990",
@@ -966,12 +884,9 @@
                 "🇱🇹 174 - LT - SS/AEAD - 40521",
                 "🇳🇱 179 - NL - SS/AEAD - 8080",
                 "🇲🇾 182 - MY - SS/AEAD - 51348",
-                "🇩🇪 184 - DE - SS/AEAD - 1080",
                 "🇲🇾 183 - MY - SS/AEAD - 51348",
-                "🇫🇮 185 - FI - SS/AEAD - 1080",
                 "🇺🇸 187 - US - SS/AEAD - 443",
                 "🇬🇧 190 - GB - SS/AEAD - 443",
-                "🇮🇹 186 - IT - SS/AEAD - 443",
                 "🇬🇧 191 - GB - SS/AEAD - 443",
                 "🇬🇧 192 - GB - SS/AEAD - 443",
                 "🇬🇧 193 - GB - SS/AEAD - 443",
@@ -1008,8 +923,7 @@
                 "🇮🇱 235 - IL - SS/AEAD - 11201",
                 "🇮🇱 236 - IL - SS/AEAD - 11201",
                 "🇫🇷 238 - FR - SS/AEAD - 11202",
-                "🇸🇬 241 - SG - SS/AEAD - 27883",
-                "🇸🇬 240 - SG - SS/AEAD - 27882",
+                "🇸🇬 242 - SG - SS/AEAD - 27884",
                 "🇫🇷 244 - FR - SS/AEAD - 25665",
                 "🇺🇦 245 - UA - SS/AEAD - 47392",
                 "🇸🇬 243 - SG - SS/AEAD - 27885",
@@ -1035,34 +949,28 @@
                 "🇬🇧 269 - GB - SS/AEAD - 8388",
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
-                "🇺🇸 23 - US - Trojan/WS/TLS - 443",
-                "🇺🇸 24 - US - Trojan/WS/TLS - 443",
-                "🇺🇸 25 - US - Trojan/WS/TLS - 443",
-                "🇺🇸 26 - US - Trojan/WS/TLS - 443",
                 "🇯🇵 34 - JP - Trojan/TLS - 3057",
-                "🇯🇵 35 - JP - Trojan/TLS - 34818",
                 "🇯🇵 36 - JP - Trojan/TLS - 4674",
-                "🇯🇵 37 - JP - Trojan/TLS - 3057",
                 "🇯🇵 38 - JP - Trojan/TLS - 4674",
-                "🇯🇵 39 - JP - Trojan/TLS - 4937",
-                "🇯🇵 40 - JP - Trojan/TLS - 4937",
-                "🇯🇵 42 - JP - Trojan/TLS - 4937",
+                "🇯🇵 41 - JP - Trojan/TLS - 3057",
                 "🇺🇸 100 - US - Trojan/TLS - 443",
                 "🇺🇸 101 - US - Trojan/TLS - 443",
                 "🇺🇸 13 - US - VMess - 14102",
                 "🇺🇸 18 - US - VMess - 14102",
                 "🇭🇰 33 - HK - VMess/WS/TLS - 443",
-                "🇭🇰 34 - HK - VMess/WS/TLS - 443",
-                "🇨🇦 38 - CA - VMess/WS - 80",
                 "🇭🇰 35 - HK - VMess/WS/TLS - 443",
                 "🇺🇸 42 - US - VMess/WS - 80",
                 "🇺🇸 68 - US - VMess/WS - 80",
+                "🇺🇸 81 - US - VMess/WS - 80",
+                "🇺🇸 87 - US - VMess/WS - 80",
+                "🇺🇸 91 - US - VMess/WS - 80",
+                "🇺🇸 92 - US - VMess/WS - 80",
+                "🇺🇸 93 - US - VMess/WS - 80",
                 "🇺🇸 96 - US - VMess/WS - 80",
                 "🇺🇸 99 - US - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
                 "🇨🇦 124 - CA - VMess/WS - 80",
                 "🇫🇷 136 - FR - VMess - 44030",
-                "🇨🇦 148 - CA - VMess/WS - 80",
                 "🇩🇪 149 - DE - VMess - 550",
                 "🇺🇸 162 - US - VMess/WS/TLS - 2053",
                 "🇭🇰 177 - HK - VMess/WS/TLS - 443",
@@ -1246,6 +1154,28 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "random"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "vless",
+            "tag": "🇷🇺 46 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8449",
+            "server": "51.250.72.141",
+            "server_port": 8449,
+            "uuid": "0578aba4-581d-431f-bff4-4a888245a950",
+            "flow": "xtls-rprx-vision",
+            "tls": {
+                "enabled": true,
+                "server_name": "api-maps.yandex.ru",
+                "reality": {
+                    "enabled": true,
+                    "public_key": "eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M",
+                    "short_id": ""
+                },
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "qq"
                 }
             },
             "transport": {}
@@ -1458,50 +1388,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇷🇺 63 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7443",
-            "server": "51.250.72.141",
-            "server_port": 7443,
-            "uuid": "0a10974e-e014-4e6e-9783-0b9930c9204e",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "ads.x5.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "qq"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 64 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7445",
-            "server": "51.250.75.192",
-            "server_port": 7445,
-            "uuid": "0a10974e-e014-4e6e-9783-0b9930c9204e",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "api-maps.yandex.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "edge"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇩🇪 75 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
             "server": "152.53.116.71",
             "server_port": 443,
@@ -1700,50 +1586,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇷🇺 109 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
-            "server": "87.239.106.78",
-            "server_port": 8443,
-            "uuid": "126bc8b8-7c15-4e64-8a08-07378b079a6f",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "rbc.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A",
-                    "short_id": "9f4ca836ca270ef8"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 108 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-            "server": "87.239.106.78",
-            "server_port": 443,
-            "uuid": "126bc8b8-7c15-4e64-8a08-07378b079a6f",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "rbc.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A",
-                    "short_id": "9f4ca836ca270ef8"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇬🇧 133 - GB - VLESS/REALITY/PBK/SID/UTLS - 2040",
             "server": "108.165.174.192",
             "server_port": 2040,
@@ -1892,94 +1734,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 166 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5555",
-            "server": "212.233.96.46",
-            "server_port": 5555,
-            "uuid": "15c5e81f-9127-416e-8f76-18b4fbcb58be",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.vk.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "imS00BOMVviktiAFypnoAQkpQ9-cmS-sWasAeTk2aiU",
-                    "short_id": "0b1b566f05"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "qq"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 168 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5555",
-            "server": "212.233.96.46",
-            "server_port": 5555,
-            "uuid": "15c5e81f-9127-416e-8f76-18b4fbcb58be",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.vk.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "imS00BOMVviktiAFypnoAQkpQ9-cmS-sWasAeTk2aiU",
-                    "short_id": "7c5c97ed"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "qq"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 169 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5555",
-            "server": "212.233.96.46",
-            "server_port": 5555,
-            "uuid": "15c5e81f-9127-416e-8f76-18b4fbcb58be",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.vk.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "imS00BOMVviktiAFypnoAQkpQ9-cmS-sWasAeTk2aiU",
-                    "short_id": "cfd75ffd0a66"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "qq"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 170 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5555",
-            "server": "212.233.96.46",
-            "server_port": 5555,
-            "uuid": "15c5e81f-9127-416e-8f76-18b4fbcb58be",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.vk.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "imS00BOMVviktiAFypnoAQkpQ9-cmS-sWasAeTk2aiU",
-                    "short_id": "d3a33c06d9008b"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "qq"
                 }
             },
             "transport": {}
@@ -2915,6 +2669,28 @@
         },
         {
             "type": "vless",
+            "tag": "🇨🇾 278 - CY - VLESS/REALITY/PBK/UTLS - 8080",
+            "server": "144.31.130.242",
+            "server_port": 8080,
+            "uuid": "216e28b3-5950-4f89-916c-62bc50e092de",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "main.tortvpnbot.world",
+                "reality": {
+                    "enabled": true,
+                    "public_key": "w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8",
+                    "short_id": ""
+                },
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "vless",
             "tag": "🇨🇾 279 - CY - VLESS/REALITY/PBK/UTLS - 8080",
             "server": "144.31.130.242",
             "server_port": 8080,
@@ -2949,116 +2725,6 @@
                     "enabled": true,
                     "public_key": "w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8",
                     "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 281 - RU - VLESS/REALITY/PBK/SID/UTLS - 7433",
-            "server": "51.250.98.66",
-            "server_port": 7433,
-            "uuid": "216e28b3-5950-4f89-916c-62bc50e092de",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "max.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-                    "short_id": "7dbf7d3233971d5c"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 283 - RU - VLESS/REALITY/PBK/SID/UTLS - 8081",
-            "server": "51.250.98.66",
-            "server_port": 8081,
-            "uuid": "216e28b3-5950-4f89-916c-62bc50e092de",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "max.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-                    "short_id": "7dbf7d3233971d5c"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 284 - RU - VLESS/REALITY/PBK/SID/UTLS - 8083",
-            "server": "51.250.98.66",
-            "server_port": 8083,
-            "uuid": "216e28b3-5950-4f89-916c-62bc50e092de",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "max.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-                    "short_id": "7dbf7d3233971d5c"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 285 - RU - VLESS/REALITY/PBK/SID/UTLS - 8181",
-            "server": "51.250.98.66",
-            "server_port": 8181,
-            "uuid": "216e28b3-5950-4f89-916c-62bc50e092de",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "max.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-                    "short_id": "7dbf7d3233971d5c"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 286 - RU - VLESS/REALITY/PBK/SID/UTLS - 8444",
-            "server": "51.250.98.66",
-            "server_port": 8444,
-            "uuid": "216e28b3-5950-4f89-916c-62bc50e092de",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "max.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-                    "short_id": "7dbf7d3233971d5c"
                 },
                 "utls": {
                     "enabled": true,
@@ -3179,18 +2845,18 @@
         },
         {
             "type": "vless",
-            "tag": "🇷🇺 309 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7443",
-            "server": "51.250.72.141",
-            "server_port": 7443,
-            "uuid": "254e65e5-81e4-45c3-8a41-93af77d02853",
+            "tag": "🇷🇺 306 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
+            "server": "87.239.104.33",
+            "server_port": 443,
+            "uuid": "2468803e-77b0-413a-b6c1-287c756ae8b0",
             "flow": "xtls-rprx-vision",
             "tls": {
                 "enabled": true,
-                "server_name": "ads.x5.ru",
+                "server_name": "web.max.ru",
                 "reality": {
                     "enabled": true,
-                    "public_key": "59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14",
-                    "short_id": ""
+                    "public_key": "FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg",
+                    "short_id": "87cc0414902bee2d"
                 },
                 "utls": {
                     "enabled": true,
@@ -3757,28 +3423,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇷🇺 394 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8448",
-            "server": "146.185.242.246",
-            "server_port": 8448,
-            "uuid": "348b7c18-bc31-4f9c-90cf-70d7006e6285",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "ads.x5.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇵🇱 400 - PL - VLESS/GRPC/REALITY/PBK/SID/UTLS - 443",
             "server": "95.85.253.87",
             "server_port": 443,
@@ -4036,28 +3680,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇷🇺 457 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-            "server": "84.201.174.221",
-            "server_port": 443,
-            "uuid": "3ecd4547-7ee1-4181-837d-03bc56117705",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "api-maps.yandex.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg",
-                    "short_id": "a76ea384b29a4f79"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇳🇱 501 - NL - VLESS/REALITY/PBK/SID/UTLS - 2280",
             "server": "192.76.160.216",
             "server_port": 2280,
@@ -4212,28 +3834,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇷🇺 511 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7445",
-            "server": "51.250.75.192",
-            "server_port": 7445,
-            "uuid": "40854214-4747-4633-9f52-57be1980957f",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "api-maps.yandex.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "qq"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇳🇱 521 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
             "server": "185.112.59.134",
             "server_port": 8446,
@@ -4322,28 +3922,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇨🇾 533 - CY - VLESS/REALITY/PBK/SID/UTLS - 8080",
-            "server": "144.31.130.242",
-            "server_port": 8080,
-            "uuid": "446879b9-710c-431b-94d0-f6b4c18a528a",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "max.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-                    "short_id": "7dbf7d3233971d5c"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇨🇾 534 - CY - VLESS/REALITY/PBK/SID/UTLS - 8081",
             "server": "144.31.130.242",
             "server_port": 8081,
@@ -4388,50 +3966,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇫🇷 536 - FR - VLESS/REALITY/PBK/UTLS - 8080",
-            "server": "2.56.126.12",
-            "server_port": 8080,
-            "uuid": "446879b9-710c-431b-94d0-f6b4c18a528a",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "max.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇫🇮 537 - FI - VLESS/REALITY/PBK/UTLS - 8080",
-            "server": "45.12.151.148",
-            "server_port": 8080,
-            "uuid": "446879b9-710c-431b-94d0-f6b4c18a528a",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "main.tortvpnbot.world",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇩🇪 538 - DE - VLESS/REALITY/PBK/SID/UTLS - 7433",
             "server": "91.196.32.225",
             "server_port": 7433,
@@ -4444,28 +3978,6 @@
                     "enabled": true,
                     "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
                     "short_id": "7dbf7d3233971d5c"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇩🇪 539 - DE - VLESS/REALITY/PBK/UTLS - 8080",
-            "server": "91.196.32.225",
-            "server_port": 8080,
-            "uuid": "446879b9-710c-431b-94d0-f6b4c18a528a",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "main.tortvpnbot.world",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8",
-                    "short_id": ""
                 },
                 "utls": {
                     "enabled": true,
@@ -4580,28 +4092,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 568 - RU - VLESS/REALITY/PBK/VISION/UTLS - 7445",
-            "server": "51.250.72.141",
-            "server_port": 7445,
-            "uuid": "482071b9-1853-4998-8eff-1b954e119ebe",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "api-maps.yandex.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "qq"
                 }
             },
             "transport": {}
@@ -5224,28 +4714,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇳🇱 597 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-            "server": "51.158.206.98",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇩🇪 598 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
             "server": "57.129.49.1",
             "server_port": 23576,
@@ -5532,72 +5000,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇷🇺 619 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
-            "server": "2.56.178.36",
-            "server_port": 8443,
-            "uuid": "4c9b944f-6637-4cc2-a71c-5213806084ae",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.telegram.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "uhzhSZ4-Nhon-Hz7z1YGOa0f-wGMblLJmyc7VypN1lI",
-                    "short_id": "f55fb7b095"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 620 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-            "server": "212.233.73.67",
-            "server_port": 443,
-            "uuid": "4c9b944f-6637-4cc2-a71c-5213806084ae",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "rbc.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "A0cICW4ARACTtF1zEbWJqqzEHQbSeJN2jUu8uCj7_UE",
-                    "short_id": "91d4f8c3a72b"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 628 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
-            "server": "94.139.246.17",
-            "server_port": 8443,
-            "uuid": "4c9b944f-6637-4cc2-a71c-5213806084ae",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "rbc.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "42f1Pxqxo5VTWZFuyf7oC2OFKbYKH96z7lmDqzYU5Sw",
-                    "short_id": "f6d81a"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇺🇸 631 - US - VLESS/WS/TLS - 443",
             "server": "104.21.91.46",
             "server_port": 443,
@@ -5706,72 +5108,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇷🇺 636 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8447",
-            "server": "84.201.133.58",
-            "server_port": 8447,
-            "uuid": "4d38a5f6-3343-4383-a1d6-2e62eef7097f",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.vk.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 635 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8449",
-            "server": "51.250.72.141",
-            "server_port": 8449,
-            "uuid": "4d38a5f6-3343-4383-a1d6-2e62eef7097f",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "api-maps.yandex.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "qq"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 637 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8449",
-            "server": "84.201.133.58",
-            "server_port": 8449,
-            "uuid": "4d38a5f6-3343-4383-a1d6-2e62eef7097f",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "travel.yandex.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇳🇱 676 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
             "server": "185.112.59.4",
             "server_port": 8446,
@@ -5838,154 +5174,22 @@
         },
         {
             "type": "vless",
-            "tag": "🇷🇺 700 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-            "server": "146.185.241.202",
+            "tag": "🇷🇺 697 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
+            "server": "87.239.104.34",
             "server_port": 443,
-            "uuid": "53fb2c66-c054-4e27-b18a-6be872879c71",
+            "uuid": "53e7e9b1-fcf0-4593-aead-fd5904780d74",
             "flow": "xtls-rprx-vision",
             "tls": {
                 "enabled": true,
-                "server_name": "eh.vk.com",
+                "server_name": "web.max.ru",
                 "reality": {
                     "enabled": true,
-                    "public_key": "hr7V5NTBBQFyvGNZie2OLt2wPDepqEnb8Ck9_tU9hFg",
-                    "short_id": "99db3196ed2399f1"
+                    "public_key": "FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg",
+                    "short_id": "6354585c37827955"
                 },
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "randomized"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 705 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5443",
-            "server": "188.225.37.47",
-            "server_port": 5443,
-            "uuid": "53fb2c66-c054-4e27-b18a-6be872879c71",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "api-maps.yandex.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "keHhPKz4xvYjdDqWvhqDUduBtjer2G8fPKdd07bOtXQ",
-                    "short_id": "681a5030d68c9ac2"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 707 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 10443",
-            "server": "188.225.58.98",
-            "server_port": 10443,
-            "uuid": "53fb2c66-c054-4e27-b18a-6be872879c71",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "pimg.mycdn.me",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "fKLb3LN5Zfoz1Eg58ocDjHoQDjuJjixkChcybgsU1zI",
-                    "short_id": "237561113ef32d46"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 708 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5443",
-            "server": "188.225.58.98",
-            "server_port": 5443,
-            "uuid": "53fb2c66-c054-4e27-b18a-6be872879c71",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "api-maps.yandex.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "keHhPKz4xvYjdDqWvhqDUduBtjer2G8fPKdd07bOtXQ",
-                    "short_id": "681a5030d68c9ac2"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇭🇺 710 - HU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-            "server": "217.13.105.1",
-            "server_port": 443,
-            "uuid": "53fb2c66-c054-4e27-b18a-6be872879c71",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "eh.vk.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ZGwYjRp5RxlVpHUTPzi7pB4ZZuDU5FZEaFgBM71teiQ",
-                    "short_id": "0669a3e6b300d069"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇭🇺 711 - HU - VLESS/REALITY/PBK/SID/VISION/UTLS - 5443",
-            "server": "217.13.105.1",
-            "server_port": 5443,
-            "uuid": "53fb2c66-c054-4e27-b18a-6be872879c71",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "api-maps.yandex.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM",
-                    "short_id": "5cae63084b3281f3"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇭🇺 712 - HU - VLESS/REALITY/PBK/SID/VISION/UTLS - 7443",
-            "server": "217.13.105.1",
-            "server_port": 7443,
-            "uuid": "53fb2c66-c054-4e27-b18a-6be872879c71",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "sun6-22.userapi.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY",
-                    "short_id": "0a2585c3c950f29a"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
+                    "fingerprint": "qq"
                 }
             },
             "transport": {}
@@ -6005,28 +5209,6 @@
             "server_port": 16922,
             "method": "chacha20-ietf-poly1305",
             "password": "42d2b47181a32de7"
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 714 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 3443",
-            "server": "217.25.94.148",
-            "server_port": 3443,
-            "uuid": "53fb2c66-c054-4e27-b18a-6be872879c71",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "ads.x5.ru",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RHvNDMCFeCL1nIKFoCmnmZYJNofBMPJ77jNMACstVGQ",
-                    "short_id": "250d3c02fb96d485"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
-                }
-            },
-            "transport": {}
         },
         {
             "type": "shadowsocks",
@@ -6182,14 +5364,6 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇸🇬 25 - SG - SS/AEAD - 14453",
-            "server": "194.233.73.51",
-            "server_port": 14453,
-            "method": "chacha20-ietf-poly1305",
-            "password": "764a4d8c1c76eb50"
-        },
-        {
-            "type": "shadowsocks",
             "tag": "🇦🇺 30 - AU - SS/AEAD - 47387",
             "server": "154.26.156.99",
             "server_port": 47387,
@@ -6233,14 +5407,6 @@
             "tag": "🇸🇬 35 - SG - SS/AEAD - 48801",
             "server": "194.233.73.51",
             "server_port": 48801,
-            "method": "chacha20-ietf-poly1305",
-            "password": "7afa39016d5a409c"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇸🇬 36 - SG - SS/AEAD - 48802",
-            "server": "194.233.73.51",
-            "server_port": 48802,
             "method": "chacha20-ietf-poly1305",
             "password": "7afa39016d5a409c"
         },
@@ -6974,14 +6140,6 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇧🇬 136 - BG - SS/AEAD - 990",
-            "server": "193.135.174.135",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-        },
-        {
-            "type": "shadowsocks",
             "tag": "🇭🇰 137 - HK - SS/AEAD - 990",
             "server": "203.23.128.92",
             "server_port": 990,
@@ -7246,27 +6404,11 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇩🇪 184 - DE - SS/AEAD - 1080",
-            "server": "de1.node.getvpn4you.ru",
-            "server_port": 1080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "RuPv_859V62PYcT34Nsc8EeeH0R8Bdut"
-        },
-        {
-            "type": "shadowsocks",
             "tag": "🇲🇾 183 - MY - SS/AEAD - 51348",
             "server": "124.217.247.205",
             "server_port": 51348,
             "method": "chacha20-ietf-poly1305",
             "password": "RZirHzSqyyb37DDIiQeDLZTJft5ZQGmUCwyA3wm5ath4j9Y3"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇫🇮 185 - FI - SS/AEAD - 1080",
-            "server": "fi1.node.getvpn4you.ru",
-            "server_port": 1080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "RuPv_859V62PYcT34Nsc8EeeH0R8Bdut"
         },
         {
             "type": "shadowsocks",
@@ -7283,14 +6425,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "W74XFALLLuw6m5IA"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇮🇹 186 - IT - SS/AEAD - 443",
-            "server": "38.180.195.193",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "SwTShXYSQd404FISs8NFeJ"
         },
         {
             "type": "shadowsocks",
@@ -7582,17 +6716,9 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇸🇬 241 - SG - SS/AEAD - 27883",
+            "tag": "🇸🇬 242 - SG - SS/AEAD - 27884",
             "server": "154.26.132.38",
-            "server_port": 27883,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ded718fcb2bb17b7"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇸🇬 240 - SG - SS/AEAD - 27882",
-            "server": "154.26.132.38",
-            "server_port": 27882,
+            "server_port": 27884,
             "method": "chacha20-ietf-poly1305",
             "password": "ded718fcb2bb17b7"
         },
@@ -7798,134 +6924,9 @@
         },
         {
             "type": "trojan",
-            "tag": "🇺🇸 23 - US - Trojan/WS/TLS - 443",
-            "server": "bmk.xx8.ccwu.cc",
-            "server_port": 443,
-            "password": "c558328b-eb46-424c-b9e0-574770f0b072",
-            "tls": {
-                "enabled": true,
-                "server_name": "bmk.xx8.ccwu.cc",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ks4McWjhV7bXNC0BXGtJ",
-                "headers": {
-                    "Host": "bmk.xx8.ccwu.cc"
-                }
-            }
-        },
-        {
-            "type": "trojan",
-            "tag": "🇺🇸 24 - US - Trojan/WS/TLS - 443",
-            "server": "hhju8.huangshang.site",
-            "server_port": 443,
-            "password": "c558328b-eb46-424c-b9e0-574770f0b072",
-            "tls": {
-                "enabled": true,
-                "server_name": "hhju8.huangshang.site",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ks4McWjhV7bXNC0BXGtJ",
-                "headers": {
-                    "Host": "hhju8.huangshang.site"
-                }
-            }
-        },
-        {
-            "type": "trojan",
-            "tag": "🇺🇸 25 - US - Trojan/WS/TLS - 443",
-            "server": "rft5.xx9.ccwu.cc",
-            "server_port": 443,
-            "password": "c558328b-eb46-424c-b9e0-574770f0b072",
-            "tls": {
-                "enabled": true,
-                "server_name": "rft5.xx9.ccwu.cc",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ks4McWjhV7bXNC0BXGtJ",
-                "headers": {
-                    "Host": "rft5.xx9.ccwu.cc"
-                }
-            }
-        },
-        {
-            "type": "trojan",
-            "tag": "🇺🇸 26 - US - Trojan/WS/TLS - 443",
-            "server": "rft5.xx9.ccwu.cc",
-            "server_port": 443,
-            "password": "c558328b-eb46-424c-b9e0-574770f0b072",
-            "tls": {
-                "enabled": true,
-                "server_name": "rft5.xx9.ccwu.cc",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ks4McWjhV7bXNC0BXGtJ",
-                "headers": {
-                    "Host": "rft5.xx9.ccwu.cc"
-                }
-            }
-        },
-        {
-            "type": "trojan",
             "tag": "🇯🇵 34 - JP - Trojan/TLS - 3057",
             "server": "153.121.45.139",
             "server_port": 3057,
-            "password": "f389ed926e512e15f382dc3804029474",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.nintendogames.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇯🇵 35 - JP - Trojan/TLS - 34818",
-            "server": "153.121.45.139",
-            "server_port": 34818,
             "password": "f389ed926e512e15f382dc3804029474",
             "tls": {
                 "enabled": true,
@@ -7965,27 +6966,6 @@
         },
         {
             "type": "trojan",
-            "tag": "🇯🇵 37 - JP - Trojan/TLS - 3057",
-            "server": "160.16.106.99",
-            "server_port": 3057,
-            "password": "f389ed926e512e15f382dc3804029474",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.nintendogames.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
             "tag": "🇯🇵 38 - JP - Trojan/TLS - 4674",
             "server": "160.16.106.99",
             "server_port": 4674,
@@ -8007,51 +6987,9 @@
         },
         {
             "type": "trojan",
-            "tag": "🇯🇵 39 - JP - Trojan/TLS - 4937",
-            "server": "160.16.106.99",
-            "server_port": 4937,
-            "password": "f389ed926e512e15f382dc3804029474",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.nintendogames.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇯🇵 40 - JP - Trojan/TLS - 4937",
-            "server": "160.16.106.99",
-            "server_port": 4937,
-            "password": "f389ed926e512e15f382dc3804029474",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.nintendogames.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇯🇵 42 - JP - Trojan/TLS - 4937",
-            "server": "160.16.85.33",
-            "server_port": 4937,
+            "tag": "🇯🇵 41 - JP - Trojan/TLS - 3057",
+            "server": "160.16.72.205",
+            "server_port": 3057,
             "password": "f389ed926e512e15f382dc3804029474",
             "tls": {
                 "enabled": true,
@@ -8167,54 +7105,6 @@
         },
         {
             "type": "vmess",
-            "tag": "🇭🇰 34 - HK - VMess/WS/TLS - 443",
-            "server": "n1761214908.wpg27.xyz",
-            "server_port": 443,
-            "uuid": "3514a93f-bb26-4442-8f99-971b2ff3388a",
-            "security": null,
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "n1761214908.wpg27.xyz"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 38 - CA - VMess/WS - 80",
-            "server": "15.235.41.200",
-            "server_port": 80,
-            "uuid": "58fe1542-5290-40ad-815a-77707a81afe5",
-            "security": null,
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-                "headers": {
-                    "Host": "15.235.41.200"
-                }
-            },
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
             "tag": "🇭🇰 35 - HK - VMess/WS/TLS - 443",
             "server": "n1753356361.lie5d.cyou",
             "server_port": 443,
@@ -8274,6 +7164,101 @@
                 "path": "/YsmRouA9ZbxgW4",
                 "headers": {
                     "Host": null
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 81 - US - VMess/WS - 80",
+            "server": "bnhhy.1ll.ccwu.cc",
+            "server_port": 80,
+            "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
+                "headers": {
+                    "Host": null
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 87 - US - VMess/WS - 80",
+            "server": "bgn.1dd.ccwu.cc",
+            "server_port": 80,
+            "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
+                "headers": {
+                    "Host": "bgn.1dd.ccwu.cc"
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 91 - US - VMess/WS - 80",
+            "server": "yyynm.2nn.ccwu.cc",
+            "server_port": 80,
+            "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
+                "headers": {
+                    "Host": "yyynm.2nn.ccwu.cc"
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 92 - US - VMess/WS - 80",
+            "server": "nnmkl.2nn.ccwu.cc",
+            "server_port": 80,
+            "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
+                "headers": {
+                    "Host": "nnmkl.2nn.ccwu.cc"
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 93 - US - VMess/WS - 80",
+            "server": "bnhhy.1ll.ccwu.cc",
+            "server_port": 80,
+            "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
+                "headers": {
+                    "Host": "bnhhy.1ll.ccwu.cc"
                 }
             },
             "tls": {
@@ -8359,25 +7344,6 @@
             "security": "auto",
             "alter_id": 0,
             "transport": {},
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 148 - CA - VMess/WS - 80",
-            "server": "15.235.41.200",
-            "server_port": 80,
-            "uuid": "58fe1542-5290-40ad-815a-77707a81afe5",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-                "headers": {
-                    "Host": "google.com"
-                }
-            },
             "tls": {
                 "enabled": false
             }
