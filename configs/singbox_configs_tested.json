@@ -118,6 +118,7 @@
                 "🇺🇸 117 - US - VLESS/WS - 80",
                 "🇺🇸 118 - US - VLESS/WS - 80",
                 "🇺🇸 119 - US - VLESS/WS - 80",
+                "🇺🇸 120 - US - VLESS/WS - 80",
                 "🇺🇸 121 - US - VLESS/WS - 80",
                 "🇺🇸 122 - US - VLESS/WS - 80",
                 "🇺🇸 123 - US - VLESS/WS - 80",
@@ -141,7 +142,7 @@
                 "🇩🇪 268 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇩🇪 269 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇵🇱 275 - PL - VLESS/REALITY/PBK/SID/UTLS - 443",
-                "🇨🇾 278 - CY - VLESS/REALITY/PBK/UTLS - 8080",
+                "🇷🇺 277 - RU - VLESS/WS/TLS - 443",
                 "🇩🇪 287 - DE - VLESS/REALITY/PBK/SID/UTLS - 8443",
                 "🇩🇪 288 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇰🇷 302 - KR - VLESS/REALITY/PBK/SID/UTLS - 25380",
@@ -150,12 +151,15 @@
                 "🇧🇪 312 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇨🇭 314 - CH - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇫🇷 323 - FR - VLESS/WS - 80",
+                "🇺🇸 320 - US - VLESS/WS - 2052",
+                "🇺🇸 321 - US - VLESS/WS - 2052",
+                "🇫🇷 324 - FR - VLESS/WS - 80",
                 "🇳🇱 337 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇩🇪 347 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇩🇪 351 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇬🇧 354 - GB - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇳🇴 358 - NO - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
+                "🇺🇸 374 - US - VLESS/WS - 80",
                 "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇮 385 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇪🇪 388 - EE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -248,6 +252,7 @@
                 "🇺🇸 634 - US - VLESS/WS/TLS - 443",
                 "🇹🇭 655 - TH - VLESS/WS - 80",
                 "🇹🇭 656 - TH - VLESS/WS - 80",
+                "🇺🇸 670 - US - VLESS/WS - 80",
                 "🇳🇱 676 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇺🇸 689 - US - VLESS/WS - 80",
                 "🇺🇸 690 - US - VLESS/REALITY/PBK/SID/UTLS - 10001",
@@ -271,8 +276,6 @@
                 "🇦🇺 28 - AU - SS/AEAD - 47386",
                 "🇦🇺 29 - AU - SS/AEAD - 47386",
                 "🇸🇬 25 - SG - SS/AEAD - 14453",
-                "🇦🇺 30 - AU - SS/AEAD - 47387",
-                "🇦🇺 31 - AU - SS/AEAD - 47387",
                 "🇦🇺 32 - AU - SS/AEAD - 47388",
                 "🇦🇺 33 - AU - SS/AEAD - 47388",
                 "🇨🇦 34 - CA - SS/AEAD - 46534",
@@ -332,6 +335,7 @@
                 "🇪🇨 133 - EC - SS/AEAD - 990",
                 "🇬🇹 134 - GT - SS/AEAD - 990",
                 "🇦🇷 135 - AR - SS/AEAD - 990",
+                "🇧🇬 136 - BG - SS/AEAD - 990",
                 "🇭🇰 137 - HK - SS/AEAD - 990",
                 "🇨🇦 138 - CA - SS/AEAD - 990",
                 "🇫🇮 139 - FI - SS/AEAD - 990",
@@ -415,17 +419,9 @@
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
                 "🇺🇸 23 - US - Trojan/WS/TLS - 443",
+                "🇺🇸 24 - US - Trojan/WS/TLS - 443",
                 "🇺🇸 25 - US - Trojan/WS/TLS - 443",
                 "🇺🇸 26 - US - Trojan/WS/TLS - 443",
-                "🇯🇵 34 - JP - Trojan/TLS - 3057",
-                "🇯🇵 35 - JP - Trojan/TLS - 34818",
-                "🇯🇵 36 - JP - Trojan/TLS - 4674",
-                "🇯🇵 37 - JP - Trojan/TLS - 3057",
-                "🇯🇵 38 - JP - Trojan/TLS - 4674",
-                "🇯🇵 39 - JP - Trojan/TLS - 4937",
-                "🇯🇵 40 - JP - Trojan/TLS - 4937",
-                "🇯🇵 42 - JP - Trojan/TLS - 4937",
-                "🇯🇵 41 - JP - Trojan/TLS - 3057",
                 "🇺🇸 100 - US - Trojan/TLS - 443",
                 "🇺🇸 101 - US - Trojan/TLS - 443",
                 "🇺🇸 13 - US - VMess - 14102",
@@ -436,7 +432,6 @@
                 "🇭🇰 35 - HK - VMess/WS/TLS - 443",
                 "🇺🇸 42 - US - VMess/WS - 80",
                 "🇺🇸 68 - US - VMess/WS - 80",
-                "🇺🇸 99 - US - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
                 "🇨🇦 124 - CA - VMess/WS - 80",
                 "🇫🇷 136 - FR - VMess - 44030",
@@ -446,6 +441,7 @@
                 "🇭🇰 177 - HK - VMess/WS/TLS - 443",
                 "🇭🇰 178 - HK - VMess/WS/TLS - 443",
                 "🇭🇰 180 - HK - VMess/WS/TLS - 443",
+                "🇭🇰 179 - HK - VMess/WS/TLS - 443",
                 "direct"
             ]
         },
@@ -473,6 +469,7 @@
                 "🇺🇸 117 - US - VLESS/WS - 80",
                 "🇺🇸 118 - US - VLESS/WS - 80",
                 "🇺🇸 119 - US - VLESS/WS - 80",
+                "🇺🇸 120 - US - VLESS/WS - 80",
                 "🇺🇸 121 - US - VLESS/WS - 80",
                 "🇺🇸 122 - US - VLESS/WS - 80",
                 "🇺🇸 123 - US - VLESS/WS - 80",
@@ -496,7 +493,7 @@
                 "🇩🇪 268 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇩🇪 269 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇵🇱 275 - PL - VLESS/REALITY/PBK/SID/UTLS - 443",
-                "🇨🇾 278 - CY - VLESS/REALITY/PBK/UTLS - 8080",
+                "🇷🇺 277 - RU - VLESS/WS/TLS - 443",
                 "🇩🇪 287 - DE - VLESS/REALITY/PBK/SID/UTLS - 8443",
                 "🇩🇪 288 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇰🇷 302 - KR - VLESS/REALITY/PBK/SID/UTLS - 25380",
@@ -505,12 +502,15 @@
                 "🇧🇪 312 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇨🇭 314 - CH - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇫🇷 323 - FR - VLESS/WS - 80",
+                "🇺🇸 320 - US - VLESS/WS - 2052",
+                "🇺🇸 321 - US - VLESS/WS - 2052",
+                "🇫🇷 324 - FR - VLESS/WS - 80",
                 "🇳🇱 337 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇩🇪 347 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇩🇪 351 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇬🇧 354 - GB - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇳🇴 358 - NO - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
+                "🇺🇸 374 - US - VLESS/WS - 80",
                 "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇮 385 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇪🇪 388 - EE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -603,6 +603,7 @@
                 "🇺🇸 634 - US - VLESS/WS/TLS - 443",
                 "🇹🇭 655 - TH - VLESS/WS - 80",
                 "🇹🇭 656 - TH - VLESS/WS - 80",
+                "🇺🇸 670 - US - VLESS/WS - 80",
                 "🇳🇱 676 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
                 "🇺🇸 689 - US - VLESS/WS - 80",
                 "🇺🇸 690 - US - VLESS/REALITY/PBK/SID/UTLS - 10001",
@@ -626,8 +627,6 @@
                 "🇦🇺 28 - AU - SS/AEAD - 47386",
                 "🇦🇺 29 - AU - SS/AEAD - 47386",
                 "🇸🇬 25 - SG - SS/AEAD - 14453",
-                "🇦🇺 30 - AU - SS/AEAD - 47387",
-                "🇦🇺 31 - AU - SS/AEAD - 47387",
                 "🇦🇺 32 - AU - SS/AEAD - 47388",
                 "🇦🇺 33 - AU - SS/AEAD - 47388",
                 "🇨🇦 34 - CA - SS/AEAD - 46534",
@@ -687,6 +686,7 @@
                 "🇪🇨 133 - EC - SS/AEAD - 990",
                 "🇬🇹 134 - GT - SS/AEAD - 990",
                 "🇦🇷 135 - AR - SS/AEAD - 990",
+                "🇧🇬 136 - BG - SS/AEAD - 990",
                 "🇭🇰 137 - HK - SS/AEAD - 990",
                 "🇨🇦 138 - CA - SS/AEAD - 990",
                 "🇫🇮 139 - FI - SS/AEAD - 990",
@@ -770,17 +770,9 @@
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
                 "🇺🇸 23 - US - Trojan/WS/TLS - 443",
+                "🇺🇸 24 - US - Trojan/WS/TLS - 443",
                 "🇺🇸 25 - US - Trojan/WS/TLS - 443",
                 "🇺🇸 26 - US - Trojan/WS/TLS - 443",
-                "🇯🇵 34 - JP - Trojan/TLS - 3057",
-                "🇯🇵 35 - JP - Trojan/TLS - 34818",
-                "🇯🇵 36 - JP - Trojan/TLS - 4674",
-                "🇯🇵 37 - JP - Trojan/TLS - 3057",
-                "🇯🇵 38 - JP - Trojan/TLS - 4674",
-                "🇯🇵 39 - JP - Trojan/TLS - 4937",
-                "🇯🇵 40 - JP - Trojan/TLS - 4937",
-                "🇯🇵 42 - JP - Trojan/TLS - 4937",
-                "🇯🇵 41 - JP - Trojan/TLS - 3057",
                 "🇺🇸 100 - US - Trojan/TLS - 443",
                 "🇺🇸 101 - US - Trojan/TLS - 443",
                 "🇺🇸 13 - US - VMess - 14102",
@@ -791,7 +783,6 @@
                 "🇭🇰 35 - HK - VMess/WS/TLS - 443",
                 "🇺🇸 42 - US - VMess/WS - 80",
                 "🇺🇸 68 - US - VMess/WS - 80",
-                "🇺🇸 99 - US - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
                 "🇨🇦 124 - CA - VMess/WS - 80",
                 "🇫🇷 136 - FR - VMess - 44030",
@@ -800,7 +791,8 @@
                 "🇺🇸 162 - US - VMess/WS/TLS - 2053",
                 "🇭🇰 177 - HK - VMess/WS/TLS - 443",
                 "🇭🇰 178 - HK - VMess/WS/TLS - 443",
-                "🇭🇰 180 - HK - VMess/WS/TLS - 443"
+                "🇭🇰 180 - HK - VMess/WS/TLS - 443",
+                "🇭🇰 179 - HK - VMess/WS/TLS - 443"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
@@ -1115,6 +1107,24 @@
                 "path": "/XR8So0uqFVa3vY9ZbxgW4",
                 "headers": {
                     "Host": "dr.ae1autumn.dpdns.org"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 120 - US - VLESS/WS - 80",
+            "server": "188.114.96.3",
+            "server_port": 80,
+            "uuid": "13ad36e6-c091-43f2-8505-47d868dd544c",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/XR8So0uqFVa3vY9ZbxgW4",
+                "headers": {
+                    "Host": "ghju.apocalypse.cc.cd"
                 }
             }
         },
@@ -1590,25 +1600,30 @@
         },
         {
             "type": "vless",
-            "tag": "🇨🇾 278 - CY - VLESS/REALITY/PBK/UTLS - 8080",
-            "server": "144.31.130.242",
-            "server_port": 8080,
-            "uuid": "216e28b3-5950-4f89-916c-62bc50e092de",
+            "tag": "🇷🇺 277 - RU - VLESS/WS/TLS - 443",
+            "server": "mci.buzzmuzzpanel.online",
+            "server_port": 443,
+            "uuid": "20e295db-a6af-4006-bfd6-91453f169968",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "main.tortvpnbot.world",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8",
-                    "short_id": ""
-                },
+                "server_name": "057.ElecTRocElLco-Cf-057.wOrKeRs.dEv",
+                "insecure": false,
+                "alpn": [
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": ""
                 }
             },
-            "transport": {}
+            "transport": {
+                "type": "ws",
+                "path": "/eyJqdW5rIjoiSFM1N0lLQmx2UU1qRzlnTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "headers": {
+                    "Host": "057.electrocellco-cf-057.workers.dev"
+                }
+            }
         },
         {
             "type": "vless",
@@ -1791,8 +1806,44 @@
         },
         {
             "type": "vless",
-            "tag": "🇫🇷 323 - FR - VLESS/WS - 80",
-            "server": "152.228.162.19",
+            "tag": "🇺🇸 320 - US - VLESS/WS - 2052",
+            "server": "104.18.13.229",
+            "server_port": 2052,
+            "uuid": "25efc727-e853-49ba-9609-3c20009d0e7a",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "winbiss-0tpka6-v1.winbiss.workers.dev"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 321 - US - VLESS/WS - 2052",
+            "server": "104.18.13.229",
+            "server_port": 2052,
+            "uuid": "25efc727-e853-49ba-9609-3c20009d0e7a",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2560",
+                "headers": {
+                    "Host": "winbiss-0tpka6-v1.winbiss.workers.dev"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇫🇷 324 - FR - VLESS/WS - 80",
+            "server": "ov-france1.09vpn.com",
             "server_port": 80,
             "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
             "flow": "",
@@ -1803,7 +1854,7 @@
                 "type": "ws",
                 "path": "/vless/",
                 "headers": {
-                    "Host": "152.228.162.19"
+                    "Host": "ov-france1.09vpn.com"
                 }
             }
         },
@@ -1916,6 +1967,24 @@
                 }
             },
             "transport": {}
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 374 - US - VLESS/WS - 80",
+            "server": "104.24.45.247",
+            "server_port": 80,
+            "uuid": "2e71d8fc-d2e8-44fc-89bd-c8a449a193aa",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "odd-bread-435d.ahmadrezasteamacc.workers.dev"
+                }
+            }
         },
         {
             "type": "vless",
@@ -3846,6 +3915,24 @@
         },
         {
             "type": "vless",
+            "tag": "🇺🇸 670 - US - VLESS/WS - 80",
+            "server": "nmju.1jj.ccwu.cc",
+            "server_port": 80,
+            "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/hBasD7EdpBQ0zGAzsYHmsMrnO",
+                "headers": {
+                    "Host": "nmju.1jj.ccwu.cc"
+                }
+            }
+        },
+        {
+            "type": "vless",
             "tag": "🇳🇱 676 - NL - VLESS/REALITY/PBK/VISION/UTLS - 8446",
             "server": "185.112.59.4",
             "server_port": 8446,
@@ -4065,22 +4152,6 @@
             "server_port": 14453,
             "method": "chacha20-ietf-poly1305",
             "password": "764a4d8c1c76eb50"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇦🇺 30 - AU - SS/AEAD - 47387",
-            "server": "154.26.156.99",
-            "server_port": 47387,
-            "method": "chacha20-ietf-poly1305",
-            "password": "78322e4b934870b6"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇦🇺 31 - AU - SS/AEAD - 47387",
-            "server": "154.26.156.99",
-            "server_port": 47387,
-            "method": "chacha20-ietf-poly1305",
-            "password": "78322e4b934870b6"
         },
         {
             "type": "shadowsocks",
@@ -4550,6 +4621,14 @@
             "type": "shadowsocks",
             "tag": "🇦🇷 135 - AR - SS/AEAD - 990",
             "server": "190.103.176.32",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇧🇬 136 - BG - SS/AEAD - 990",
+            "server": "193.135.174.135",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
@@ -5238,6 +5317,32 @@
         },
         {
             "type": "trojan",
+            "tag": "🇺🇸 24 - US - Trojan/WS/TLS - 443",
+            "server": "hhju8.huangshang.site",
+            "server_port": 443,
+            "password": "c558328b-eb46-424c-b9e0-574770f0b072",
+            "tls": {
+                "enabled": true,
+                "server_name": "hhju8.huangshang.site",
+                "insecure": false,
+                "alpn": [
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": ""
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/ks4McWjhV7bXNC0BXGtJ",
+                "headers": {
+                    "Host": "hhju8.huangshang.site"
+                }
+            }
+        },
+        {
+            "type": "trojan",
             "tag": "🇺🇸 25 - US - Trojan/WS/TLS - 443",
             "server": "rft5.xx9.ccwu.cc",
             "server_port": 443,
@@ -5287,195 +5392,6 @@
                     "Host": "rft5.xx9.ccwu.cc"
                 }
             }
-        },
-        {
-            "type": "trojan",
-            "tag": "🇯🇵 34 - JP - Trojan/TLS - 3057",
-            "server": "153.121.45.139",
-            "server_port": 3057,
-            "password": "f389ed926e512e15f382dc3804029474",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.nintendogames.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇯🇵 35 - JP - Trojan/TLS - 34818",
-            "server": "153.121.45.139",
-            "server_port": 34818,
-            "password": "f389ed926e512e15f382dc3804029474",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.nintendogames.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇯🇵 36 - JP - Trojan/TLS - 4674",
-            "server": "153.121.45.139",
-            "server_port": 4674,
-            "password": "f389ed926e512e15f382dc3804029474",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.nintendogames.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇯🇵 37 - JP - Trojan/TLS - 3057",
-            "server": "160.16.106.99",
-            "server_port": 3057,
-            "password": "f389ed926e512e15f382dc3804029474",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.nintendogames.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇯🇵 38 - JP - Trojan/TLS - 4674",
-            "server": "160.16.106.99",
-            "server_port": 4674,
-            "password": "f389ed926e512e15f382dc3804029474",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.nintendogames.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇯🇵 39 - JP - Trojan/TLS - 4937",
-            "server": "160.16.106.99",
-            "server_port": 4937,
-            "password": "f389ed926e512e15f382dc3804029474",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.nintendogames.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇯🇵 40 - JP - Trojan/TLS - 4937",
-            "server": "160.16.106.99",
-            "server_port": 4937,
-            "password": "f389ed926e512e15f382dc3804029474",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.nintendogames.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇯🇵 42 - JP - Trojan/TLS - 4937",
-            "server": "160.16.85.33",
-            "server_port": 4937,
-            "password": "f389ed926e512e15f382dc3804029474",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.nintendogames.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇯🇵 41 - JP - Trojan/TLS - 3057",
-            "server": "160.16.72.205",
-            "server_port": 3057,
-            "password": "f389ed926e512e15f382dc3804029474",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.nintendogames.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
         },
         {
             "type": "trojan",
@@ -5691,25 +5607,6 @@
         },
         {
             "type": "vmess",
-            "tag": "🇺🇸 99 - US - VMess/WS - 80",
-            "server": "nmki.1yy.ccwu.cc",
-            "server_port": 80,
-            "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
-                "headers": {
-                    "Host": "nmki.1yy.ccwu.cc"
-                }
-            },
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
             "tag": "🇹🇷 115 - TR - VMess - 39651",
             "server": "45.89.52.207",
             "server_port": 39651,
@@ -5898,6 +5795,35 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": ""
+                }
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇭🇰 179 - HK - VMess/WS/TLS - 443",
+            "server": "n1761214907.74qxv.top",
+            "server_port": 443,
+            "uuid": "4c17399f-c93d-4527-8ace-5bdc2f0901f3",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "n1761214907.74qxv.top"
+                }
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "n1761214907.74qxv.top",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         }
