@@ -102,7 +102,6 @@
             "tag": "🌐 Anonymous Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
-                "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇩🇪 75 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇷🇺 79 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇷 102 - FR - VLESS/REALITY/PBK/SID/UTLS - 443",
@@ -144,14 +143,12 @@
                 "🇧🇪 312 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇨🇭 314 - CH - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇺🇸 320 - US - VLESS/WS - 2052",
-                "🇺🇸 321 - US - VLESS/WS - 2052",
                 "🇫🇷 323 - FR - VLESS/WS - 80",
+                "🇫🇷 324 - FR - VLESS/WS - 80",
                 "🇩🇪 347 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇩🇪 351 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇬🇧 354 - GB - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇳🇴 358 - NO - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
-                "🇺🇸 374 - US - VLESS/WS - 80",
                 "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇮 385 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇪🇪 388 - EE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -233,10 +230,6 @@
                 "🇫🇷 604 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 605 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 606 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇺🇸 631 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 632 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 633 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 634 - US - VLESS/WS/TLS - 443",
                 "🇹🇭 655 - TH - VLESS/WS - 80",
                 "🇹🇭 656 - TH - VLESS/WS - 80",
                 "🇺🇸 689 - US - VLESS/WS - 80",
@@ -289,7 +282,6 @@
                 "🇮🇳 71 - IN - SS/AEAD - 44235",
                 "🇮🇳 72 - IN - SS/AEAD - 44236",
                 "🇮🇳 73 - IN - SS/AEAD - 44236",
-                "🇦🇹 75 - AT - SS/AEAD - 19521",
                 "🇰🇷 76 - KR - SS/AEAD - 16672",
                 "🇮🇱 79 - IL - SS/AEAD - 46282",
                 "🇮🇱 80 - IL - SS/AEAD - 46282",
@@ -418,7 +410,7 @@
                 "🇨🇦 148 - CA - VMess/WS - 80",
                 "🇩🇪 149 - DE - VMess - 550",
                 "🇺🇸 162 - US - VMess/WS/TLS - 2053",
-                "🇭🇰 177 - HK - VMess/WS/TLS - 443",
+                "🇭🇰 178 - HK - VMess/WS/TLS - 443",
                 "🇭🇰 180 - HK - VMess/WS/TLS - 443",
                 "🇭🇰 179 - HK - VMess/WS/TLS - 443",
                 "direct"
@@ -432,7 +424,6 @@
             "type": "urltest",
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
-                "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇩🇪 75 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇷🇺 79 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇷 102 - FR - VLESS/REALITY/PBK/SID/UTLS - 443",
@@ -474,14 +465,12 @@
                 "🇧🇪 312 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇨🇭 314 - CH - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇺🇸 320 - US - VLESS/WS - 2052",
-                "🇺🇸 321 - US - VLESS/WS - 2052",
                 "🇫🇷 323 - FR - VLESS/WS - 80",
+                "🇫🇷 324 - FR - VLESS/WS - 80",
                 "🇩🇪 347 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇩🇪 351 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇬🇧 354 - GB - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇳🇴 358 - NO - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
-                "🇺🇸 374 - US - VLESS/WS - 80",
                 "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇮 385 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇪🇪 388 - EE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -563,10 +552,6 @@
                 "🇫🇷 604 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 605 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 606 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇺🇸 631 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 632 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 633 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 634 - US - VLESS/WS/TLS - 443",
                 "🇹🇭 655 - TH - VLESS/WS - 80",
                 "🇹🇭 656 - TH - VLESS/WS - 80",
                 "🇺🇸 689 - US - VLESS/WS - 80",
@@ -619,7 +604,6 @@
                 "🇮🇳 71 - IN - SS/AEAD - 44235",
                 "🇮🇳 72 - IN - SS/AEAD - 44236",
                 "🇮🇳 73 - IN - SS/AEAD - 44236",
-                "🇦🇹 75 - AT - SS/AEAD - 19521",
                 "🇰🇷 76 - KR - SS/AEAD - 16672",
                 "🇮🇱 79 - IL - SS/AEAD - 46282",
                 "🇮🇱 80 - IL - SS/AEAD - 46282",
@@ -748,35 +732,13 @@
                 "🇨🇦 148 - CA - VMess/WS - 80",
                 "🇩🇪 149 - DE - VMess - 550",
                 "🇺🇸 162 - US - VMess/WS/TLS - 2053",
-                "🇭🇰 177 - HK - VMess/WS/TLS - 443",
+                "🇭🇰 178 - HK - VMess/WS/TLS - 443",
                 "🇭🇰 180 - HK - VMess/WS/TLS - 443",
                 "🇭🇰 179 - HK - VMess/WS/TLS - 443"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
             "interval": "30s"
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-            "server": "47.253.226.114",
-            "server_port": 443,
-            "uuid": "055a1ce8-2a16-4a0d-a2c2-22826c9b2413",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cloudflare.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
         },
         {
             "type": "vless",
@@ -1607,42 +1569,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 320 - US - VLESS/WS - 2052",
-            "server": "104.18.13.229",
-            "server_port": 2052,
-            "uuid": "25efc727-e853-49ba-9609-3c20009d0e7a",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "winbiss-0tpka6-v1.winbiss.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 321 - US - VLESS/WS - 2052",
-            "server": "104.18.13.229",
-            "server_port": 2052,
-            "uuid": "25efc727-e853-49ba-9609-3c20009d0e7a",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "winbiss-0tpka6-v1.winbiss.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
             "tag": "🇫🇷 323 - FR - VLESS/WS - 80",
             "server": "152.228.162.19",
             "server_port": 80,
@@ -1656,6 +1582,24 @@
                 "path": "/vless/",
                 "headers": {
                     "Host": "152.228.162.19"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇫🇷 324 - FR - VLESS/WS - 80",
+            "server": "ov-france1.09vpn.com",
+            "server_port": 80,
+            "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/vless/",
+                "headers": {
+                    "Host": "ov-france1.09vpn.com"
                 }
             }
         },
@@ -1746,24 +1690,6 @@
                 }
             },
             "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 374 - US - VLESS/WS - 80",
-            "server": "104.24.45.247",
-            "server_port": 80,
-            "uuid": "2e71d8fc-d2e8-44fc-89bd-c8a449a193aa",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "odd-bread-435d.ahmadrezasteamacc.workers.dev"
-                }
-            }
         },
         {
             "type": "vless",
@@ -3448,114 +3374,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 631 - US - VLESS/WS/TLS - 443",
-            "server": "104.21.91.46",
-            "server_port": 443,
-            "uuid": "4cf1a3a0-7360-41ff-84ae-b621001e8376",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "Usa.cORreCtCOsETTe.WOrKeRS.DeV",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/R8BFTroQ00j1",
-                "headers": {
-                    "Host": "usa.correctcosette.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 632 - US - VLESS/WS/TLS - 443",
-            "server": "172.64.80.1",
-            "server_port": 443,
-            "uuid": "4cf1a3a0-7360-41ff-84ae-b621001e8376",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "Usa.cORreCtCOsETTe.WOrKeRS.DeV",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/R8BFTroQ00j1",
-                "headers": {
-                    "Host": "usa.correctcosette.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 633 - US - VLESS/WS/TLS - 443",
-            "server": "172.64.80.1",
-            "server_port": 443,
-            "uuid": "4cf1a3a0-7360-41ff-84ae-b621001e8376",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "Usa.cORreCtCOsETTe.WOrKeRS.DeV",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/R8BFTroQ00j1",
-                "headers": {
-                    "Host": "usa.correctcosette.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 634 - US - VLESS/WS/TLS - 443",
-            "server": "172.67.166.185",
-            "server_port": 443,
-            "uuid": "4cf1a3a0-7360-41ff-84ae-b621001e8376",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "Usa.cORreCtCOsETTe.WOrKeRS.DeV",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/R8BFTroQ00j1",
-                "headers": {
-                    "Host": "usa.correctcosette.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
             "tag": "🇹🇭 655 - TH - VLESS/WS - 80",
             "server": "168.222.16.102",
             "server_port": 80,
@@ -4013,14 +3831,6 @@
             "server_port": 44236,
             "method": "chacha20-ietf-poly1305",
             "password": "9d97433688e7efd5"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇦🇹 75 - AT - SS/AEAD - 19521",
-            "server": "77.110.116.135",
-            "server_port": 19521,
-            "method": "chacha20-ietf-poly1305",
-            "password": "071J2n0EGL4DCXVfpicD2l"
         },
         {
             "type": "shadowsocks",
@@ -5238,22 +5048,22 @@
         },
         {
             "type": "vmess",
-            "tag": "🇭🇰 177 - HK - VMess/WS/TLS - 443",
-            "server": "n1761296877.lie5d.cyou",
+            "tag": "🇭🇰 178 - HK - VMess/WS/TLS - 443",
+            "server": "n1761214904.wpg27.xyz",
             "server_port": 443,
-            "uuid": "1ebfdffa-1a37-4336-8494-f85b36cdf087",
+            "uuid": "7f6f64ae-3778-434c-adfc-95cb67ee8b73",
             "security": "auto",
             "alter_id": 0,
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "n1761296877.lie5d.cyou"
+                    "Host": "n1761214904.wpg27.xyz"
                 }
             },
             "tls": {
                 "enabled": true,
-                "server_name": "",
+                "server_name": "n1761214904.wpg27.xyz",
                 "insecure": false,
                 "alpn": [
                     "h2",
