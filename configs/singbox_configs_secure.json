@@ -351,6 +351,15 @@
                 "🇭🇰 34 - HK - VMess/WS/TLS - 443",
                 "🇨🇦 38 - CA - VMess/WS - 80",
                 "🇭🇰 35 - HK - VMess/WS/TLS - 443",
+                "🇺🇸 42 - US - VMess/WS - 80",
+                "🇺🇸 68 - US - VMess/WS - 80",
+                "🇺🇸 81 - US - VMess/WS - 80",
+                "🇺🇸 87 - US - VMess/WS - 80",
+                "🇺🇸 91 - US - VMess/WS - 80",
+                "🇺🇸 92 - US - VMess/WS - 80",
+                "🇺🇸 93 - US - VMess/WS - 80",
+                "🇺🇸 96 - US - VMess/WS - 80",
+                "🇺🇸 99 - US - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
                 "🇨🇦 124 - CA - VMess/WS - 80",
                 "🇫🇷 136 - FR - VMess - 44030",
@@ -621,6 +630,15 @@
                 "🇭🇰 34 - HK - VMess/WS/TLS - 443",
                 "🇨🇦 38 - CA - VMess/WS - 80",
                 "🇭🇰 35 - HK - VMess/WS/TLS - 443",
+                "🇺🇸 42 - US - VMess/WS - 80",
+                "🇺🇸 68 - US - VMess/WS - 80",
+                "🇺🇸 81 - US - VMess/WS - 80",
+                "🇺🇸 87 - US - VMess/WS - 80",
+                "🇺🇸 91 - US - VMess/WS - 80",
+                "🇺🇸 92 - US - VMess/WS - 80",
+                "🇺🇸 93 - US - VMess/WS - 80",
+                "🇺🇸 96 - US - VMess/WS - 80",
+                "🇺🇸 99 - US - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
                 "🇨🇦 124 - CA - VMess/WS - 80",
                 "🇫🇷 136 - FR - VMess - 44030",
@@ -3935,6 +3953,177 @@
                     "enabled": true,
                     "fingerprint": null
                 }
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 42 - US - VMess/WS - 80",
+            "server": "rgt.ae1autumn.dpdns.org",
+            "server_port": 80,
+            "uuid": "13ad36e6-c091-43f2-8505-47d868dd544c",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/YsmRouA9ZbxgW4",
+                "headers": {
+                    "Host": null
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 68 - US - VMess/WS - 80",
+            "server": "dfg.ae1autumn.cc.cd",
+            "server_port": 80,
+            "uuid": "13ad36e6-c091-43f2-8505-47d868dd544c",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/YsmRouA9ZbxgW4",
+                "headers": {
+                    "Host": null
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 81 - US - VMess/WS - 80",
+            "server": "bnhhy.1ll.ccwu.cc",
+            "server_port": 80,
+            "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
+                "headers": {
+                    "Host": null
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 87 - US - VMess/WS - 80",
+            "server": "bgn.1dd.ccwu.cc",
+            "server_port": 80,
+            "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
+                "headers": {
+                    "Host": "bgn.1dd.ccwu.cc"
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 91 - US - VMess/WS - 80",
+            "server": "yyynm.2nn.ccwu.cc",
+            "server_port": 80,
+            "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
+                "headers": {
+                    "Host": "yyynm.2nn.ccwu.cc"
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 92 - US - VMess/WS - 80",
+            "server": "nnmkl.2nn.ccwu.cc",
+            "server_port": 80,
+            "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
+                "headers": {
+                    "Host": "nnmkl.2nn.ccwu.cc"
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 93 - US - VMess/WS - 80",
+            "server": "bnhhy.1ll.ccwu.cc",
+            "server_port": 80,
+            "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
+                "headers": {
+                    "Host": "bnhhy.1ll.ccwu.cc"
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 96 - US - VMess/WS - 80",
+            "server": "bfbg.2nn.ccwu.cc",
+            "server_port": 80,
+            "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
+                "headers": {
+                    "Host": "bfbg.2nn.ccwu.cc"
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 99 - US - VMess/WS - 80",
+            "server": "nmki.1yy.ccwu.cc",
+            "server_port": 80,
+            "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
+                "headers": {
+                    "Host": "nmki.1yy.ccwu.cc"
+                }
+            },
+            "tls": {
+                "enabled": false
             }
         },
         {
