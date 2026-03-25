@@ -172,7 +172,6 @@
                 "🇫🇷 604 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 605 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 606 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇳🇱 613 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 7443",
                 "🇺🇸 631 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 632 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 633 - US - VLESS/WS/TLS - 443",
@@ -274,7 +273,6 @@
                 "🇵🇦 161 - PA - SS/AEAD - 990",
                 "🇲🇾 160 - MY - SS/AEAD - 990",
                 "🇵🇦 162 - PA - SS/AEAD - 990",
-                "🇹🇷 163 - TR - SS/AEAD - 60299",
                 "🇳🇱 167 - NL - SS/AEAD - 45356",
                 "🇭🇷 170 - HR - SS/AEAD - 36608",
                 "🇭🇷 171 - HR - SS/AEAD - 36608",
@@ -330,7 +328,6 @@
                 "🇬🇧 268 - GB - SS/AEAD - 8388",
                 "🇬🇧 269 - GB - SS/AEAD - 8388",
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
-                "🇨🇦 301 - CA - SS/AEAD - 443",
                 "🇺🇸 100 - US - Trojan/TLS - 443",
                 "🇺🇸 101 - US - Trojan/TLS - 443",
                 "🇺🇸 13 - US - VMess - 14102",
@@ -430,7 +427,6 @@
                 "🇫🇷 604 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 605 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 606 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇳🇱 613 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 7443",
                 "🇺🇸 631 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 632 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 633 - US - VLESS/WS/TLS - 443",
@@ -532,7 +528,6 @@
                 "🇵🇦 161 - PA - SS/AEAD - 990",
                 "🇲🇾 160 - MY - SS/AEAD - 990",
                 "🇵🇦 162 - PA - SS/AEAD - 990",
-                "🇹🇷 163 - TR - SS/AEAD - 60299",
                 "🇳🇱 167 - NL - SS/AEAD - 45356",
                 "🇭🇷 170 - HR - SS/AEAD - 36608",
                 "🇭🇷 171 - HR - SS/AEAD - 36608",
@@ -588,7 +583,6 @@
                 "🇬🇧 268 - GB - SS/AEAD - 8388",
                 "🇬🇧 269 - GB - SS/AEAD - 8388",
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
-                "🇨🇦 301 - CA - SS/AEAD - 443",
                 "🇺🇸 100 - US - Trojan/TLS - 443",
                 "🇺🇸 101 - US - Trojan/TLS - 443",
                 "🇺🇸 13 - US - VMess - 14102",
@@ -2168,28 +2162,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇳🇱 613 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 7443",
-            "server": "152.53.200.42",
-            "server_port": 7443,
-            "uuid": "4ab1088a-9f8a-4fcc-8805-8353a8b3cf44",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "chat.deepseek.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
-                    "short_id": "d82fb387"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇺🇸 631 - US - VLESS/WS/TLS - 443",
             "server": "104.21.91.46",
             "server_port": 443,
@@ -3088,14 +3060,6 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇹🇷 163 - TR - SS/AEAD - 60299",
-            "server": "203.202.232.78",
-            "server_port": 60299,
-            "method": "chacha20-ietf-poly1305",
-            "password": "AVLbEUEtBD59FsRqcNyEib"
-        },
-        {
-            "type": "shadowsocks",
             "tag": "🇳🇱 167 - NL - SS/AEAD - 45356",
             "server": "144.31.234.82",
             "server_port": 45356,
@@ -3533,14 +3497,6 @@
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇨🇦 301 - CA - SS/AEAD - 443",
-            "server": "149.22.95.183",
-            "server_port": 443,
-            "method": "aes-128-gcm",
-            "password": "shadowsocks"
         },
         {
             "type": "trojan",
