@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-25T04:31:31.037598+00:00",
+  "timestamp": "2026-03-25T06:38:25.067293+00:00",
   "channels": [
     {
       "url": "https://t.me/s/PrivateVPNs",
@@ -120,7 +120,7 @@
       "url": "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 1336,
+        "total_configs": 792,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -146,11 +146,11 @@
         "total_configs": 569,
         "valid_configs": 3,
         "unique_configs": 3,
-        "avg_response_time": 0.01,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.12,
-        "last_success": "2026-03-25T04:31:22.780726+00:00",
+        "overall_score": 74.96,
+        "last_success": "2026-03-25T06:38:16.332978+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 3,
@@ -169,11 +169,11 @@
         "total_configs": 1098,
         "valid_configs": 43,
         "unique_configs": 43,
-        "avg_response_time": 0.01,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.96,
-        "last_success": "2026-03-25T04:31:24.803582+00:00",
+        "overall_score": 75.76,
+        "last_success": "2026-03-25T06:38:18.493016+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 43,
@@ -238,11 +238,11 @@
         "total_configs": 1164,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.01,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.2,
-        "last_success": "2026-03-25T04:31:31.036853+00:00",
+        "overall_score": 75.03,
+        "last_success": "2026-03-25T06:38:25.066503+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 10,

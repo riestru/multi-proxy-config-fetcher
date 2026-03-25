@@ -273,6 +273,7 @@
                 "🇵🇦 161 - PA - SS/AEAD - 990",
                 "🇲🇾 160 - MY - SS/AEAD - 990",
                 "🇵🇦 162 - PA - SS/AEAD - 990",
+                "🇹🇷 163 - TR - SS/AEAD - 60299",
                 "🇳🇱 167 - NL - SS/AEAD - 45356",
                 "🇭🇷 170 - HR - SS/AEAD - 36608",
                 "🇭🇷 171 - HR - SS/AEAD - 36608",
@@ -328,6 +329,7 @@
                 "🇬🇧 268 - GB - SS/AEAD - 8388",
                 "🇬🇧 269 - GB - SS/AEAD - 8388",
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
+                "🇨🇦 301 - CA - SS/AEAD - 443",
                 "🇺🇸 100 - US - Trojan/TLS - 443",
                 "🇺🇸 101 - US - Trojan/TLS - 443",
                 "🇺🇸 13 - US - VMess - 14102",
@@ -344,7 +346,6 @@
                 "🇺🇸 162 - US - VMess/WS/TLS - 2053",
                 "🇭🇰 177 - HK - VMess/WS/TLS - 443",
                 "🇭🇰 178 - HK - VMess/WS/TLS - 443",
-                "🇭🇰 180 - HK - VMess/WS/TLS - 443",
                 "🇭🇰 179 - HK - VMess/WS/TLS - 443",
                 "direct"
             ]
@@ -528,6 +529,7 @@
                 "🇵🇦 161 - PA - SS/AEAD - 990",
                 "🇲🇾 160 - MY - SS/AEAD - 990",
                 "🇵🇦 162 - PA - SS/AEAD - 990",
+                "🇹🇷 163 - TR - SS/AEAD - 60299",
                 "🇳🇱 167 - NL - SS/AEAD - 45356",
                 "🇭🇷 170 - HR - SS/AEAD - 36608",
                 "🇭🇷 171 - HR - SS/AEAD - 36608",
@@ -583,6 +585,7 @@
                 "🇬🇧 268 - GB - SS/AEAD - 8388",
                 "🇬🇧 269 - GB - SS/AEAD - 8388",
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
+                "🇨🇦 301 - CA - SS/AEAD - 443",
                 "🇺🇸 100 - US - Trojan/TLS - 443",
                 "🇺🇸 101 - US - Trojan/TLS - 443",
                 "🇺🇸 13 - US - VMess - 14102",
@@ -599,7 +602,6 @@
                 "🇺🇸 162 - US - VMess/WS/TLS - 2053",
                 "🇭🇰 177 - HK - VMess/WS/TLS - 443",
                 "🇭🇰 178 - HK - VMess/WS/TLS - 443",
-                "🇭🇰 180 - HK - VMess/WS/TLS - 443",
                 "🇭🇰 179 - HK - VMess/WS/TLS - 443"
             ],
             "url": "https://www.gstatic.com/generate_204",
@@ -3060,6 +3062,14 @@
         },
         {
             "type": "shadowsocks",
+            "tag": "🇹🇷 163 - TR - SS/AEAD - 60299",
+            "server": "203.202.232.78",
+            "server_port": 60299,
+            "method": "chacha20-ietf-poly1305",
+            "password": "AVLbEUEtBD59FsRqcNyEib"
+        },
+        {
+            "type": "shadowsocks",
             "tag": "🇳🇱 167 - NL - SS/AEAD - 45356",
             "server": "144.31.234.82",
             "server_port": 45356,
@@ -3499,6 +3509,14 @@
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
+            "type": "shadowsocks",
+            "tag": "🇨🇦 301 - CA - SS/AEAD - 443",
+            "server": "149.22.95.183",
+            "server_port": 443,
+            "method": "aes-128-gcm",
+            "password": "shadowsocks"
+        },
+        {
             "type": "trojan",
             "tag": "🇺🇸 100 - US - Trojan/TLS - 443",
             "server": "8443.golden-cards.me",
@@ -3825,35 +3843,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "n1761214904.wpg27.xyz",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇭🇰 180 - HK - VMess/WS/TLS - 443",
-            "server": "n1761214915.mv7wh.tech",
-            "server_port": 443,
-            "uuid": "1f2daf43-ff90-4df9-9276-dfb8486d72bc",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "n1761214915.mv7wh.tech"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "n1761214915.mv7wh.tech",
                 "insecure": false,
                 "alpn": [
                     "h2",
