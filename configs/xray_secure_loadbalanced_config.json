@@ -3307,7 +3307,7 @@
       "settings": {
         "servers": [
           {
-            "address": "193.135.174.135",
+            "address": "203.23.128.92",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3325,7 +3325,7 @@
       "settings": {
         "servers": [
           {
-            "address": "203.23.128.92",
+            "address": "37.143.129.98",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3343,7 +3343,7 @@
       "settings": {
         "servers": [
           {
-            "address": "37.143.129.98",
+            "address": "37.235.56.69",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3361,7 +3361,7 @@
       "settings": {
         "servers": [
           {
-            "address": "37.235.56.69",
+            "address": "45.15.185.70",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3379,7 +3379,7 @@
       "settings": {
         "servers": [
           {
-            "address": "45.15.185.70",
+            "address": "45.82.252.109",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3397,7 +3397,7 @@
       "settings": {
         "servers": [
           {
-            "address": "45.82.252.109",
+            "address": "89.46.239.231",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3415,7 +3415,7 @@
       "settings": {
         "servers": [
           {
-            "address": "89.46.239.231",
+            "address": "38.54.59.107",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3433,7 +3433,7 @@
       "settings": {
         "servers": [
           {
-            "address": "38.54.59.107",
+            "address": "154.205.153.107",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3451,7 +3451,7 @@
       "settings": {
         "servers": [
           {
-            "address": "154.205.153.107",
+            "address": "91.148.135.31",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3469,7 +3469,7 @@
       "settings": {
         "servers": [
           {
-            "address": "91.148.135.31",
+            "address": "145.14.131.37",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3487,7 +3487,7 @@
       "settings": {
         "servers": [
           {
-            "address": "145.14.131.37",
+            "address": "154.205.146.153",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3505,7 +3505,7 @@
       "settings": {
         "servers": [
           {
-            "address": "154.205.146.153",
+            "address": "176.126.83.158",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3523,7 +3523,7 @@
       "settings": {
         "servers": [
           {
-            "address": "176.126.83.158",
+            "address": "171.22.254.129",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3541,7 +3541,7 @@
       "settings": {
         "servers": [
           {
-            "address": "171.22.254.129",
+            "address": "185.93.173.60",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3559,7 +3559,7 @@
       "settings": {
         "servers": [
           {
-            "address": "185.93.173.60",
+            "address": "38.54.107.101",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3577,7 +3577,7 @@
       "settings": {
         "servers": [
           {
-            "address": "38.54.107.101",
+            "address": "38.54.2.182",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3595,7 +3595,7 @@
       "settings": {
         "servers": [
           {
-            "address": "38.54.2.182",
+            "address": "38.54.4.87",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3613,7 +3613,7 @@
       "settings": {
         "servers": [
           {
-            "address": "38.54.4.87",
+            "address": "38.54.57.90",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3631,7 +3631,7 @@
       "settings": {
         "servers": [
           {
-            "address": "38.54.57.90",
+            "address": "38.54.59.107",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3649,7 +3649,7 @@
       "settings": {
         "servers": [
           {
-            "address": "38.54.59.107",
+            "address": "38.60.171.254",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3667,7 +3667,7 @@
       "settings": {
         "servers": [
           {
-            "address": "38.60.171.254",
+            "address": "138.186.142.80",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3685,7 +3685,7 @@
       "settings": {
         "servers": [
           {
-            "address": "138.186.142.80",
+            "address": "38.60.192.176",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3703,7 +3703,7 @@
       "settings": {
         "servers": [
           {
-            "address": "38.60.192.176",
+            "address": "138.186.142.81",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -3721,10 +3721,10 @@
       "settings": {
         "servers": [
           {
-            "address": "138.186.142.81",
-            "port": 990,
+            "address": "203.202.232.78",
+            "port": 60299,
             "method": "chacha20-ietf-poly1305",
-            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+            "password": "AVLbEUEtBD59FsRqcNyEib",
             "level": 8
           }
         ]
