@@ -124,8 +124,6 @@
                 "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇮 385 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇷🇴 389 - RO - VLESS/TLS/VISION - 443",
-                "🇺🇸 404 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 405 - US - VLESS/WS/TLS - 443",
                 "🇭🇰 436 - HK - VLESS/TLS - 8443",
                 "🇺🇸 443 - US - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇳🇱 501 - NL - VLESS/REALITY/PBK/SID/UTLS - 2280",
@@ -240,6 +238,7 @@
                 "🇪🇨 133 - EC - SS/AEAD - 990",
                 "🇬🇹 134 - GT - SS/AEAD - 990",
                 "🇦🇷 135 - AR - SS/AEAD - 990",
+                "🇧🇬 136 - BG - SS/AEAD - 990",
                 "🇭🇰 137 - HK - SS/AEAD - 990",
                 "🇫🇮 139 - FI - SS/AEAD - 990",
                 "🇦🇹 140 - AT - SS/AEAD - 990",
@@ -318,8 +317,6 @@
                 "🇺🇸 18 - US - VMess - 14102",
                 "🇭🇺 29 - HU - VMess/WS - 80",
                 "🇭🇰 35 - HK - VMess/WS/TLS - 443",
-                "🇺🇸 42 - US - VMess/WS - 80",
-                "🇺🇸 68 - US - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
                 "🇫🇷 136 - FR - VMess - 44030",
                 "🇩🇪 149 - DE - VMess - 550",
@@ -357,8 +354,6 @@
                 "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇮 385 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇷🇴 389 - RO - VLESS/TLS/VISION - 443",
-                "🇺🇸 404 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 405 - US - VLESS/WS/TLS - 443",
                 "🇭🇰 436 - HK - VLESS/TLS - 8443",
                 "🇺🇸 443 - US - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇳🇱 501 - NL - VLESS/REALITY/PBK/SID/UTLS - 2280",
@@ -473,6 +468,7 @@
                 "🇪🇨 133 - EC - SS/AEAD - 990",
                 "🇬🇹 134 - GT - SS/AEAD - 990",
                 "🇦🇷 135 - AR - SS/AEAD - 990",
+                "🇧🇬 136 - BG - SS/AEAD - 990",
                 "🇭🇰 137 - HK - SS/AEAD - 990",
                 "🇫🇮 139 - FI - SS/AEAD - 990",
                 "🇦🇹 140 - AT - SS/AEAD - 990",
@@ -551,8 +547,6 @@
                 "🇺🇸 18 - US - VMess - 14102",
                 "🇭🇺 29 - HU - VMess/WS - 80",
                 "🇭🇰 35 - HK - VMess/WS/TLS - 443",
-                "🇺🇸 42 - US - VMess/WS - 80",
-                "🇺🇸 68 - US - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
                 "🇫🇷 136 - FR - VMess - 44030",
                 "🇩🇪 149 - DE - VMess - 550",
@@ -1045,60 +1039,6 @@
                 }
             },
             "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 404 - US - VLESS/WS/TLS - 443",
-            "server": "002.inc-electrocell-001-002.workers.dev",
-            "server_port": 443,
-            "uuid": "36a857e4-f3d4-43aa-8b90-d7da849da989",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "002.Inc-ElectROcElL-001-002.WoRKERS.DEV",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "headers": {
-                    "Host": "002.inc-electrocell-001-002.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 405 - US - VLESS/WS/TLS - 443",
-            "server": "002.inc-electrocell-001-002.workers.dev",
-            "server_port": 443,
-            "uuid": "36a857e4-f3d4-43aa-8b90-d7da849da989",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "002.Inc-ElectROcElL-001-002.WoRKERS.DEV",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "headers": {
-                    "Host": "002.inc-electrocell-001-002.workers.dev"
-                }
-            }
         },
         {
             "type": "vless",
@@ -2615,6 +2555,14 @@
         },
         {
             "type": "shadowsocks",
+            "tag": "🇧🇬 136 - BG - SS/AEAD - 990",
+            "server": "193.135.174.135",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
             "tag": "🇭🇰 137 - HK - SS/AEAD - 990",
             "server": "203.23.128.92",
             "server_port": 990,
@@ -3303,44 +3251,6 @@
                     "enabled": true,
                     "fingerprint": null
                 }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 42 - US - VMess/WS - 80",
-            "server": "rgt.ae1autumn.dpdns.org",
-            "server_port": 80,
-            "uuid": "13ad36e6-c091-43f2-8505-47d868dd544c",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/YsmRouA9ZbxgW4",
-                "headers": {
-                    "Host": null
-                }
-            },
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 68 - US - VMess/WS - 80",
-            "server": "dfg.ae1autumn.cc.cd",
-            "server_port": 80,
-            "uuid": "13ad36e6-c091-43f2-8505-47d868dd544c",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/YsmRouA9ZbxgW4",
-                "headers": {
-                    "Host": null
-                }
-            },
-            "tls": {
-                "enabled": false
             }
         },
         {
