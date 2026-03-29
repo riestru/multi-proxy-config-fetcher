@@ -1,9 +1,5 @@
 {
-  "144.31.224.14": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "rb.xn--mes13n8pi8x2b.shop": [
+  "agt.xn--mes13n8pi8x2b.shop": [
     "🏳️",
     "Unknown"
   ],
@@ -11,15 +7,23 @@
     "🏳️",
     "Unknown"
   ],
-  "agt.xn--mes13n8pi8x2b.shop": [
+  "updates.kermanshahi.org": [
     "🏳️",
     "Unknown"
   ],
-  "mg.xn--mes13n8pi8x2b.shop": [
+  "206.71.158.37": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "tw.xn--mes13n8pi8x2b.shop": [
     "🏳️",
     "Unknown"
   ],
-  "2001:bc8:32d7:302::11": [
+  "rb.xn--mes13n8pi8x2b.shop": [
+    "🏳️",
+    "Unknown"
+  ],
+  "2a0c:4ac1:8::121": [
     "🏳️",
     "Unknown"
   ],
@@ -27,11 +31,11 @@
     "🇭🇰",
     "Hong Kong"
   ],
-  "2a14:3f87:f001:1a::a": [
-    "🏳️",
-    "Unknown"
+  "144.31.224.14": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
-  "updates.kermanshahi.org": [
+  "trq.xn--mes13n8pi8x2b.shop": [
     "🏳️",
     "Unknown"
   ],
@@ -39,17 +43,49 @@
     "🇩🇪",
     "Germany"
   ],
+  "198.23.130.211": [
+    "🇺🇸",
+    "United States of America"
+  ],
   "206.71.158.40": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
-  "208.87.243.187": [
+  "2a14:3f87:f001:1a::a": [
+    "🏳️",
+    "Unknown"
+  ],
+  "62.210.124.146": [
+    "🇫🇷",
+    "France"
+  ],
+  "yapc-1.adamhayward.co.uk": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "107.173.127.166": [
     "🇺🇸",
     "United States of America"
   ],
   "drhystuichdfy.samanidempire.org": [
     "🇸🇪",
     "Sweden"
+  ],
+  "2001:bc8:32d7:302::11": [
+    "🏳️",
+    "Unknown"
+  ],
+  "208.87.243.187": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "206.71.158.41": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "130.61.50.75": [
+    "🇩🇪",
+    "Germany"
   ],
   "77.90.41.197": [
     "🇩🇪",
@@ -59,44 +95,8 @@
     "🏳️",
     "Unknown"
   ],
-  "107.173.127.166": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "tw.xn--mes13n8pi8x2b.shop": [
+  "mg.xn--mes13n8pi8x2b.shop": [
     "🏳️",
     "Unknown"
-  ],
-  "198.23.130.211": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "206.71.158.41": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "62.210.124.146": [
-    "🇫🇷",
-    "France"
-  ],
-  "206.71.158.37": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "yapc-1.adamhayward.co.uk": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "trq.xn--mes13n8pi8x2b.shop": [
-    "🏳️",
-    "Unknown"
-  ],
-  "2a0c:4ac1:8::121": [
-    "🏳️",
-    "Unknown"
-  ],
-  "130.61.50.75": [
-    "🇩🇪",
-    "Germany"
   ]
 }
