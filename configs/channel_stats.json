@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T06:47:49.991836+00:00",
+  "timestamp": "2026-03-31T09:39:14.348110+00:00",
   "channels": [
     {
       "url": "https://t.me/s/PrivateVPNs",
@@ -51,7 +51,7 @@
       "url": "https://t.me/s/persianvpnhub",
       "enabled": false,
       "metrics": {
-        "total_configs": 4,
+        "total_configs": 2,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,7 +120,7 @@
       "url": "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 317,
+        "total_configs": 597,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -146,11 +146,11 @@
         "total_configs": 679,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.01,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.21,
-        "last_success": "2026-03-31T06:47:41.679483+00:00",
+        "overall_score": 75.17,
+        "last_success": "2026-03-31T09:39:06.049738+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 6,
@@ -173,7 +173,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.96,
-        "last_success": "2026-03-31T06:47:43.701649+00:00",
+        "last_success": "2026-03-31T09:39:08.075627+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 43,
@@ -238,11 +238,11 @@
         "total_configs": 1164,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.14,
-        "last_success": "2026-03-31T06:47:49.990927+00:00",
+        "overall_score": 75.16,
+        "last_success": "2026-03-31T09:39:14.347348+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 10,

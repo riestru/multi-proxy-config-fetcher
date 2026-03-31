@@ -116,7 +116,6 @@
                 "🇩🇪 269 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇵🇱 275 - PL - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇷🇺 277 - RU - VLESS/WS/TLS - 443",
-                "🇩🇪 288 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇧🇪 311 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇧🇪 312 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -260,6 +259,7 @@
                 "🇲🇾 182 - MY - SS/AEAD - 51348",
                 "🇲🇾 183 - MY - SS/AEAD - 51348",
                 "🇬🇧 190 - GB - SS/AEAD - 443",
+                "🇮🇹 186 - IT - SS/AEAD - 443",
                 "🇬🇧 191 - GB - SS/AEAD - 443",
                 "🇬🇧 192 - GB - SS/AEAD - 443",
                 "🇬🇧 193 - GB - SS/AEAD - 443",
@@ -302,8 +302,6 @@
                 "🇳🇱 267 - NL - SS/AEAD - 8080",
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
-                "🇺🇸 100 - US - Trojan/TLS - 443",
-                "🇺🇸 101 - US - Trojan/TLS - 443",
                 "🇺🇸 13 - US - VMess - 14102",
                 "🇺🇸 18 - US - VMess - 14102",
                 "🇭🇺 29 - HU - VMess/WS - 80",
@@ -337,7 +335,6 @@
                 "🇩🇪 269 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇵🇱 275 - PL - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇷🇺 277 - RU - VLESS/WS/TLS - 443",
-                "🇩🇪 288 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇧🇪 311 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇧🇪 312 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -481,6 +478,7 @@
                 "🇲🇾 182 - MY - SS/AEAD - 51348",
                 "🇲🇾 183 - MY - SS/AEAD - 51348",
                 "🇬🇧 190 - GB - SS/AEAD - 443",
+                "🇮🇹 186 - IT - SS/AEAD - 443",
                 "🇬🇧 191 - GB - SS/AEAD - 443",
                 "🇬🇧 192 - GB - SS/AEAD - 443",
                 "🇬🇧 193 - GB - SS/AEAD - 443",
@@ -523,8 +521,6 @@
                 "🇳🇱 267 - NL - SS/AEAD - 8080",
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
-                "🇺🇸 100 - US - Trojan/TLS - 443",
-                "🇺🇸 101 - US - Trojan/TLS - 443",
                 "🇺🇸 13 - US - VMess - 14102",
                 "🇺🇸 18 - US - VMess - 14102",
                 "🇭🇺 29 - HU - VMess/WS - 80",
@@ -850,28 +846,6 @@
                     "Host": "057.electrocellco-cf-057.workers.dev"
                 }
             }
-        },
-        {
-            "type": "vless",
-            "tag": "🇩🇪 288 - DE - VLESS/REALITY/PBK/SID/UTLS - 443",
-            "server": "185.125.103.147",
-            "server_port": 443,
-            "uuid": "21915536-afb5-4a0c-b047-fcf549d3a173",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "wikihow.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ",
-                    "short_id": "8bd29483ded126b4"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
         },
         {
             "type": "vless",
@@ -2846,6 +2820,14 @@
         },
         {
             "type": "shadowsocks",
+            "tag": "🇮🇹 186 - IT - SS/AEAD - 443",
+            "server": "38.180.195.193",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "SwTShXYSQd404FISs8NFeJ"
+        },
+        {
+            "type": "shadowsocks",
             "tag": "🇬🇧 191 - GB - SS/AEAD - 443",
             "server": "series-a1.samanehha.co",
             "server_port": 443,
@@ -3179,48 +3161,6 @@
             "server_port": 443,
             "method": "aes-128-gcm",
             "password": "shadowsocks"
-        },
-        {
-            "type": "trojan",
-            "tag": "🇺🇸 100 - US - Trojan/TLS - 443",
-            "server": "8443.golden-cards.me",
-            "server_port": 443,
-            "password": "q2GRUM1-odJBWq_KV6xv2fuNvu8ed-",
-            "tls": {
-                "enabled": true,
-                "server_name": "8443.golden-cards.me",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇺🇸 101 - US - Trojan/TLS - 443",
-            "server": "8443.golden-cards.me",
-            "server_port": 443,
-            "password": "q2GRUM1-odJBWq_KV6xv2fuNvu8ed-",
-            "tls": {
-                "enabled": true,
-                "server_name": "8443.golden-cards.me",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
         },
         {
             "type": "vmess",
