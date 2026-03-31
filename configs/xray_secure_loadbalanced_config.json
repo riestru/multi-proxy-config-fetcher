@@ -263,12 +263,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "47.251.25.74",
-            "port": 443,
+            "address": "5.182.38.91",
+            "port": 17267,
             "users": [
               {
-                "id": "18805ff3-b420-45de-af18-93be14024ae8",
-                "flow": "xtls-rprx-vision",
+                "id": "1c7fcc38-e6be-43c5-875f-b8de2516b9f2",
+                "flow": "",
                 "encryption": "none",
                 "level": 8
               }
@@ -280,7 +280,7 @@
         "network": "tcp",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "www.amazon.com",
+          "serverName": "yahoo.com",
           "allowInsecure": false,
           "fingerprint": "chrome"
         }
@@ -321,11 +321,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "5.182.38.91",
-            "port": 17267,
+            "address": "152.53.116.71",
+            "port": 443,
             "users": [
               {
-                "id": "1c7fcc38-e6be-43c5-875f-b8de2516b9f2",
+                "id": "1e878456-0f00-4a85-99a6-1d69bdc62e3d",
                 "flow": "",
                 "encryption": "none",
                 "level": 8
@@ -379,35 +379,6 @@
       "settings": {
         "vnext": [
           {
-            "address": "152.53.116.71",
-            "port": 443,
-            "users": [
-              {
-                "id": "1e878456-0f00-4a85-99a6-1d69bdc62e3d",
-                "flow": "",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "yahoo.com",
-          "allowInsecure": false,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "proxy-13",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
             "address": "45.136.126.16",
             "port": 443,
             "users": [
@@ -432,7 +403,7 @@
       }
     },
     {
-      "tag": "proxy-14",
+      "tag": "proxy-13",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -465,6 +436,35 @@
           "alpn": [
             "http/1.1"
           ]
+        }
+      }
+    },
+    {
+      "tag": "proxy-14",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "185.125.103.147",
+            "port": 443,
+            "users": [
+              {
+                "id": "21915536-afb5-4a0c-b047-fcf549d3a173",
+                "flow": "",
+                "encryption": "none",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "wikihow.com",
+          "allowInsecure": false,
+          "fingerprint": "chrome"
         }
       }
     },
