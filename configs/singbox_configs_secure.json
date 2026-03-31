@@ -200,8 +200,6 @@
                 "🇸🇬 39 - SG - SS/AEAD - 48804",
                 "🇩🇪 41 - DE - SS/AEAD - 20939",
                 "🇬🇷 53 - GR - SS/AEAD - 11201",
-                "🇧🇷 54 - BR - SS/AEAD - 18424",
-                "🇧🇷 55 - BR - SS/AEAD - 18424",
                 "🇩🇪 62 - DE - SS/AEAD - 11201",
                 "🇩🇪 63 - DE - SS/AEAD - 11201",
                 "🇩🇪 64 - DE - SS/AEAD - 41237",
@@ -223,8 +221,6 @@
                 "🇬🇧 107 - GB - SS/AEAD - 443",
                 "🇬🇧 110 - GB - SS/AEAD - 55988",
                 "🇩🇪 114 - DE - SS/AEAD - 42681",
-                "🇲🇽 120 - MX - SS/AEAD - 11201",
-                "🇲🇽 121 - MX - SS/AEAD - 11201",
                 "🇧🇬 126 - BG - SS/AEAD - 31348",
                 "🇧🇭 127 - BH - SS/AEAD - 990",
                 "🇮🇩 128 - ID - SS/AEAD - 990",
@@ -310,6 +306,8 @@
                 "🇺🇸 101 - US - Trojan/TLS - 443",
                 "🇺🇸 13 - US - VMess - 14102",
                 "🇺🇸 18 - US - VMess - 14102",
+                "🇺🇸 42 - US - VMess/WS - 80",
+                "🇺🇸 68 - US - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
                 "🇫🇷 136 - FR - VMess - 44030",
                 "🇩🇪 149 - DE - VMess - 550",
@@ -423,8 +421,6 @@
                 "🇸🇬 39 - SG - SS/AEAD - 48804",
                 "🇩🇪 41 - DE - SS/AEAD - 20939",
                 "🇬🇷 53 - GR - SS/AEAD - 11201",
-                "🇧🇷 54 - BR - SS/AEAD - 18424",
-                "🇧🇷 55 - BR - SS/AEAD - 18424",
                 "🇩🇪 62 - DE - SS/AEAD - 11201",
                 "🇩🇪 63 - DE - SS/AEAD - 11201",
                 "🇩🇪 64 - DE - SS/AEAD - 41237",
@@ -446,8 +442,6 @@
                 "🇬🇧 107 - GB - SS/AEAD - 443",
                 "🇬🇧 110 - GB - SS/AEAD - 55988",
                 "🇩🇪 114 - DE - SS/AEAD - 42681",
-                "🇲🇽 120 - MX - SS/AEAD - 11201",
-                "🇲🇽 121 - MX - SS/AEAD - 11201",
                 "🇧🇬 126 - BG - SS/AEAD - 31348",
                 "🇧🇭 127 - BH - SS/AEAD - 990",
                 "🇮🇩 128 - ID - SS/AEAD - 990",
@@ -533,6 +527,8 @@
                 "🇺🇸 101 - US - Trojan/TLS - 443",
                 "🇺🇸 13 - US - VMess - 14102",
                 "🇺🇸 18 - US - VMess - 14102",
+                "🇺🇸 42 - US - VMess/WS - 80",
+                "🇺🇸 68 - US - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
                 "🇫🇷 136 - FR - VMess - 44030",
                 "🇩🇪 149 - DE - VMess - 550",
@@ -2356,22 +2352,6 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇧🇷 54 - BR - SS/AEAD - 18424",
-            "server": "157.185.173.60",
-            "server_port": 18424,
-            "method": "chacha20-ietf-poly1305",
-            "password": "97fe6b07cbfaf7e7"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇧🇷 55 - BR - SS/AEAD - 18424",
-            "server": "157.185.173.60",
-            "server_port": 18424,
-            "method": "chacha20-ietf-poly1305",
-            "password": "97fe6b07cbfaf7e7"
-        },
-        {
-            "type": "shadowsocks",
             "tag": "🇩🇪 62 - DE - SS/AEAD - 11201",
             "server": "141.95.106.127",
             "server_port": 11201,
@@ -2537,22 +2517,6 @@
             "server_port": 42681,
             "method": "chacha20-ietf-poly1305",
             "password": "33e1f4f6e369d673"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇲🇽 120 - MX - SS/AEAD - 11201",
-            "server": "154.205.152.64",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "315eb3e160cf2432"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇲🇽 121 - MX - SS/AEAD - 11201",
-            "server": "154.205.152.64",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "315eb3e160cf2432"
         },
         {
             "type": "shadowsocks",
@@ -3266,6 +3230,44 @@
             "security": "auto",
             "alter_id": 0,
             "transport": {},
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 42 - US - VMess/WS - 80",
+            "server": "rgt.ae1autumn.dpdns.org",
+            "server_port": 80,
+            "uuid": "13ad36e6-c091-43f2-8505-47d868dd544c",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/YsmRouA9ZbxgW4",
+                "headers": {
+                    "Host": null
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 68 - US - VMess/WS - 80",
+            "server": "dfg.ae1autumn.cc.cd",
+            "server_port": 80,
+            "uuid": "13ad36e6-c091-43f2-8505-47d868dd544c",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/YsmRouA9ZbxgW4",
+                "headers": {
+                    "Host": null
+                }
+            },
             "tls": {
                 "enabled": false
             }
