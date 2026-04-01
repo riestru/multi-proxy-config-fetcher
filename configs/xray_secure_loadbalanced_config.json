@@ -4499,11 +4499,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "rgt.ae1autumn.dpdns.org",
+            "address": "45.12.132.183",
             "port": 80,
             "users": [
               {
-                "id": "13ad36e6-c091-43f2-8505-47d868dd544c",
+                "id": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
                 "alterId": 0,
                 "security": "auto",
                 "level": 8
@@ -4516,9 +4516,9 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/YsmRouA9ZbxgW4",
+          "path": "/vmess/",
           "headers": {
-            "Host": null
+            "Host": "45.12.132.183"
           }
         }
       }
@@ -4529,7 +4529,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "dfg.ae1autumn.cc.cd",
+            "address": "rgt.ae1autumn.dpdns.org",
             "port": 80,
             "users": [
               {
@@ -4559,6 +4559,36 @@
       "settings": {
         "vnext": [
           {
+            "address": "dfg.ae1autumn.cc.cd",
+            "port": 80,
+            "users": [
+              {
+                "id": "13ad36e6-c091-43f2-8505-47d868dd544c",
+                "alterId": 0,
+                "security": "auto",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "none",
+        "wsSettings": {
+          "path": "/YsmRouA9ZbxgW4",
+          "headers": {
+            "Host": null
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-208",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
             "address": "45.89.52.207",
             "port": 39651,
             "users": [
@@ -4578,7 +4608,7 @@
       }
     },
     {
-      "tag": "proxy-208",
+      "tag": "proxy-209",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -4602,7 +4632,7 @@
       }
     },
     {
-      "tag": "proxy-209",
+      "tag": "proxy-210",
       "protocol": "vmess",
       "settings": {
         "vnext": [
