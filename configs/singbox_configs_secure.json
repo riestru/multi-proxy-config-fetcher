@@ -120,8 +120,6 @@
                 "🇳🇴 358 - NO - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
                 "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇮 385 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇺🇸 404 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 405 - US - VLESS/WS/TLS - 443",
                 "🇭🇰 436 - HK - VLESS/TLS - 8443",
                 "🇺🇸 443 - US - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇩🇪 509 - DE - VLESS/TLS/VISION - 443",
@@ -257,7 +255,6 @@
                 "🇲🇾 182 - MY - SS/AEAD - 51348",
                 "🇲🇾 183 - MY - SS/AEAD - 51348",
                 "🇬🇧 190 - GB - SS/AEAD - 443",
-                "🇮🇹 186 - IT - SS/AEAD - 443",
                 "🇬🇧 191 - GB - SS/AEAD - 443",
                 "🇬🇧 192 - GB - SS/AEAD - 443",
                 "🇬🇧 193 - GB - SS/AEAD - 443",
@@ -335,8 +332,6 @@
                 "🇳🇴 358 - NO - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
                 "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇮 385 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-                "🇺🇸 404 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 405 - US - VLESS/WS/TLS - 443",
                 "🇭🇰 436 - HK - VLESS/TLS - 8443",
                 "🇺🇸 443 - US - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇩🇪 509 - DE - VLESS/TLS/VISION - 443",
@@ -472,7 +467,6 @@
                 "🇲🇾 182 - MY - SS/AEAD - 51348",
                 "🇲🇾 183 - MY - SS/AEAD - 51348",
                 "🇬🇧 190 - GB - SS/AEAD - 443",
-                "🇮🇹 186 - IT - SS/AEAD - 443",
                 "🇬🇧 191 - GB - SS/AEAD - 443",
                 "🇬🇧 192 - GB - SS/AEAD - 443",
                 "🇬🇧 193 - GB - SS/AEAD - 443",
@@ -921,60 +915,6 @@
                 }
             },
             "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 404 - US - VLESS/WS/TLS - 443",
-            "server": "002.inc-electrocell-001-002.workers.dev",
-            "server_port": 443,
-            "uuid": "36a857e4-f3d4-43aa-8b90-d7da849da989",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "002.Inc-ElectROcElL-001-002.WoRKERS.DEV",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "headers": {
-                    "Host": "002.inc-electrocell-001-002.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 405 - US - VLESS/WS/TLS - 443",
-            "server": "002.inc-electrocell-001-002.workers.dev",
-            "server_port": 443,
-            "uuid": "36a857e4-f3d4-43aa-8b90-d7da849da989",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "002.Inc-ElectROcElL-001-002.WoRKERS.DEV",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "headers": {
-                    "Host": "002.inc-electrocell-001-002.workers.dev"
-                }
-            }
         },
         {
             "type": "vless",
@@ -2642,14 +2582,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "W74XFALLLuw6m5IA"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇮🇹 186 - IT - SS/AEAD - 443",
-            "server": "38.180.195.193",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "SwTShXYSQd404FISs8NFeJ"
         },
         {
             "type": "shadowsocks",
