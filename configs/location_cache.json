@@ -1,16 +1,4 @@
 {
-  "trq.xn--mes13n8pi8x2b.shop": [
-    "🏳️",
-    "Unknown"
-  ],
-  "2a14:3f87:f001:13::a": [
-    "🏳️",
-    "Unknown"
-  ],
-  "mg.xn--mes13n8pi8x2b.shop": [
-    "🏳️",
-    "Unknown"
-  ],
   "206.71.158.37": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
@@ -19,67 +7,35 @@
     "🏳️",
     "Unknown"
   ],
-  "107.173.127.166": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "62.210.124.146": [
-    "🇫🇷",
-    "France"
-  ],
-  "135.125.204.154": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "agt.xn--mes13n8pi8x2b.shop": [
-    "🏳️",
-    "Unknown"
-  ],
-  "updates.kermanshahi.org": [
-    "🏳️",
-    "Unknown"
-  ],
-  "2a14:3f87:f001:1a::a": [
-    "🏳️",
-    "Unknown"
-  ],
-  "216.236.26.19": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "144.31.224.14": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "130.61.50.75": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "hk1.shiyuandian.shop": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "rb.xn--mes13n8pi8x2b.shop": [
-    "🏳️",
-    "Unknown"
-  ],
-  "2001:bc8:32d7:302::11": [
-    "🏳️",
-    "Unknown"
-  ],
-  "tw.xn--mes13n8pi8x2b.shop": [
-    "🏳️",
-    "Unknown"
-  ],
-  "drhystuichdfy.samanidempire.org": [
-    "🇸🇪",
-    "Sweden"
-  ],
   "206.71.158.41": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
   "208.87.243.187": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "216.236.26.19": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "77.90.41.197": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "206.71.158.40": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "hk1.shiyuandian.shop": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "107.173.127.166": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "198.23.130.211": [
     "🇺🇸",
     "United States of America"
   ],
@@ -91,16 +47,60 @@
     "🇩🇪",
     "Germany"
   ],
-  "77.90.41.197": [
+  "2a14:3f87:f001:13::a": [
+    "🏳️",
+    "Unknown"
+  ],
+  "2001:bc8:32d7:302::11": [
+    "🏳️",
+    "Unknown"
+  ],
+  "mg.xn--mes13n8pi8x2b.shop": [
+    "🏳️",
+    "Unknown"
+  ],
+  "trq.xn--mes13n8pi8x2b.shop": [
+    "🏳️",
+    "Unknown"
+  ],
+  "tw.xn--mes13n8pi8x2b.shop": [
+    "🏳️",
+    "Unknown"
+  ],
+  "drhystuichdfy.samanidempire.org": [
+    "🇸🇪",
+    "Sweden"
+  ],
+  "135.125.204.154": [
     "🇩🇪",
     "Germany"
   ],
-  "198.23.130.211": [
-    "🇺🇸",
-    "United States of America"
+  "62.210.124.146": [
+    "🇫🇷",
+    "France"
   ],
-  "206.71.158.40": [
+  "rb.xn--mes13n8pi8x2b.shop": [
+    "🏳️",
+    "Unknown"
+  ],
+  "2a14:3f87:f001:1a::a": [
+    "🏳️",
+    "Unknown"
+  ],
+  "updates.kermanshahi.org": [
+    "🏳️",
+    "Unknown"
+  ],
+  "130.61.50.75": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "144.31.224.14": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
+  ],
+  "agt.xn--mes13n8pi8x2b.shop": [
+    "🏳️",
+    "Unknown"
   ]
 }
