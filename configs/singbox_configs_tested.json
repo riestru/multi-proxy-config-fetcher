@@ -120,8 +120,7 @@
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 320 - US - VLESS/WS - 2052",
                 "🇺🇸 321 - US - VLESS/WS - 2052",
-                "🇫🇷 322 - FR - VLESS/WS - 80",
-                "🇫🇷 324 - FR - VLESS/WS - 80",
+                "🇫🇷 323 - FR - VLESS/WS - 80",
                 "🇬🇧 354 - GB - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇳🇴 358 - NO - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
                 "🇺🇸 374 - US - VLESS/WS - 80",
@@ -161,7 +160,6 @@
                 "🇺🇸 565 - US - VLESS/WS - 80",
                 "🇺🇸 566 - US - VLESS/WS - 80",
                 "🇺🇸 567 - US - VLESS/WS - 80",
-                "🇮🇳 570 - IN - VLESS/REALITY/PBK/VISION/UTLS - 24725",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 573 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -371,8 +369,7 @@
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 320 - US - VLESS/WS - 2052",
                 "🇺🇸 321 - US - VLESS/WS - 2052",
-                "🇫🇷 322 - FR - VLESS/WS - 80",
-                "🇫🇷 324 - FR - VLESS/WS - 80",
+                "🇫🇷 323 - FR - VLESS/WS - 80",
                 "🇬🇧 354 - GB - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇳🇴 358 - NO - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
                 "🇺🇸 374 - US - VLESS/WS - 80",
@@ -412,7 +409,6 @@
                 "🇺🇸 565 - US - VLESS/WS - 80",
                 "🇺🇸 566 - US - VLESS/WS - 80",
                 "🇺🇸 567 - US - VLESS/WS - 80",
-                "🇮🇳 570 - IN - VLESS/REALITY/PBK/VISION/UTLS - 24725",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 573 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -989,7 +985,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇫🇷 322 - FR - VLESS/WS - 80",
+            "tag": "🇫🇷 323 - FR - VLESS/WS - 80",
             "server": "152.228.162.19",
             "server_port": 80,
             "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
@@ -1001,25 +997,7 @@
                 "type": "ws",
                 "path": "/vless/",
                 "headers": {
-                    "Host": "Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇫🇷 324 - FR - VLESS/WS - 80",
-            "server": "ov-france1.09vpn.com",
-            "server_port": 80,
-            "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/vless/",
-                "headers": {
-                    "Host": "ov-france1.09vpn.com"
+                    "Host": "152.228.162.19"
                 }
             }
         },
@@ -1769,28 +1747,6 @@
                     "Host": "tt.andishehparenting.com"
                 }
             }
-        },
-        {
-            "type": "vless",
-            "tag": "🇮🇳 570 - IN - VLESS/REALITY/PBK/VISION/UTLS - 24725",
-            "server": "139.59.3.70",
-            "server_port": 24725,
-            "uuid": "48ddd7e3-5d31-46ab-9153-16c0e4d92adc",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "dash.cloudflare.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "PAAYOscWvc6-DIWjJ8cHWpgX-xkMUVmu8Nz24itmo34",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
         },
         {
             "type": "vless",
