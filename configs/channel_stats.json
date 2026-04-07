@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T15:56:52.337878+00:00",
+  "timestamp": "2026-04-07T18:13:29.099504+00:00",
   "channels": [
     {
       "url": "https://t.me/s/PrivateVPNs",
@@ -51,7 +51,7 @@
       "url": "https://t.me/s/persianvpnhub",
       "enabled": false,
       "metrics": {
-        "total_configs": 7,
+        "total_configs": 8,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,7 +120,7 @@
       "url": "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 336,
+        "total_configs": 410,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -146,11 +146,11 @@
         "total_configs": 673,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.98,
-        "last_success": "2026-04-07T15:56:43.725540+00:00",
+        "overall_score": 74.96,
+        "last_success": "2026-04-07T18:13:20.244166+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 5,
@@ -169,11 +169,11 @@
         "total_configs": 1098,
         "valid_configs": 43,
         "unique_configs": 43,
-        "avg_response_time": 0.01,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.97,
-        "last_success": "2026-04-07T15:56:45.742951+00:00",
+        "overall_score": 75.72,
+        "last_success": "2026-04-07T18:13:22.429402+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 43,
@@ -241,8 +241,8 @@
         "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.01,
-        "last_success": "2026-04-07T15:56:52.337040+00:00",
+        "overall_score": 75.0,
+        "last_success": "2026-04-07T18:13:29.098811+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 10,
