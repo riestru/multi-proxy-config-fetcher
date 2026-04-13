@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T05:25:43.293603+00:00",
+  "timestamp": "2026-04-13T07:25:29.685173+00:00",
   "channels": [
     {
       "url": "https://t.me/s/PrivateVPNs",
@@ -120,7 +120,7 @@
       "url": "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 522,
+        "total_configs": 552,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -146,11 +146,11 @@
         "total_configs": 709,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.04,
-        "last_success": "2026-04-13T05:25:34.601752+00:00",
+        "overall_score": 75.2,
+        "last_success": "2026-04-13T07:25:21.348396+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 6,
@@ -169,11 +169,11 @@
         "total_configs": 1098,
         "valid_configs": 43,
         "unique_configs": 43,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.81,
-        "last_success": "2026-04-13T05:25:36.722515+00:00",
+        "overall_score": 75.96,
+        "last_success": "2026-04-13T07:25:23.372829+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 43,
@@ -238,11 +238,11 @@
         "total_configs": 1164,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.03,
-        "last_success": "2026-04-13T05:25:43.292486+00:00",
+        "overall_score": 75.19,
+        "last_success": "2026-04-13T07:25:29.684399+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 10,
