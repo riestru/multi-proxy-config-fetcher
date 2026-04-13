@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T07:25:29.685173+00:00",
+  "timestamp": "2026-04-13T10:12:42.412280+00:00",
   "channels": [
     {
       "url": "https://t.me/s/PrivateVPNs",
@@ -120,7 +120,7 @@
       "url": "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 552,
+        "total_configs": 416,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -150,7 +150,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.2,
-        "last_success": "2026-04-13T07:25:21.348396+00:00",
+        "last_success": "2026-04-13T10:12:34.163048+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 6,
@@ -172,8 +172,8 @@
         "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.96,
-        "last_success": "2026-04-13T07:25:23.372829+00:00",
+        "overall_score": 75.97,
+        "last_success": "2026-04-13T10:12:36.181767+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 43,
@@ -241,8 +241,8 @@
         "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.19,
-        "last_success": "2026-04-13T07:25:29.684399+00:00",
+        "overall_score": 75.21,
+        "last_success": "2026-04-13T10:12:42.411382+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 10,
