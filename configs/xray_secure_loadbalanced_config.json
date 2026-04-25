@@ -2148,6 +2148,24 @@
       "settings": {
         "servers": [
           {
+            "address": "mx2.drawnrisha.one",
+            "port": 55988,
+            "method": "chacha20-ietf-poly1305",
+            "password": "2Kt8E86x2tVtKbtpsgVpHHE11rU3XWuhC8WzM6KAUwwwpDLcJF6vqWvyR8VHg2LDbJQQjVA1wA6TMq8JSx17ZcKVxcAPGnur",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp"
+      }
+    },
+    {
+      "tag": "proxy-83",
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
             "address": "135.125.219.2",
             "port": 42681,
             "method": "chacha20-ietf-poly1305",
@@ -2161,7 +2179,7 @@
       }
     },
     {
-      "tag": "proxy-83",
+      "tag": "proxy-84",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -2179,7 +2197,7 @@
       }
     },
     {
-      "tag": "proxy-84",
+      "tag": "proxy-85",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -2197,7 +2215,7 @@
       }
     },
     {
-      "tag": "proxy-85",
+      "tag": "proxy-86",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -2215,7 +2233,7 @@
       }
     },
     {
-      "tag": "proxy-86",
+      "tag": "proxy-87",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -2233,7 +2251,7 @@
       }
     },
     {
-      "tag": "proxy-87",
+      "tag": "proxy-88",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -2251,7 +2269,7 @@
       }
     },
     {
-      "tag": "proxy-88",
+      "tag": "proxy-89",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -2269,7 +2287,7 @@
       }
     },
     {
-      "tag": "proxy-89",
+      "tag": "proxy-90",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -2287,7 +2305,7 @@
       }
     },
     {
-      "tag": "proxy-90",
+      "tag": "proxy-91",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -2305,7 +2323,7 @@
       }
     },
     {
-      "tag": "proxy-91",
+      "tag": "proxy-92",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -2323,30 +2341,12 @@
       }
     },
     {
-      "tag": "proxy-92",
-      "protocol": "shadowsocks",
-      "settings": {
-        "servers": [
-          {
-            "address": "190.103.176.32",
-            "port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-            "level": 8
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp"
-      }
-    },
-    {
       "tag": "proxy-93",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
           {
-            "address": "193.135.174.135",
+            "address": "190.103.176.32",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
