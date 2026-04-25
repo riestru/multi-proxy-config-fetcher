@@ -103,6 +103,7 @@
             "outbounds": [
                 "👽 Best Ping 🚀",
                 "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
+                "🇷🇺 79 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
@@ -159,10 +160,8 @@
                 "🇫🇷 9 - FR - SS/AEAD - 11201",
                 "🇦🇷 10 - AR - SS/AEAD - 11201",
                 "🇰🇷 14 - KR - SS/AEAD - 11201",
-                "🇩🇪 16 - DE - SS/AEAD - 11201",
                 "🇬🇧 17 - GB - SS/AEAD - 13030",
                 "🇺🇦 18 - UA - SS/AEAD - 48436",
-                "🇹🇷 21 - TR - SS/AEAD - 11201",
                 "🇮🇳 22 - IN - SS/AEAD - 28028",
                 "🇮🇳 23 - IN - SS/AEAD - 28028",
                 "🇫🇷 24 - FR - SS/AEAD - 11201",
@@ -182,7 +181,6 @@
                 "🇮🇳 73 - IN - SS/AEAD - 44236",
                 "🇩🇪 89 - DE - SS/AEAD - 11201",
                 "🇯🇴 98 - JO - SS/AEAD - 48210",
-                "🇵🇰 103 - PK - SS/AEAD - 26737",
                 "🇵🇰 104 - PK - SS/AEAD - 26738",
                 "🇬🇧 107 - GB - SS/AEAD - 443",
                 "🇬🇧 110 - GB - SS/AEAD - 55988",
@@ -236,7 +234,6 @@
                 "🇻🇳 226 - VN - SS/AEAD - 45313",
                 "🇸🇦 227 - SA - SS/AEAD - 29461",
                 "🇬🇷 232 - GR - SS/AEAD - 11201",
-                "🇫🇷 238 - FR - SS/AEAD - 11202",
                 "🇸🇬 241 - SG - SS/AEAD - 27883",
                 "🇸🇬 240 - SG - SS/AEAD - 27882",
                 "🇸🇬 242 - SG - SS/AEAD - 27884",
@@ -277,6 +274,7 @@
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
                 "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
+                "🇷🇺 79 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
@@ -333,10 +331,8 @@
                 "🇫🇷 9 - FR - SS/AEAD - 11201",
                 "🇦🇷 10 - AR - SS/AEAD - 11201",
                 "🇰🇷 14 - KR - SS/AEAD - 11201",
-                "🇩🇪 16 - DE - SS/AEAD - 11201",
                 "🇬🇧 17 - GB - SS/AEAD - 13030",
                 "🇺🇦 18 - UA - SS/AEAD - 48436",
-                "🇹🇷 21 - TR - SS/AEAD - 11201",
                 "🇮🇳 22 - IN - SS/AEAD - 28028",
                 "🇮🇳 23 - IN - SS/AEAD - 28028",
                 "🇫🇷 24 - FR - SS/AEAD - 11201",
@@ -356,7 +352,6 @@
                 "🇮🇳 73 - IN - SS/AEAD - 44236",
                 "🇩🇪 89 - DE - SS/AEAD - 11201",
                 "🇯🇴 98 - JO - SS/AEAD - 48210",
-                "🇵🇰 103 - PK - SS/AEAD - 26737",
                 "🇵🇰 104 - PK - SS/AEAD - 26738",
                 "🇬🇧 107 - GB - SS/AEAD - 443",
                 "🇬🇧 110 - GB - SS/AEAD - 55988",
@@ -410,7 +405,6 @@
                 "🇻🇳 226 - VN - SS/AEAD - 45313",
                 "🇸🇦 227 - SA - SS/AEAD - 29461",
                 "🇬🇷 232 - GR - SS/AEAD - 11201",
-                "🇫🇷 238 - FR - SS/AEAD - 11202",
                 "🇸🇬 241 - SG - SS/AEAD - 27883",
                 "🇸🇬 240 - SG - SS/AEAD - 27882",
                 "🇸🇬 242 - SG - SS/AEAD - 27884",
@@ -458,6 +452,28 @@
                     "enabled": true,
                     "public_key": "Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc",
                     "short_id": ""
+                },
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "vless",
+            "tag": "🇷🇺 79 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
+            "server": "176.108.247.44",
+            "server_port": 443,
+            "uuid": "0fa13297-7784-48e1-9c19-308c8b440edb",
+            "flow": "xtls-rprx-vision",
+            "tls": {
+                "enabled": true,
+                "server_name": "dk21.strelkavpn.com",
+                "reality": {
+                    "enabled": true,
+                    "public_key": "rhL4R8tBOs5UnuwptbdegPycyuxGn-wvurb4eRYNSgY",
+                    "short_id": "596e1781a03304"
                 },
                 "utls": {
                     "enabled": true,
@@ -1650,14 +1666,6 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇩🇪 16 - DE - SS/AEAD - 11201",
-            "server": "57.129.95.45",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "6675cbf62d6a3a4f"
-        },
-        {
-            "type": "shadowsocks",
             "tag": "🇬🇧 17 - GB - SS/AEAD - 13030",
             "server": "51.75.168.50",
             "server_port": 13030,
@@ -1671,14 +1679,6 @@
             "server_port": 48436,
             "method": "chacha20-ietf-poly1305",
             "password": "6d0084c6e4502ab7"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇹🇷 21 - TR - SS/AEAD - 11201",
-            "server": "154.205.148.202",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "71807718f593d3e6"
         },
         {
             "type": "shadowsocks",
@@ -1831,14 +1831,6 @@
             "server_port": 48210,
             "method": "chacha20-ietf-poly1305",
             "password": "1a17c1f74cdc51d5"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇵🇰 103 - PK - SS/AEAD - 26737",
-            "server": "119.159.245.24",
-            "server_port": 26737,
-            "method": "chacha20-ietf-poly1305",
-            "password": "1d1bc54689ed4b75"
         },
         {
             "type": "shadowsocks",
@@ -2263,14 +2255,6 @@
             "server_port": 11201,
             "method": "chacha20-ietf-poly1305",
             "password": "cb955c8530320120"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇫🇷 238 - FR - SS/AEAD - 11202",
-            "server": "51.178.114.83",
-            "server_port": 11202,
-            "method": "chacha20-ietf-poly1305",
-            "password": "d5b878cbb46f3e33"
         },
         {
             "type": "shadowsocks",
