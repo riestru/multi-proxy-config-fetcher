@@ -3483,6 +3483,24 @@
     },
     {
       "tag": "proxy-157",
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "149.22.95.183",
+            "port": 443,
+            "method": "aes-128-gcm",
+            "password": "shadowsocks",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp"
+      }
+    },
+    {
+      "tag": "proxy-158",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -3512,7 +3530,7 @@
       }
     },
     {
-      "tag": "proxy-158",
+      "tag": "proxy-159",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -3536,7 +3554,7 @@
       }
     },
     {
-      "tag": "proxy-159",
+      "tag": "proxy-160",
       "protocol": "vmess",
       "settings": {
         "vnext": [
