@@ -259,9 +259,7 @@
                 "🇳🇱 267 - NL - SS/AEAD - 8080",
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
-                "🇭🇺 29 - HU - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
-                "🇫🇷 136 - FR - VMess - 44030",
                 "🇺🇸 162 - US - VMess/WS/TLS - 2053",
                 "direct"
             ]
@@ -431,9 +429,7 @@
                 "🇳🇱 267 - NL - SS/AEAD - 8080",
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
-                "🇭🇺 29 - HU - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
-                "🇫🇷 136 - FR - VMess - 44030",
                 "🇺🇸 162 - US - VMess/WS/TLS - 2053"
             ],
             "url": "https://www.gstatic.com/generate_204",
@@ -2446,42 +2442,10 @@
         },
         {
             "type": "vmess",
-            "tag": "🇭🇺 29 - HU - VMess/WS - 80",
-            "server": "45.12.132.183",
-            "server_port": 80,
-            "uuid": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/vmess/",
-                "headers": {
-                    "Host": "45.12.132.183"
-                }
-            },
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
             "tag": "🇹🇷 115 - TR - VMess - 39651",
             "server": "45.89.52.207",
             "server_port": 39651,
             "uuid": "ac4c12c5-45f2-4398-a718-9983941ede2b",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇫🇷 136 - FR - VMess - 44030",
-            "server": "94.232.247.164",
-            "server_port": 44030,
-            "uuid": "22c396a3-95da-4be8-beef-834d17d75784",
             "security": "auto",
             "alter_id": 0,
             "transport": {},

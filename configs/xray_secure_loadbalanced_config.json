@@ -3505,36 +3505,6 @@
       "settings": {
         "vnext": [
           {
-            "address": "45.12.132.183",
-            "port": 80,
-            "users": [
-              {
-                "id": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
-                "alterId": 0,
-                "security": "auto",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "none",
-        "wsSettings": {
-          "path": "/vmess/",
-          "headers": {
-            "Host": "45.12.132.183"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-159",
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
             "address": "45.89.52.207",
             "port": 39651,
             "users": [
@@ -3554,31 +3524,7 @@
       }
     },
     {
-      "tag": "proxy-160",
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "94.232.247.164",
-            "port": 44030,
-            "users": [
-              {
-                "id": "22c396a3-95da-4be8-beef-834d17d75784",
-                "alterId": 0,
-                "security": "auto",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "none"
-      }
-    },
-    {
-      "tag": "proxy-161",
+      "tag": "proxy-159",
       "protocol": "vmess",
       "settings": {
         "vnext": [
