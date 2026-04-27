@@ -114,7 +114,6 @@
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 320 - US - VLESS/WS - 2052",
                 "🇺🇸 321 - US - VLESS/WS - 2052",
-                "🇫🇷 323 - FR - VLESS/WS - 80",
                 "🇫🇷 324 - FR - VLESS/WS - 80",
                 "🇺🇸 374 - US - VLESS/WS - 80",
                 "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -288,6 +287,7 @@
                 "🇳🇱 267 - NL - SS/AEAD - 8080",
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
+                "🇭🇺 29 - HU - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
                 "🇺🇸 162 - US - VMess/WS/TLS - 2053",
                 "direct"
@@ -313,7 +313,6 @@
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 320 - US - VLESS/WS - 2052",
                 "🇺🇸 321 - US - VLESS/WS - 2052",
-                "🇫🇷 323 - FR - VLESS/WS - 80",
                 "🇫🇷 324 - FR - VLESS/WS - 80",
                 "🇺🇸 374 - US - VLESS/WS - 80",
                 "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -487,6 +486,7 @@
                 "🇳🇱 267 - NL - SS/AEAD - 8080",
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
+                "🇭🇺 29 - HU - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
                 "🇺🇸 162 - US - VMess/WS/TLS - 2053"
             ],
@@ -752,24 +752,6 @@
                 "path": "/?ed=2560",
                 "headers": {
                     "Host": "winbiss-0tpka6-v1.winbiss.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇫🇷 323 - FR - VLESS/WS - 80",
-            "server": "152.228.162.19",
-            "server_port": 80,
-            "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/vless/",
-                "headers": {
-                    "Host": "152.228.162.19"
                 }
             }
         },
@@ -3025,6 +3007,25 @@
             "server_port": 443,
             "method": "aes-128-gcm",
             "password": "shadowsocks"
+        },
+        {
+            "type": "vmess",
+            "tag": "🇭🇺 29 - HU - VMess/WS - 80",
+            "server": "45.12.132.183",
+            "server_port": 80,
+            "uuid": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/vmess/",
+                "headers": {
+                    "Host": "45.12.132.183"
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
         },
         {
             "type": "vmess",

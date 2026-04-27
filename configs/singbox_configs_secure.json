@@ -257,6 +257,7 @@
                 "🇳🇱 267 - NL - SS/AEAD - 8080",
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
+                "🇭🇺 29 - HU - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
                 "🇺🇸 162 - US - VMess/WS/TLS - 2053",
                 "direct"
@@ -425,6 +426,7 @@
                 "🇳🇱 267 - NL - SS/AEAD - 8080",
                 "🇳🇱 286 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
+                "🇭🇺 29 - HU - VMess/WS - 80",
                 "🇹🇷 115 - TR - VMess - 39651",
                 "🇺🇸 162 - US - VMess/WS/TLS - 2053"
             ],
@@ -2405,6 +2407,25 @@
             "server_port": 443,
             "method": "aes-128-gcm",
             "password": "shadowsocks"
+        },
+        {
+            "type": "vmess",
+            "tag": "🇭🇺 29 - HU - VMess/WS - 80",
+            "server": "45.12.132.183",
+            "server_port": 80,
+            "uuid": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/vmess/",
+                "headers": {
+                    "Host": "45.12.132.183"
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
         },
         {
             "type": "vmess",
