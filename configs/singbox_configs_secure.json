@@ -112,6 +112,7 @@
                 "🇧🇪 311 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇧🇪 312 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
+                "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇮 385 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 404 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 405 - US - VLESS/WS/TLS - 443",
@@ -126,6 +127,7 @@
                 "🇺🇸 578 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 579 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 580 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
+                "🇺🇸 581 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇳🇱 582 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇳🇱 583 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇳🇱 584 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -278,6 +280,7 @@
                 "🇧🇪 311 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇧🇪 312 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
+                "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇮 385 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 404 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 405 - US - VLESS/WS/TLS - 443",
@@ -292,6 +295,7 @@
                 "🇺🇸 578 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 579 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 580 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
+                "🇺🇸 581 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇳🇱 582 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇳🇱 583 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇳🇱 584 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -655,6 +659,28 @@
         },
         {
             "type": "vless",
+            "tag": "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
+            "server": "188.34.193.153",
+            "server_port": 443,
+            "uuid": "309fa273-6579-4cb2-9143-7cad50401eba",
+            "flow": "xtls-rprx-vision",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cloudflare.com",
+                "reality": {
+                    "enabled": true,
+                    "public_key": "gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY",
+                    "short_id": "7cad5040"
+                },
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "vless",
             "tag": "🇫🇮 385 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
             "server": "46.62.128.207",
             "server_port": 443,
@@ -951,6 +977,28 @@
         {
             "type": "vless",
             "tag": "🇺🇸 580 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
+            "server": "15.204.97.219",
+            "server_port": 23576,
+            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
+            "flow": "xtls-rprx-vision",
+            "tls": {
+                "enabled": true,
+                "server_name": "fuck.rkn",
+                "reality": {
+                    "enabled": true,
+                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
+                    "short_id": "01"
+                },
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 581 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
             "server": "15.204.97.219",
             "server_port": 23576,
             "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
