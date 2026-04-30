@@ -180,6 +180,11 @@
                 "🇬🇧 107 - GB - SS/AEAD - 443",
                 "🇬🇧 110 - GB - SS/AEAD - 55988",
                 "🇩🇪 114 - DE - SS/AEAD - 42681",
+                "🇯🇵 115 - JP - SS/AEAD - 11201",
+                "🇯🇵 116 - JP - SS/AEAD - 11202",
+                "🇯🇵 117 - JP - SS/AEAD - 11203",
+                "🇯🇵 118 - JP - SS/AEAD - 11204",
+                "🇯🇵 119 - JP - SS/AEAD - 11205",
                 "🇧🇬 126 - BG - SS/AEAD - 31348",
                 "🇧🇭 127 - BH - SS/AEAD - 990",
                 "🇮🇩 128 - ID - SS/AEAD - 990",
@@ -347,6 +352,11 @@
                 "🇬🇧 107 - GB - SS/AEAD - 443",
                 "🇬🇧 110 - GB - SS/AEAD - 55988",
                 "🇩🇪 114 - DE - SS/AEAD - 42681",
+                "🇯🇵 115 - JP - SS/AEAD - 11201",
+                "🇯🇵 116 - JP - SS/AEAD - 11202",
+                "🇯🇵 117 - JP - SS/AEAD - 11203",
+                "🇯🇵 118 - JP - SS/AEAD - 11204",
+                "🇯🇵 119 - JP - SS/AEAD - 11205",
                 "🇧🇬 126 - BG - SS/AEAD - 31348",
                 "🇧🇭 127 - BH - SS/AEAD - 990",
                 "🇮🇩 128 - ID - SS/AEAD - 990",
@@ -1735,6 +1745,46 @@
             "server_port": 42681,
             "method": "chacha20-ietf-poly1305",
             "password": "33e1f4f6e369d673"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇯🇵 115 - JP - SS/AEAD - 11201",
+            "server": "154.205.139.9",
+            "server_port": 11201,
+            "method": "chacha20-ietf-poly1305",
+            "password": "303ac65e30f28b0b"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇯🇵 116 - JP - SS/AEAD - 11202",
+            "server": "154.205.139.9",
+            "server_port": 11202,
+            "method": "chacha20-ietf-poly1305",
+            "password": "303ac65e30f28b0b"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇯🇵 117 - JP - SS/AEAD - 11203",
+            "server": "154.205.139.9",
+            "server_port": 11203,
+            "method": "chacha20-ietf-poly1305",
+            "password": "303ac65e30f28b0b"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇯🇵 118 - JP - SS/AEAD - 11204",
+            "server": "154.205.139.9",
+            "server_port": 11204,
+            "method": "chacha20-ietf-poly1305",
+            "password": "303ac65e30f28b0b"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇯🇵 119 - JP - SS/AEAD - 11205",
+            "server": "154.205.139.9",
+            "server_port": 11205,
+            "method": "chacha20-ietf-poly1305",
+            "password": "303ac65e30f28b0b"
         },
         {
             "type": "shadowsocks",
