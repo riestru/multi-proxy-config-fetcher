@@ -115,7 +115,7 @@
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 320 - US - VLESS/WS - 2052",
                 "🇺🇸 321 - US - VLESS/WS - 2052",
-                "🇫🇷 323 - FR - VLESS/WS - 80",
+                "🇫🇷 322 - FR - VLESS/WS - 80",
                 "🇺🇸 374 - US - VLESS/WS - 80",
                 "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇮 385 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -182,41 +182,8 @@
                 "🇺🇸 633 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 634 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 689 - US - VLESS/WS - 80",
-                "🇸🇬 2 - SG - SS/AEAD - 16922",
-                "🇫🇷 6 - FR - SS/AEAD - 10018",
-                "🇦🇷 7 - AR - SS/AEAD - 11201",
-                "🇫🇷 9 - FR - SS/AEAD - 11201",
-                "🇦🇷 10 - AR - SS/AEAD - 11201",
-                "🇰🇷 14 - KR - SS/AEAD - 11201",
-                "🇬🇧 17 - GB - SS/AEAD - 13030",
-                "🇺🇦 18 - UA - SS/AEAD - 48436",
-                "🇮🇳 22 - IN - SS/AEAD - 28028",
-                "🇮🇳 23 - IN - SS/AEAD - 28028",
-                "🇫🇷 24 - FR - SS/AEAD - 11201",
-                "🇸🇬 35 - SG - SS/AEAD - 48801",
-                "🇸🇬 36 - SG - SS/AEAD - 48802",
-                "🇸🇬 38 - SG - SS/AEAD - 48804",
-                "🇸🇬 37 - SG - SS/AEAD - 48803",
-                "🇸🇬 39 - SG - SS/AEAD - 48804",
-                "🇰🇷 51 - KR - SS/AEAD - 46578",
-                "🇬🇷 53 - GR - SS/AEAD - 11201",
-                "🇩🇪 64 - DE - SS/AEAD - 41237",
-                "🇮🇳 68 - IN - SS/AEAD - 44234",
-                "🇮🇳 69 - IN - SS/AEAD - 44234",
-                "🇮🇳 70 - IN - SS/AEAD - 44235",
-                "🇮🇳 71 - IN - SS/AEAD - 44235",
-                "🇮🇳 72 - IN - SS/AEAD - 44236",
-                "🇮🇳 73 - IN - SS/AEAD - 44236",
-                "🇩🇪 89 - DE - SS/AEAD - 11201",
-                "🇯🇴 98 - JO - SS/AEAD - 48210",
-                "🇵🇰 104 - PK - SS/AEAD - 26738",
+                "🇬🇧 107 - GB - SS/AEAD - 443",
                 "🇬🇧 110 - GB - SS/AEAD - 55988",
-                "🇩🇪 114 - DE - SS/AEAD - 42681",
-                "🇯🇵 115 - JP - SS/AEAD - 11201",
-                "🇯🇵 116 - JP - SS/AEAD - 11202",
-                "🇯🇵 117 - JP - SS/AEAD - 11203",
-                "🇯🇵 118 - JP - SS/AEAD - 11204",
-                "🇯🇵 119 - JP - SS/AEAD - 11205",
                 "🇧🇬 126 - BG - SS/AEAD - 31348",
                 "🇧🇭 127 - BH - SS/AEAD - 990",
                 "🇮🇩 128 - ID - SS/AEAD - 990",
@@ -254,29 +221,6 @@
                 "🇬🇧 191 - GB - SS/AEAD - 443",
                 "🇬🇧 192 - GB - SS/AEAD - 443",
                 "🇬🇧 193 - GB - SS/AEAD - 443",
-                "🇩🇪 197 - DE - SS/AEAD - 40266",
-                "🇩🇪 198 - DE - SS/AEAD - 27130",
-                "🇩🇪 199 - DE - SS/AEAD - 27130",
-                "🇩🇪 200 - DE - SS/AEAD - 27130",
-                "🇵🇱 210 - PL - SS/AEAD - 10011",
-                "🇩🇪 214 - DE - SS/AEAD - 11201",
-                "🇮🇳 217 - IN - SS/AEAD - 11201",
-                "🇻🇳 223 - VN - SS/AEAD - 45310",
-                "🇻🇳 224 - VN - SS/AEAD - 45311",
-                "🇻🇳 225 - VN - SS/AEAD - 45312",
-                "🇻🇳 226 - VN - SS/AEAD - 45313",
-                "🇸🇦 227 - SA - SS/AEAD - 29461",
-                "🇬🇷 232 - GR - SS/AEAD - 11201",
-                "🇸🇬 241 - SG - SS/AEAD - 27883",
-                "🇸🇬 240 - SG - SS/AEAD - 27882",
-                "🇸🇬 242 - SG - SS/AEAD - 27884",
-                "🇺🇦 245 - UA - SS/AEAD - 47392",
-                "🇸🇬 243 - SG - SS/AEAD - 27885",
-                "🇺🇦 246 - UA - SS/AEAD - 47393",
-                "🇺🇦 247 - UA - SS/AEAD - 47394",
-                "🇺🇦 248 - UA - SS/AEAD - 47395",
-                "🇻🇳 251 - VN - SS/AEAD - 26417",
-                "🇵🇰 252 - PK - SS/AEAD - 29700",
                 "🇺🇸 255 - US - SS/AEAD - 443",
                 "🇺🇸 254 - US - SS/AEAD - 443",
                 "🇺🇸 256 - US - SS/AEAD - 443",
@@ -319,7 +263,7 @@
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 320 - US - VLESS/WS - 2052",
                 "🇺🇸 321 - US - VLESS/WS - 2052",
-                "🇫🇷 323 - FR - VLESS/WS - 80",
+                "🇫🇷 322 - FR - VLESS/WS - 80",
                 "🇺🇸 374 - US - VLESS/WS - 80",
                 "🇩🇪 384 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇮 385 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -386,41 +330,8 @@
                 "🇺🇸 633 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 634 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 689 - US - VLESS/WS - 80",
-                "🇸🇬 2 - SG - SS/AEAD - 16922",
-                "🇫🇷 6 - FR - SS/AEAD - 10018",
-                "🇦🇷 7 - AR - SS/AEAD - 11201",
-                "🇫🇷 9 - FR - SS/AEAD - 11201",
-                "🇦🇷 10 - AR - SS/AEAD - 11201",
-                "🇰🇷 14 - KR - SS/AEAD - 11201",
-                "🇬🇧 17 - GB - SS/AEAD - 13030",
-                "🇺🇦 18 - UA - SS/AEAD - 48436",
-                "🇮🇳 22 - IN - SS/AEAD - 28028",
-                "🇮🇳 23 - IN - SS/AEAD - 28028",
-                "🇫🇷 24 - FR - SS/AEAD - 11201",
-                "🇸🇬 35 - SG - SS/AEAD - 48801",
-                "🇸🇬 36 - SG - SS/AEAD - 48802",
-                "🇸🇬 38 - SG - SS/AEAD - 48804",
-                "🇸🇬 37 - SG - SS/AEAD - 48803",
-                "🇸🇬 39 - SG - SS/AEAD - 48804",
-                "🇰🇷 51 - KR - SS/AEAD - 46578",
-                "🇬🇷 53 - GR - SS/AEAD - 11201",
-                "🇩🇪 64 - DE - SS/AEAD - 41237",
-                "🇮🇳 68 - IN - SS/AEAD - 44234",
-                "🇮🇳 69 - IN - SS/AEAD - 44234",
-                "🇮🇳 70 - IN - SS/AEAD - 44235",
-                "🇮🇳 71 - IN - SS/AEAD - 44235",
-                "🇮🇳 72 - IN - SS/AEAD - 44236",
-                "🇮🇳 73 - IN - SS/AEAD - 44236",
-                "🇩🇪 89 - DE - SS/AEAD - 11201",
-                "🇯🇴 98 - JO - SS/AEAD - 48210",
-                "🇵🇰 104 - PK - SS/AEAD - 26738",
+                "🇬🇧 107 - GB - SS/AEAD - 443",
                 "🇬🇧 110 - GB - SS/AEAD - 55988",
-                "🇩🇪 114 - DE - SS/AEAD - 42681",
-                "🇯🇵 115 - JP - SS/AEAD - 11201",
-                "🇯🇵 116 - JP - SS/AEAD - 11202",
-                "🇯🇵 117 - JP - SS/AEAD - 11203",
-                "🇯🇵 118 - JP - SS/AEAD - 11204",
-                "🇯🇵 119 - JP - SS/AEAD - 11205",
                 "🇧🇬 126 - BG - SS/AEAD - 31348",
                 "🇧🇭 127 - BH - SS/AEAD - 990",
                 "🇮🇩 128 - ID - SS/AEAD - 990",
@@ -458,29 +369,6 @@
                 "🇬🇧 191 - GB - SS/AEAD - 443",
                 "🇬🇧 192 - GB - SS/AEAD - 443",
                 "🇬🇧 193 - GB - SS/AEAD - 443",
-                "🇩🇪 197 - DE - SS/AEAD - 40266",
-                "🇩🇪 198 - DE - SS/AEAD - 27130",
-                "🇩🇪 199 - DE - SS/AEAD - 27130",
-                "🇩🇪 200 - DE - SS/AEAD - 27130",
-                "🇵🇱 210 - PL - SS/AEAD - 10011",
-                "🇩🇪 214 - DE - SS/AEAD - 11201",
-                "🇮🇳 217 - IN - SS/AEAD - 11201",
-                "🇻🇳 223 - VN - SS/AEAD - 45310",
-                "🇻🇳 224 - VN - SS/AEAD - 45311",
-                "🇻🇳 225 - VN - SS/AEAD - 45312",
-                "🇻🇳 226 - VN - SS/AEAD - 45313",
-                "🇸🇦 227 - SA - SS/AEAD - 29461",
-                "🇬🇷 232 - GR - SS/AEAD - 11201",
-                "🇸🇬 241 - SG - SS/AEAD - 27883",
-                "🇸🇬 240 - SG - SS/AEAD - 27882",
-                "🇸🇬 242 - SG - SS/AEAD - 27884",
-                "🇺🇦 245 - UA - SS/AEAD - 47392",
-                "🇸🇬 243 - SG - SS/AEAD - 27885",
-                "🇺🇦 246 - UA - SS/AEAD - 47393",
-                "🇺🇦 247 - UA - SS/AEAD - 47394",
-                "🇺🇦 248 - UA - SS/AEAD - 47395",
-                "🇻🇳 251 - VN - SS/AEAD - 26417",
-                "🇵🇰 252 - PK - SS/AEAD - 29700",
                 "🇺🇸 255 - US - SS/AEAD - 443",
                 "🇺🇸 254 - US - SS/AEAD - 443",
                 "🇺🇸 256 - US - SS/AEAD - 443",
@@ -785,7 +673,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇫🇷 323 - FR - VLESS/WS - 80",
+            "tag": "🇫🇷 322 - FR - VLESS/WS - 80",
             "server": "152.228.162.19",
             "server_port": 80,
             "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
@@ -797,7 +685,7 @@
                 "type": "ws",
                 "path": "/vless/",
                 "headers": {
-                    "Host": "152.228.162.19"
+                    "Host": "Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN"
                 }
             }
         },
@@ -2176,227 +2064,11 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇸🇬 2 - SG - SS/AEAD - 16922",
-            "server": "154.26.132.38",
-            "server_port": 16922,
+            "tag": "🇬🇧 107 - GB - SS/AEAD - 443",
+            "server": "admin.c1.havij.co",
+            "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "42d2b47181a32de7"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇫🇷 6 - FR - SS/AEAD - 10018",
-            "server": "135.125.10.106",
-            "server_port": 10018,
-            "method": "chacha20-ietf-poly1305",
-            "password": "4b4763efefa95114"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇦🇷 7 - AR - SS/AEAD - 11201",
-            "server": "154.205.154.200",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "4f26d8bb593a5fc5"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇫🇷 9 - FR - SS/AEAD - 11201",
-            "server": "38.242.222.183",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "52671647af0cffa0"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇦🇷 10 - AR - SS/AEAD - 11201",
-            "server": "154.205.154.184",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "5b978047b47f7eab"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇰🇷 14 - KR - SS/AEAD - 11201",
-            "server": "156.244.19.94",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "652e423c559eefd4"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇬🇧 17 - GB - SS/AEAD - 13030",
-            "server": "51.75.168.50",
-            "server_port": 13030,
-            "method": "chacha20-ietf-poly1305",
-            "password": "6c815bb84c781da5"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇦 18 - UA - SS/AEAD - 48436",
-            "server": "163.171.137.76",
-            "server_port": 48436,
-            "method": "chacha20-ietf-poly1305",
-            "password": "6d0084c6e4502ab7"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇮🇳 22 - IN - SS/AEAD - 28028",
-            "server": "163.171.206.24",
-            "server_port": 28028,
-            "method": "chacha20-ietf-poly1305",
-            "password": "735582e51328af99"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇮🇳 23 - IN - SS/AEAD - 28028",
-            "server": "163.171.206.24",
-            "server_port": 28028,
-            "method": "chacha20-ietf-poly1305",
-            "password": "735582e51328af99"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇫🇷 24 - FR - SS/AEAD - 11201",
-            "server": "57.130.28.148",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "74918bc801d53a4b"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇸🇬 35 - SG - SS/AEAD - 48801",
-            "server": "194.233.73.51",
-            "server_port": 48801,
-            "method": "chacha20-ietf-poly1305",
-            "password": "7afa39016d5a409c"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇸🇬 36 - SG - SS/AEAD - 48802",
-            "server": "194.233.73.51",
-            "server_port": 48802,
-            "method": "chacha20-ietf-poly1305",
-            "password": "7afa39016d5a409c"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇸🇬 38 - SG - SS/AEAD - 48804",
-            "server": "194.233.73.51",
-            "server_port": 48804,
-            "method": "chacha20-ietf-poly1305",
-            "password": "7afa39016d5a409c"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇸🇬 37 - SG - SS/AEAD - 48803",
-            "server": "194.233.73.51",
-            "server_port": 48803,
-            "method": "chacha20-ietf-poly1305",
-            "password": "7afa39016d5a409c"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇸🇬 39 - SG - SS/AEAD - 48804",
-            "server": "194.233.73.51",
-            "server_port": 48804,
-            "method": "chacha20-ietf-poly1305",
-            "password": "7afa39016d5a409c"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇰🇷 51 - KR - SS/AEAD - 46578",
-            "server": "154.90.62.145",
-            "server_port": 46578,
-            "method": "chacha20-ietf-poly1305",
-            "password": "907e91edf84826c3"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇬🇷 53 - GR - SS/AEAD - 11201",
-            "server": "38.54.29.18",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "932a519c8147a998"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇩🇪 64 - DE - SS/AEAD - 41237",
-            "server": "135.125.219.2",
-            "server_port": 41237,
-            "method": "chacha20-ietf-poly1305",
-            "password": "9ab642148dabe978"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇮🇳 68 - IN - SS/AEAD - 44234",
-            "server": "163.171.206.24",
-            "server_port": 44234,
-            "method": "chacha20-ietf-poly1305",
-            "password": "9d97433688e7efd5"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇮🇳 69 - IN - SS/AEAD - 44234",
-            "server": "163.171.206.24",
-            "server_port": 44234,
-            "method": "chacha20-ietf-poly1305",
-            "password": "9d97433688e7efd5"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇮🇳 70 - IN - SS/AEAD - 44235",
-            "server": "163.171.206.24",
-            "server_port": 44235,
-            "method": "chacha20-ietf-poly1305",
-            "password": "9d97433688e7efd5"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇮🇳 71 - IN - SS/AEAD - 44235",
-            "server": "163.171.206.24",
-            "server_port": 44235,
-            "method": "chacha20-ietf-poly1305",
-            "password": "9d97433688e7efd5"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇮🇳 72 - IN - SS/AEAD - 44236",
-            "server": "163.171.206.24",
-            "server_port": 44236,
-            "method": "chacha20-ietf-poly1305",
-            "password": "9d97433688e7efd5"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇮🇳 73 - IN - SS/AEAD - 44236",
-            "server": "163.171.206.24",
-            "server_port": 44236,
-            "method": "chacha20-ietf-poly1305",
-            "password": "9d97433688e7efd5"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇩🇪 89 - DE - SS/AEAD - 11201",
-            "server": "141.95.109.94",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "10f90af92b6c1a74"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇯🇴 98 - JO - SS/AEAD - 48210",
-            "server": "91.106.109.17",
-            "server_port": 48210,
-            "method": "chacha20-ietf-poly1305",
-            "password": "1a17c1f74cdc51d5"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇵🇰 104 - PK - SS/AEAD - 26738",
-            "server": "119.159.245.24",
-            "server_port": 26738,
-            "method": "chacha20-ietf-poly1305",
-            "password": "1d1bc54689ed4b75"
+            "password": "1kVr0KATIJI7mwOF"
         },
         {
             "type": "shadowsocks",
@@ -2405,54 +2077,6 @@
             "server_port": 55988,
             "method": "chacha20-ietf-poly1305",
             "password": "2Kt8E86x2tVtKbtpsgVpHHE11rU3XWuhC8WzM6KAUwwwpDLcJF6vqWvyR8VHg2LDbJQQjVA1wA6TMq8JSx17ZcKVxcAPGnur"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇩🇪 114 - DE - SS/AEAD - 42681",
-            "server": "135.125.219.2",
-            "server_port": 42681,
-            "method": "chacha20-ietf-poly1305",
-            "password": "33e1f4f6e369d673"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇯🇵 115 - JP - SS/AEAD - 11201",
-            "server": "154.205.139.9",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "303ac65e30f28b0b"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇯🇵 116 - JP - SS/AEAD - 11202",
-            "server": "154.205.139.9",
-            "server_port": 11202,
-            "method": "chacha20-ietf-poly1305",
-            "password": "303ac65e30f28b0b"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇯🇵 117 - JP - SS/AEAD - 11203",
-            "server": "154.205.139.9",
-            "server_port": 11203,
-            "method": "chacha20-ietf-poly1305",
-            "password": "303ac65e30f28b0b"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇯🇵 118 - JP - SS/AEAD - 11204",
-            "server": "154.205.139.9",
-            "server_port": 11204,
-            "method": "chacha20-ietf-poly1305",
-            "password": "303ac65e30f28b0b"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇯🇵 119 - JP - SS/AEAD - 11205",
-            "server": "154.205.139.9",
-            "server_port": 11205,
-            "method": "chacha20-ietf-poly1305",
-            "password": "303ac65e30f28b0b"
         },
         {
             "type": "shadowsocks",
@@ -2749,190 +2373,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "W74XFALLLuw6m5IA"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇩🇪 197 - DE - SS/AEAD - 40266",
-            "server": "135.125.219.2",
-            "server_port": 40266,
-            "method": "chacha20-ietf-poly1305",
-            "password": "a10bd25b21995e56"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇩🇪 198 - DE - SS/AEAD - 27130",
-            "server": "57.129.69.122",
-            "server_port": 27130,
-            "method": "chacha20-ietf-poly1305",
-            "password": "a3027c931ae07bce"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇩🇪 199 - DE - SS/AEAD - 27130",
-            "server": "57.129.69.122",
-            "server_port": 27130,
-            "method": "chacha20-ietf-poly1305",
-            "password": "a3027c931ae07bce"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇩🇪 200 - DE - SS/AEAD - 27130",
-            "server": "57.129.69.122",
-            "server_port": 27130,
-            "method": "chacha20-ietf-poly1305",
-            "password": "a3027c931ae07bce"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇵🇱 210 - PL - SS/AEAD - 10011",
-            "server": "51.68.146.248",
-            "server_port": 10011,
-            "method": "chacha20-ietf-poly1305",
-            "password": "a792ff4b517fdf1c"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇩🇪 214 - DE - SS/AEAD - 11201",
-            "server": "57.129.35.242",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "b2871db02e5f7e2f"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇮🇳 217 - IN - SS/AEAD - 11201",
-            "server": "185.67.125.109",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "be4a6fd2209f62a7"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇻🇳 223 - VN - SS/AEAD - 45310",
-            "server": "112.197.26.106",
-            "server_port": 45310,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ca5a5efae00a832b"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇻🇳 224 - VN - SS/AEAD - 45311",
-            "server": "112.197.26.106",
-            "server_port": 45311,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ca5a5efae00a832b"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇻🇳 225 - VN - SS/AEAD - 45312",
-            "server": "112.197.26.106",
-            "server_port": 45312,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ca5a5efae00a832b"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇻🇳 226 - VN - SS/AEAD - 45313",
-            "server": "112.197.26.106",
-            "server_port": 45313,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ca5a5efae00a832b"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇸🇦 227 - SA - SS/AEAD - 29461",
-            "server": "163.171.207.11",
-            "server_port": 29461,
-            "method": "chacha20-ietf-poly1305",
-            "password": "cb4258dc1b53613c"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇬🇷 232 - GR - SS/AEAD - 11201",
-            "server": "38.54.29.57",
-            "server_port": 11201,
-            "method": "chacha20-ietf-poly1305",
-            "password": "cb955c8530320120"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇸🇬 241 - SG - SS/AEAD - 27883",
-            "server": "154.26.132.38",
-            "server_port": 27883,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ded718fcb2bb17b7"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇸🇬 240 - SG - SS/AEAD - 27882",
-            "server": "154.26.132.38",
-            "server_port": 27882,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ded718fcb2bb17b7"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇸🇬 242 - SG - SS/AEAD - 27884",
-            "server": "154.26.132.38",
-            "server_port": 27884,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ded718fcb2bb17b7"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇦 245 - UA - SS/AEAD - 47392",
-            "server": "163.171.137.76",
-            "server_port": 47392,
-            "method": "chacha20-ietf-poly1305",
-            "password": "eafad96826c79ddd"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇸🇬 243 - SG - SS/AEAD - 27885",
-            "server": "154.26.132.38",
-            "server_port": 27885,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ded718fcb2bb17b7"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇦 246 - UA - SS/AEAD - 47393",
-            "server": "163.171.137.76",
-            "server_port": 47393,
-            "method": "chacha20-ietf-poly1305",
-            "password": "eafad96826c79ddd"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇦 247 - UA - SS/AEAD - 47394",
-            "server": "163.171.137.76",
-            "server_port": 47394,
-            "method": "chacha20-ietf-poly1305",
-            "password": "eafad96826c79ddd"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇦 248 - UA - SS/AEAD - 47395",
-            "server": "163.171.137.76",
-            "server_port": 47395,
-            "method": "chacha20-ietf-poly1305",
-            "password": "eafad96826c79ddd"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇻🇳 251 - VN - SS/AEAD - 26417",
-            "server": "112.197.26.106",
-            "server_port": 26417,
-            "method": "chacha20-ietf-poly1305",
-            "password": "fd7b0d14b590bceb"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇵🇰 252 - PK - SS/AEAD - 29700",
-            "server": "119.159.245.24",
-            "server_port": 29700,
-            "method": "chacha20-ietf-poly1305",
-            "password": "fec4e6f9e954aead"
         },
         {
             "type": "shadowsocks",
