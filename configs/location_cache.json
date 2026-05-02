@@ -1,33 +1,5 @@
 {
-  "77.90.41.197": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "2a14:3f87:f001:13::a": [
-    "🏳️",
-    "Unknown"
-  ],
-  "rb.xn--mes13n8pi8x2b.shop": [
-    "🏳️",
-    "Unknown"
-  ],
-  "xg.xn--mes13n8pi8x2b.shop": [
-    "🏳️",
-    "Unknown"
-  ],
-  "drhystuichdfy.samanidempire.org": [
-    "🇸🇪",
-    "Sweden"
-  ],
-  "hk1.shiyuandian.shop": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "2001:bc8:32d7:302::11": [
-    "🏳️",
-    "Unknown"
-  ],
-  "144.31.224.14": [
+  "yapc-1.adamhayward.co.uk": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
@@ -35,21 +7,13 @@
     "🏳️",
     "Unknown"
   ],
-  "2a14:3f87:f001:1a::a": [
-    "🏳️",
-    "Unknown"
+  "130.61.50.75": [
+    "🇩🇪",
+    "Germany"
   ],
-  "2a0c:4ac1:8::121": [
-    "🏳️",
-    "Unknown"
-  ],
-  "yapc-1.adamhayward.co.uk": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "mg.xn--mes13n8pi8x2b.shop": [
-    "🏳️",
-    "Unknown"
+  "77.90.41.197": [
+    "🇩🇪",
+    "Germany"
   ],
   "agt.xn--mes13n8pi8x2b.shop": [
     "🏳️",
@@ -59,48 +23,96 @@
     "🇺🇸",
     "United States of America"
   ],
-  "208.87.243.187": [
+  "vpn-us-003.fastervpn.world": [
     "🇺🇸",
     "United States of America"
   ],
-  "206.71.158.37": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
+  "vpn-vn-001.fastervpn.world": [
+    "🇻🇳",
+    "Viet Nam"
   ],
-  "trq.xn--mes13n8pi8x2b.shop": [
+  "2001:bc8:32d7:302::11": [
     "🏳️",
     "Unknown"
-  ],
-  "135.125.204.154": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "37.114.49.38": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "163.172.113.118": [
-    "🇫🇷",
-    "France"
   ],
   "107.173.127.166": [
     "🇺🇸",
     "United States of America"
   ],
-  "130.61.50.75": [
+  "135.125.204.154": [
     "🇩🇪",
     "Germany"
-  ],
-  "206.71.158.40": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
   ],
   "206.71.158.41": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
+  "206.71.158.40": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "144.31.224.14": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "2a14:3f87:f001:13::a": [
+    "🏳️",
+    "Unknown"
+  ],
+  "37.114.49.38": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "vpn-sg-002.fastervpn.world": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "rb.xn--mes13n8pi8x2b.shop": [
+    "🏳️",
+    "Unknown"
+  ],
+  "2a14:3f87:f001:1a::a": [
+    "🏳️",
+    "Unknown"
+  ],
+  "mg.xn--mes13n8pi8x2b.shop": [
+    "🏳️",
+    "Unknown"
+  ],
+  "drhystuichdfy.samanidempire.org": [
+    "🇸🇪",
+    "Sweden"
+  ],
+  "206.71.158.37": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "hk1.shiyuandian.shop": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "xg.xn--mes13n8pi8x2b.shop": [
+    "🏳️",
+    "Unknown"
+  ],
+  "163.172.113.118": [
+    "🇫🇷",
+    "France"
+  ],
+  "trq.xn--mes13n8pi8x2b.shop": [
+    "🏳️",
+    "Unknown"
+  ],
+  "2a0c:4ac1:8::121": [
+    "🏳️",
+    "Unknown"
+  ],
   "updates.kermanshahi.org": [
     "🏳️",
     "Unknown"
+  ],
+  "208.87.243.187": [
+    "🇺🇸",
+    "United States of America"
   ]
 }
