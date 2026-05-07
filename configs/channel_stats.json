@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T13:15:51.266467+00:00",
+  "timestamp": "2026-05-07T16:23:39.857640+00:00",
   "channels": [
     {
       "url": "https://t.me/s/PrivateVPNs",
@@ -51,7 +51,7 @@
       "url": "https://t.me/s/persianvpnhub",
       "enabled": false,
       "metrics": {
-        "total_configs": 6,
+        "total_configs": 8,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -97,7 +97,7 @@
       "url": "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 38,
+        "total_configs": 49,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,7 +120,7 @@
       "url": "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 957,
+        "total_configs": 990,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -150,7 +150,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.04,
-        "last_success": "2026-05-07T13:15:43.016761+00:00",
+        "last_success": "2026-05-07T16:23:31.617558+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -173,7 +173,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.97,
-        "last_success": "2026-05-07T13:15:45.033577+00:00",
+        "last_success": "2026-05-07T16:23:33.633609+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 43,
@@ -241,8 +241,8 @@
         "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.21,
-        "last_success": "2026-05-07T13:15:51.265654+00:00",
+        "overall_score": 75.2,
+        "last_success": "2026-05-07T16:23:39.856964+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 10,
