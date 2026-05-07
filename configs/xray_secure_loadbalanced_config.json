@@ -1679,7 +1679,7 @@
       "settings": {
         "servers": [
           {
-            "address": "193.135.174.135",
+            "address": "203.23.128.92",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -1697,7 +1697,7 @@
       "settings": {
         "servers": [
           {
-            "address": "203.23.128.92",
+            "address": "37.143.129.98",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -1715,7 +1715,7 @@
       "settings": {
         "servers": [
           {
-            "address": "37.143.129.98",
+            "address": "37.235.56.69",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -1733,7 +1733,7 @@
       "settings": {
         "servers": [
           {
-            "address": "37.235.56.69",
+            "address": "45.15.185.70",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -1751,7 +1751,7 @@
       "settings": {
         "servers": [
           {
-            "address": "45.15.185.70",
+            "address": "45.82.252.109",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
@@ -2395,6 +2395,36 @@
     },
     {
       "tag": "proxy-99",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "45.12.132.183",
+            "port": 80,
+            "users": [
+              {
+                "id": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
+                "alterId": 0,
+                "security": "auto",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "none",
+        "wsSettings": {
+          "path": "/vmess/",
+          "headers": {
+            "Host": "45.12.132.183"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-100",
       "protocol": "vmess",
       "settings": {
         "vnext": [
