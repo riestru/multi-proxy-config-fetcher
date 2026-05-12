@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T08:07:27.917464+00:00",
+  "timestamp": "2026-05-12T10:57:21.351574+00:00",
   "channels": [
     {
       "url": "https://t.me/s/PrivateVPNs",
@@ -74,7 +74,7 @@
       "url": "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 1,
+        "total_configs": 2,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,7 +120,7 @@
       "url": "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 769,
+        "total_configs": 804,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -149,8 +149,8 @@
         "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.02,
-        "last_success": "2026-05-12T08:07:19.562391+00:00",
+        "overall_score": 75.01,
+        "last_success": "2026-05-12T10:57:13.094757+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,
@@ -172,8 +172,8 @@
         "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.97,
-        "last_success": "2026-05-12T08:07:21.578988+00:00",
+        "overall_score": 75.96,
+        "last_success": "2026-05-12T10:57:15.118245+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 43,
@@ -238,11 +238,11 @@
         "total_configs": 1164,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.14,
-        "last_success": "2026-05-12T08:07:27.916720+00:00",
+        "overall_score": 75.2,
+        "last_success": "2026-05-12T10:57:21.350788+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 10,
