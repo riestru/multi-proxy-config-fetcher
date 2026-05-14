@@ -102,11 +102,9 @@
             "tag": "🌐 Anonymous Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
-                "🇺🇸 37 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-                "🇺🇸 192 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇭🇺 265 - HU - VLESS/REALITY/PBK/SID/UTLS - 17267",
                 "🇭🇺 266 - HU - VLESS/REALITY/PBK/SID/UTLS - 17267",
@@ -151,7 +149,6 @@
                 "🇺🇸 632 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 633 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 634 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 687 - US - VLESS/WS/TLS - 443",
                 "🇬🇧 107 - GB - SS/AEAD - 443",
                 "🇬🇧 110 - GB - SS/AEAD - 55988",
                 "🇧🇭 127 - BH - SS/AEAD - 990",
@@ -172,6 +169,7 @@
                 "🇨🇾 145 - CY - SS/AEAD - 990",
                 "🇧🇭 147 - BH - SS/AEAD - 990",
                 "🇮🇹 150 - IT - SS/AEAD - 990",
+                "🇲🇹 149 - MT - SS/AEAD - 990",
                 "🇧🇴 152 - BO - SS/AEAD - 990",
                 "🇹🇼 154 - TW - SS/AEAD - 990",
                 "🇧🇭 155 - BH - SS/AEAD - 990",
@@ -213,11 +211,9 @@
             "type": "urltest",
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
-                "🇺🇸 37 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-                "🇺🇸 192 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇭🇺 265 - HU - VLESS/REALITY/PBK/SID/UTLS - 17267",
                 "🇭🇺 266 - HU - VLESS/REALITY/PBK/SID/UTLS - 17267",
@@ -262,7 +258,6 @@
                 "🇺🇸 632 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 633 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 634 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 687 - US - VLESS/WS/TLS - 443",
                 "🇬🇧 107 - GB - SS/AEAD - 443",
                 "🇬🇧 110 - GB - SS/AEAD - 55988",
                 "🇧🇭 127 - BH - SS/AEAD - 990",
@@ -283,6 +278,7 @@
                 "🇨🇾 145 - CY - SS/AEAD - 990",
                 "🇧🇭 147 - BH - SS/AEAD - 990",
                 "🇮🇹 150 - IT - SS/AEAD - 990",
+                "🇲🇹 149 - MT - SS/AEAD - 990",
                 "🇧🇴 152 - BO - SS/AEAD - 990",
                 "🇹🇼 154 - TW - SS/AEAD - 990",
                 "🇧🇭 155 - BH - SS/AEAD - 990",
@@ -317,34 +313,6 @@
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
             "interval": "30s"
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 37 - US - VLESS/WS/TLS - 443",
-            "server": "172.67.216.218",
-            "server_port": 443,
-            "uuid": "03896a37-db8f-44ed-8ce1-45a1577f6da6",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "stipulations.gelatin.workers.dev",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoiZzIxRUF6V2JFOW5IRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "headers": {
-                    "Host": "stipulations.gelatin.workers.dev"
-                }
-            }
         },
         {
             "type": "vless",
@@ -411,34 +379,6 @@
                 }
             },
             "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 192 - US - VLESS/WS/TLS - 443",
-            "server": "172.66.40.139",
-            "server_port": 443,
-            "uuid": "1679af35-6dd6-4c09-ae3b-18f239217f3e",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "rAyAn-007.pArViN.DpDnS.OrG",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "rAyAn-007.pArViN.DpDnS.OrG"
-                }
-            }
         },
         {
             "type": "vless",
@@ -1443,34 +1383,6 @@
             }
         },
         {
-            "type": "vless",
-            "tag": "🇺🇸 687 - US - VLESS/WS/TLS - 443",
-            "server": "muddy-math-c1fc.tmpnriqueau89.workers.dev",
-            "server_port": 443,
-            "uuid": "532a9115-aee7-4d39-9638-1e5146de075b",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "muddy-math-c1fc.tmpnriqueau89.workers.dev",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/js/cHlpcC55Z2tray5kcGRucy5vcmc=/",
-                "headers": {
-                    "Host": "muddy-math-c1fc.tmpnriqueau89.workers.dev"
-                }
-            }
-        },
-        {
             "type": "shadowsocks",
             "tag": "🇬🇧 107 - GB - SS/AEAD - 443",
             "server": "admin.c1.havij.co",
@@ -1626,6 +1538,14 @@
             "type": "shadowsocks",
             "tag": "🇮🇹 150 - IT - SS/AEAD - 990",
             "server": "176.126.83.158",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇲🇹 149 - MT - SS/AEAD - 990",
+            "server": "171.22.254.129",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
