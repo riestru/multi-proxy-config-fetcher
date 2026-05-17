@@ -2424,24 +2424,6 @@
     },
     {
       "tag": "proxy-100",
-      "protocol": "shadowsocks",
-      "settings": {
-        "servers": [
-          {
-            "address": "149.22.95.183",
-            "port": 443,
-            "method": "aes-128-gcm",
-            "password": "shadowsocks",
-            "level": 8
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp"
-      }
-    },
-    {
-      "tag": "proxy-101",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -2471,7 +2453,7 @@
       }
     },
     {
-      "tag": "proxy-102",
+      "tag": "proxy-101",
       "protocol": "vmess",
       "settings": {
         "vnext": [
