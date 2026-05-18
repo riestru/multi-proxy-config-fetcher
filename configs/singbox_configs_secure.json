@@ -151,7 +151,6 @@
                 "🇺🇸 633 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 634 - US - VLESS/WS/TLS - 443",
                 "🇬🇧 107 - GB - SS/AEAD - 443",
-                "🇬🇧 110 - GB - SS/AEAD - 55988",
                 "🇧🇭 127 - BH - SS/AEAD - 990",
                 "🇮🇩 128 - ID - SS/AEAD - 990",
                 "🇧🇭 129 - BH - SS/AEAD - 990",
@@ -263,7 +262,6 @@
                 "🇺🇸 633 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 634 - US - VLESS/WS/TLS - 443",
                 "🇬🇧 107 - GB - SS/AEAD - 443",
-                "🇬🇧 110 - GB - SS/AEAD - 55988",
                 "🇧🇭 127 - BH - SS/AEAD - 990",
                 "🇮🇩 128 - ID - SS/AEAD - 990",
                 "🇧🇭 129 - BH - SS/AEAD - 990",
@@ -1417,14 +1415,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "1kVr0KATIJI7mwOF"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇬🇧 110 - GB - SS/AEAD - 55988",
-            "server": "mx2.drawnrisha.one",
-            "server_port": 55988,
-            "method": "chacha20-ietf-poly1305",
-            "password": "2Kt8E86x2tVtKbtpsgVpHHE11rU3XWuhC8WzM6KAUwwwpDLcJF6vqWvyR8VHg2LDbJQQjVA1wA6TMq8JSx17ZcKVxcAPGnur"
         },
         {
             "type": "shadowsocks",
