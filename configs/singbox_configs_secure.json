@@ -161,6 +161,7 @@
                 "🇪🇨 133 - EC - SS/AEAD - 990",
                 "🇬🇹 134 - GT - SS/AEAD - 990",
                 "🇦🇷 135 - AR - SS/AEAD - 990",
+                "🇧🇬 136 - BG - SS/AEAD - 990",
                 "🇭🇰 137 - HK - SS/AEAD - 990",
                 "🇫🇮 139 - FI - SS/AEAD - 990",
                 "🇦🇹 140 - AT - SS/AEAD - 990",
@@ -171,7 +172,6 @@
                 "🇨🇾 145 - CY - SS/AEAD - 990",
                 "🇧🇭 147 - BH - SS/AEAD - 990",
                 "🇮🇹 150 - IT - SS/AEAD - 990",
-                "🇲🇹 149 - MT - SS/AEAD - 990",
                 "🇧🇴 152 - BO - SS/AEAD - 990",
                 "🇹🇼 154 - TW - SS/AEAD - 990",
                 "🇧🇭 155 - BH - SS/AEAD - 990",
@@ -273,6 +273,7 @@
                 "🇪🇨 133 - EC - SS/AEAD - 990",
                 "🇬🇹 134 - GT - SS/AEAD - 990",
                 "🇦🇷 135 - AR - SS/AEAD - 990",
+                "🇧🇬 136 - BG - SS/AEAD - 990",
                 "🇭🇰 137 - HK - SS/AEAD - 990",
                 "🇫🇮 139 - FI - SS/AEAD - 990",
                 "🇦🇹 140 - AT - SS/AEAD - 990",
@@ -283,7 +284,6 @@
                 "🇨🇾 145 - CY - SS/AEAD - 990",
                 "🇧🇭 147 - BH - SS/AEAD - 990",
                 "🇮🇹 150 - IT - SS/AEAD - 990",
-                "🇲🇹 149 - MT - SS/AEAD - 990",
                 "🇧🇴 152 - BO - SS/AEAD - 990",
                 "🇹🇼 154 - TW - SS/AEAD - 990",
                 "🇧🇭 155 - BH - SS/AEAD - 990",
@@ -1500,6 +1500,14 @@
         },
         {
             "type": "shadowsocks",
+            "tag": "🇧🇬 136 - BG - SS/AEAD - 990",
+            "server": "193.135.174.135",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
             "tag": "🇭🇰 137 - HK - SS/AEAD - 990",
             "server": "203.23.128.92",
             "server_port": 990,
@@ -1574,14 +1582,6 @@
             "type": "shadowsocks",
             "tag": "🇮🇹 150 - IT - SS/AEAD - 990",
             "server": "176.126.83.158",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇲🇹 149 - MT - SS/AEAD - 990",
-            "server": "171.22.254.129",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
