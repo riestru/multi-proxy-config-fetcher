@@ -115,7 +115,7 @@
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 320 - US - VLESS/WS - 2052",
                 "🇺🇸 321 - US - VLESS/WS - 2052",
-                "🇫🇷 323 - FR - VLESS/WS - 80",
+                "🇫🇷 324 - FR - VLESS/WS - 80",
                 "🇺🇸 374 - US - VLESS/WS - 80",
                 "🇺🇸 404 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 405 - US - VLESS/WS/TLS - 443",
@@ -197,6 +197,7 @@
                 "🇬🇹 134 - GT - SS/AEAD - 990",
                 "🇦🇷 135 - AR - SS/AEAD - 990",
                 "🇭🇰 137 - HK - SS/AEAD - 990",
+                "🇫🇮 139 - FI - SS/AEAD - 990",
                 "🇦🇹 140 - AT - SS/AEAD - 990",
                 "🇦🇺 142 - AU - SS/AEAD - 990",
                 "🇭🇰 143 - HK - SS/AEAD - 990",
@@ -260,7 +261,7 @@
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 320 - US - VLESS/WS - 2052",
                 "🇺🇸 321 - US - VLESS/WS - 2052",
-                "🇫🇷 323 - FR - VLESS/WS - 80",
+                "🇫🇷 324 - FR - VLESS/WS - 80",
                 "🇺🇸 374 - US - VLESS/WS - 80",
                 "🇺🇸 404 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 405 - US - VLESS/WS/TLS - 443",
@@ -342,6 +343,7 @@
                 "🇬🇹 134 - GT - SS/AEAD - 990",
                 "🇦🇷 135 - AR - SS/AEAD - 990",
                 "🇭🇰 137 - HK - SS/AEAD - 990",
+                "🇫🇮 139 - FI - SS/AEAD - 990",
                 "🇦🇹 140 - AT - SS/AEAD - 990",
                 "🇦🇺 142 - AU - SS/AEAD - 990",
                 "🇭🇰 143 - HK - SS/AEAD - 990",
@@ -667,8 +669,8 @@
         },
         {
             "type": "vless",
-            "tag": "🇫🇷 323 - FR - VLESS/WS - 80",
-            "server": "152.228.162.19",
+            "tag": "🇫🇷 324 - FR - VLESS/WS - 80",
+            "server": "ov-france1.09vpn.com",
             "server_port": 80,
             "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
             "flow": "",
@@ -679,7 +681,7 @@
                 "type": "ws",
                 "path": "/vless/",
                 "headers": {
-                    "Host": "152.228.162.19"
+                    "Host": "ov-france1.09vpn.com"
                 }
             }
         },
@@ -2198,6 +2200,14 @@
             "type": "shadowsocks",
             "tag": "🇭🇰 137 - HK - SS/AEAD - 990",
             "server": "203.23.128.92",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇫🇮 139 - FI - SS/AEAD - 990",
+            "server": "37.143.129.98",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
