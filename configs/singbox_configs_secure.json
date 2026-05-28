@@ -103,8 +103,6 @@
             "outbounds": [
                 "👽 Best Ping 🚀",
                 "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-                "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-                "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇧🇪 311 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇧🇪 312 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -139,9 +137,10 @@
                 "🇳🇱 597 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 604 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 605 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇫🇷 606 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇬🇧 107 - GB - SS/AEAD - 443",
                 "🇬🇧 110 - GB - SS/AEAD - 55988",
+                "🇧🇬 126 - BG - SS/AEAD - 31348",
+                "🇧🇬 136 - BG - SS/AEAD - 990",
                 "🇳🇱 179 - NL - SS/AEAD - 8080",
                 "🇬🇧 190 - GB - SS/AEAD - 443",
                 "🇬🇧 191 - GB - SS/AEAD - 443",
@@ -158,8 +157,8 @@
                 "🇳🇱 263 - NL - SS/AEAD - 8080",
                 "🇳🇱 264 - NL - SS/AEAD - 8080",
                 "🇳🇱 265 - NL - SS/AEAD - 8080",
+                "🇳🇱 267 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
-                "🇺🇸 162 - US - VMess/WS/TLS - 2053",
                 "direct"
             ]
         },
@@ -172,8 +171,6 @@
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
                 "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-                "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-                "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇧🇪 311 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇧🇪 312 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
@@ -208,9 +205,10 @@
                 "🇳🇱 597 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 604 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 605 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇫🇷 606 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇬🇧 107 - GB - SS/AEAD - 443",
                 "🇬🇧 110 - GB - SS/AEAD - 55988",
+                "🇧🇬 126 - BG - SS/AEAD - 31348",
+                "🇧🇬 136 - BG - SS/AEAD - 990",
                 "🇳🇱 179 - NL - SS/AEAD - 8080",
                 "🇬🇧 190 - GB - SS/AEAD - 443",
                 "🇬🇧 191 - GB - SS/AEAD - 443",
@@ -227,8 +225,8 @@
                 "🇳🇱 263 - NL - SS/AEAD - 8080",
                 "🇳🇱 264 - NL - SS/AEAD - 8080",
                 "🇳🇱 265 - NL - SS/AEAD - 8080",
-                "🇨🇦 301 - CA - SS/AEAD - 443",
-                "🇺🇸 162 - US - VMess/WS/TLS - 2053"
+                "🇳🇱 267 - NL - SS/AEAD - 8080",
+                "🇨🇦 301 - CA - SS/AEAD - 443"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
@@ -247,50 +245,6 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-            "server": "159.89.87.21",
-            "server_port": 28190,
-            "uuid": "14c80e0e-f7ce-4991-94fc-99a1db4a9b1e",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "aws.amazon.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-            "server": "159.89.87.21",
-            "server_port": 28190,
-            "uuid": "14c80e0e-f7ce-4991-94fc-99a1db4a9b1e",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "aws.amazon.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno",
                     "short_id": ""
                 },
                 "utls": {
@@ -1048,28 +1002,6 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇫🇷 606 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-            "server": "62.210.91.2",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
             "type": "shadowsocks",
             "tag": "🇬🇧 107 - GB - SS/AEAD - 443",
             "server": "admin.c1.havij.co",
@@ -1084,6 +1016,22 @@
             "server_port": 55988,
             "method": "chacha20-ietf-poly1305",
             "password": "2Kt8E86x2tVtKbtpsgVpHHE11rU3XWuhC8WzM6KAUwwwpDLcJF6vqWvyR8VHg2LDbJQQjVA1wA6TMq8JSx17ZcKVxcAPGnur"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇧🇬 126 - BG - SS/AEAD - 31348",
+            "server": "89.44.197.181",
+            "server_port": 31348,
+            "method": "chacha20-ietf-poly1305",
+            "password": "zDLmeWRsfcFdKT1Tpy02xodEToqCldTxvZcRoPIZZtBdnIEL"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇧🇬 136 - BG - SS/AEAD - 990",
+            "server": "193.135.174.135",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
         },
         {
             "type": "shadowsocks",
@@ -1215,40 +1163,19 @@
         },
         {
             "type": "shadowsocks",
+            "tag": "🇳🇱 267 - NL - SS/AEAD - 8080",
+            "server": "82.38.31.214",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "k1dBOmOB4oqi7Ump37a1bQ"
+        },
+        {
+            "type": "shadowsocks",
             "tag": "🇨🇦 301 - CA - SS/AEAD - 443",
             "server": "149.22.95.183",
             "server_port": 443,
             "method": "aes-128-gcm",
             "password": "shadowsocks"
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 162 - US - VMess/WS/TLS - 2053",
-            "server": "usaapp1.jisuyun.top",
-            "server_port": 2053,
-            "uuid": "4b80aa86-4354-40bb-d2a3-47126cff0bea",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/usavm",
-                "headers": {
-                    "Host": "usaapp1.jisuyun.top"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "usaapp1.jisuyun.top",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            }
         }
     ],
     "route": {
