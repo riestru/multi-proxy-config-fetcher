@@ -103,16 +103,12 @@
             "outbounds": [
                 "👽 Best Ping 🚀",
                 "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-                "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-                "🇭🇺 265 - HU - VLESS/REALITY/PBK/SID/UTLS - 17267",
-                "🇭🇺 266 - HU - VLESS/REALITY/PBK/SID/UTLS - 17267",
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
+                "🇫🇷 322 - FR - VLESS/WS - 80",
                 "🇫🇷 323 - FR - VLESS/WS - 80",
                 "🇭🇰 436 - HK - VLESS/TLS - 8443",
-                "🇺🇸 565 - US - VLESS/WS - 80",
-                "🇺🇸 566 - US - VLESS/WS - 80",
-                "🇺🇸 567 - US - VLESS/WS - 80",
+                "🇺🇸 564 - US - VLESS/WS - 80",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 573 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -174,16 +170,12 @@
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
                 "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-                "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-                "🇭🇺 265 - HU - VLESS/REALITY/PBK/SID/UTLS - 17267",
-                "🇭🇺 266 - HU - VLESS/REALITY/PBK/SID/UTLS - 17267",
                 "🇫🇷 313 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
+                "🇫🇷 322 - FR - VLESS/WS - 80",
                 "🇫🇷 323 - FR - VLESS/WS - 80",
                 "🇭🇰 436 - HK - VLESS/TLS - 8443",
-                "🇺🇸 565 - US - VLESS/WS - 80",
-                "🇺🇸 566 - US - VLESS/WS - 80",
-                "🇺🇸 567 - US - VLESS/WS - 80",
+                "🇺🇸 564 - US - VLESS/WS - 80",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 573 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -262,28 +254,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-            "server": "159.89.87.21",
-            "server_port": 28190,
-            "uuid": "14c80e0e-f7ce-4991-94fc-99a1db4a9b1e",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "aws.amazon.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
             "server": "47.251.25.74",
             "server_port": 443,
@@ -296,50 +266,6 @@
                     "enabled": true,
                     "public_key": "H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8",
                     "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇭🇺 265 - HU - VLESS/REALITY/PBK/SID/UTLS - 17267",
-            "server": "5.182.38.91",
-            "server_port": 17267,
-            "uuid": "1c7fcc38-e6be-43c5-875f-b8de2516b9f2",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk",
-                    "short_id": "4ae260"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇭🇺 266 - HU - VLESS/REALITY/PBK/SID/UTLS - 17267",
-            "server": "5.182.38.91",
-            "server_port": 17267,
-            "uuid": "1c7fcc38-e6be-43c5-875f-b8de2516b9f2",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk",
-                    "short_id": "4ae260"
                 },
                 "utls": {
                     "enabled": true,
@@ -369,6 +295,24 @@
                 }
             },
             "transport": {}
+        },
+        {
+            "type": "vless",
+            "tag": "🇫🇷 322 - FR - VLESS/WS - 80",
+            "server": "152.228.162.19",
+            "server_port": 80,
+            "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/vless/",
+                "headers": {
+                    "Host": "Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN"
+                }
+            }
         },
         {
             "type": "vless",
@@ -411,43 +355,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 565 - US - VLESS/WS - 80",
-            "server": "188.114.98.0",
-            "server_port": 80,
-            "uuid": "478cc26d-16b3-4fdd-be64-60d5a58c1622",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "tt.andishehparenting.com"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 566 - US - VLESS/WS - 80",
-            "server": "188.114.98.0",
-            "server_port": 80,
-            "uuid": "478cc26d-16b3-4fdd-be64-60d5a58c1622",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "tt.andishehparenting.com"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 567 - US - VLESS/WS - 80",
+            "tag": "🇺🇸 564 - US - VLESS/WS - 80",
             "server": "188.114.98.0",
             "server_port": 80,
             "uuid": "478cc26d-16b3-4fdd-be64-60d5a58c1622",
