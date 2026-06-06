@@ -1206,10 +1206,10 @@
       "settings": {
         "servers": [
           {
-            "address": "mx2.drawnrisha.one",
-            "port": 55988,
+            "address": "89.44.197.181",
+            "port": 31348,
             "method": "chacha20-ietf-poly1305",
-            "password": "2Kt8E86x2tVtKbtpsgVpHHE11rU3XWuhC8WzM6KAUwwwpDLcJF6vqWvyR8VHg2LDbJQQjVA1wA6TMq8JSx17ZcKVxcAPGnur",
+            "password": "zDLmeWRsfcFdKT1Tpy02xodEToqCldTxvZcRoPIZZtBdnIEL",
             "level": 8
           }
         ]
@@ -1526,24 +1526,6 @@
     },
     {
       "tag": "proxy-58",
-      "protocol": "shadowsocks",
-      "settings": {
-        "servers": [
-          {
-            "address": "82.38.31.214",
-            "port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "k1dBOmOB4oqi7Ump37a1bQ",
-            "level": 8
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp"
-      }
-    },
-    {
-      "tag": "proxy-59",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [

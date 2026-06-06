@@ -144,7 +144,7 @@
                 "🇫🇷 606 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 689 - US - VLESS/WS - 80",
                 "🇬🇧 107 - GB - SS/AEAD - 443",
-                "🇬🇧 110 - GB - SS/AEAD - 55988",
+                "🇧🇬 126 - BG - SS/AEAD - 31348",
                 "🇳🇱 179 - NL - SS/AEAD - 8080",
                 "🇬🇧 190 - GB - SS/AEAD - 443",
                 "🇬🇧 191 - GB - SS/AEAD - 443",
@@ -162,7 +162,6 @@
                 "🇳🇱 264 - NL - SS/AEAD - 8080",
                 "🇳🇱 265 - NL - SS/AEAD - 8080",
                 "🇳🇱 266 - NL - SS/AEAD - 8080",
-                "🇳🇱 267 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
                 "direct"
             ]
@@ -217,7 +216,7 @@
                 "🇫🇷 606 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 689 - US - VLESS/WS - 80",
                 "🇬🇧 107 - GB - SS/AEAD - 443",
-                "🇬🇧 110 - GB - SS/AEAD - 55988",
+                "🇧🇬 126 - BG - SS/AEAD - 31348",
                 "🇳🇱 179 - NL - SS/AEAD - 8080",
                 "🇬🇧 190 - GB - SS/AEAD - 443",
                 "🇬🇧 191 - GB - SS/AEAD - 443",
@@ -235,7 +234,6 @@
                 "🇳🇱 264 - NL - SS/AEAD - 8080",
                 "🇳🇱 265 - NL - SS/AEAD - 8080",
                 "🇳🇱 266 - NL - SS/AEAD - 8080",
-                "🇳🇱 267 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443"
             ],
             "url": "https://www.gstatic.com/generate_204",
@@ -1156,11 +1154,11 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇬🇧 110 - GB - SS/AEAD - 55988",
-            "server": "mx2.drawnrisha.one",
-            "server_port": 55988,
+            "tag": "🇧🇬 126 - BG - SS/AEAD - 31348",
+            "server": "89.44.197.181",
+            "server_port": 31348,
             "method": "chacha20-ietf-poly1305",
-            "password": "2Kt8E86x2tVtKbtpsgVpHHE11rU3XWuhC8WzM6KAUwwwpDLcJF6vqWvyR8VHg2LDbJQQjVA1wA6TMq8JSx17ZcKVxcAPGnur"
+            "password": "zDLmeWRsfcFdKT1Tpy02xodEToqCldTxvZcRoPIZZtBdnIEL"
         },
         {
             "type": "shadowsocks",
@@ -1294,14 +1292,6 @@
             "type": "shadowsocks",
             "tag": "🇳🇱 266 - NL - SS/AEAD - 8080",
             "server": "82.38.31.205",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "k1dBOmOB4oqi7Ump37a1bQ"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 267 - NL - SS/AEAD - 8080",
-            "server": "82.38.31.214",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "k1dBOmOB4oqi7Ump37a1bQ"
