@@ -142,7 +142,6 @@
                 "🇫🇷 606 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇬🇧 107 - GB - SS/AEAD - 443",
                 "🇬🇧 110 - GB - SS/AEAD - 55988",
-                "🇧🇬 126 - BG - SS/AEAD - 31348",
                 "🇳🇱 179 - NL - SS/AEAD - 8080",
                 "🇬🇧 190 - GB - SS/AEAD - 443",
                 "🇬🇧 191 - GB - SS/AEAD - 443",
@@ -162,7 +161,6 @@
                 "🇳🇱 266 - NL - SS/AEAD - 8080",
                 "🇳🇱 267 - NL - SS/AEAD - 8080",
                 "🇨🇦 301 - CA - SS/AEAD - 443",
-                "🇭🇺 29 - HU - VMess/WS - 80",
                 "direct"
             ]
         },
@@ -214,7 +212,6 @@
                 "🇫🇷 606 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇬🇧 107 - GB - SS/AEAD - 443",
                 "🇬🇧 110 - GB - SS/AEAD - 55988",
-                "🇧🇬 126 - BG - SS/AEAD - 31348",
                 "🇳🇱 179 - NL - SS/AEAD - 8080",
                 "🇬🇧 190 - GB - SS/AEAD - 443",
                 "🇬🇧 191 - GB - SS/AEAD - 443",
@@ -233,8 +230,7 @@
                 "🇳🇱 265 - NL - SS/AEAD - 8080",
                 "🇳🇱 266 - NL - SS/AEAD - 8080",
                 "🇳🇱 267 - NL - SS/AEAD - 8080",
-                "🇨🇦 301 - CA - SS/AEAD - 443",
-                "🇭🇺 29 - HU - VMess/WS - 80"
+                "🇨🇦 301 - CA - SS/AEAD - 443"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
@@ -1108,14 +1104,6 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇧🇬 126 - BG - SS/AEAD - 31348",
-            "server": "89.44.197.181",
-            "server_port": 31348,
-            "method": "chacha20-ietf-poly1305",
-            "password": "zDLmeWRsfcFdKT1Tpy02xodEToqCldTxvZcRoPIZZtBdnIEL"
-        },
-        {
-            "type": "shadowsocks",
             "tag": "🇳🇱 179 - NL - SS/AEAD - 8080",
             "server": "193.29.139.199",
             "server_port": 8080,
@@ -1265,25 +1253,6 @@
             "server_port": 443,
             "method": "aes-128-gcm",
             "password": "shadowsocks"
-        },
-        {
-            "type": "vmess",
-            "tag": "🇭🇺 29 - HU - VMess/WS - 80",
-            "server": "45.12.132.183",
-            "server_port": 80,
-            "uuid": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/vmess/",
-                "headers": {
-                    "Host": "45.12.132.183"
-                }
-            },
-            "tls": {
-                "enabled": false
-            }
         }
     ],
     "route": {
