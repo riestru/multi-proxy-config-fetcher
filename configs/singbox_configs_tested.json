@@ -106,8 +106,7 @@
                 "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-                "🇫🇷 322 - FR - VLESS/WS - 80",
-                "🇫🇷 324 - FR - VLESS/WS - 80",
+                "🇫🇷 323 - FR - VLESS/WS - 80",
                 "🇭🇰 436 - HK - VLESS/TLS - 8443",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -144,15 +143,13 @@
                 "🇬🇧 191 - GB - SS/AEAD - 443",
                 "🇬🇧 192 - GB - SS/AEAD - 443",
                 "🇬🇧 193 - GB - SS/AEAD - 443",
-                "🇺🇸 255 - US - SS/AEAD - 443",
-                "🇺🇸 254 - US - SS/AEAD - 443",
-                "🇺🇸 256 - US - SS/AEAD - 443",
                 "🇳🇱 258 - NL - SS/AEAD - 8080",
                 "🇳🇱 259 - NL - SS/AEAD - 8080",
                 "🇳🇱 260 - NL - SS/AEAD - 8080",
                 "🇳🇱 261 - NL - SS/AEAD - 8080",
                 "🇳🇱 262 - NL - SS/AEAD - 8080",
                 "🇳🇱 263 - NL - SS/AEAD - 8080",
+                "🇳🇱 264 - NL - SS/AEAD - 8080",
                 "🇳🇱 265 - NL - SS/AEAD - 8080",
                 "🇳🇱 266 - NL - SS/AEAD - 8080",
                 "🇳🇱 267 - NL - SS/AEAD - 8080",
@@ -172,8 +169,7 @@
                 "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-                "🇫🇷 322 - FR - VLESS/WS - 80",
-                "🇫🇷 324 - FR - VLESS/WS - 80",
+                "🇫🇷 323 - FR - VLESS/WS - 80",
                 "🇭🇰 436 - HK - VLESS/TLS - 8443",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -210,15 +206,13 @@
                 "🇬🇧 191 - GB - SS/AEAD - 443",
                 "🇬🇧 192 - GB - SS/AEAD - 443",
                 "🇬🇧 193 - GB - SS/AEAD - 443",
-                "🇺🇸 255 - US - SS/AEAD - 443",
-                "🇺🇸 254 - US - SS/AEAD - 443",
-                "🇺🇸 256 - US - SS/AEAD - 443",
                 "🇳🇱 258 - NL - SS/AEAD - 8080",
                 "🇳🇱 259 - NL - SS/AEAD - 8080",
                 "🇳🇱 260 - NL - SS/AEAD - 8080",
                 "🇳🇱 261 - NL - SS/AEAD - 8080",
                 "🇳🇱 262 - NL - SS/AEAD - 8080",
                 "🇳🇱 263 - NL - SS/AEAD - 8080",
+                "🇳🇱 264 - NL - SS/AEAD - 8080",
                 "🇳🇱 265 - NL - SS/AEAD - 8080",
                 "🇳🇱 266 - NL - SS/AEAD - 8080",
                 "🇳🇱 267 - NL - SS/AEAD - 8080",
@@ -318,7 +312,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇫🇷 322 - FR - VLESS/WS - 80",
+            "tag": "🇫🇷 323 - FR - VLESS/WS - 80",
             "server": "152.228.162.19",
             "server_port": 80,
             "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
@@ -330,25 +324,7 @@
                 "type": "ws",
                 "path": "/vless/",
                 "headers": {
-                    "Host": "Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇫🇷 324 - FR - VLESS/WS - 80",
-            "server": "ov-france1.09vpn.com",
-            "server_port": 80,
-            "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/vless/",
-                "headers": {
-                    "Host": "ov-france1.09vpn.com"
+                    "Host": "152.228.162.19"
                 }
             }
         },
@@ -1047,30 +1023,6 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇺🇸 255 - US - SS/AEAD - 443",
-            "server": "tinkered-pennies-puppies.freesocks.work",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "hbGrpfvNrJsUmKmPbR3iY2"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 254 - US - SS/AEAD - 443",
-            "server": "tinkered-pennies-puppies.freesocks.work",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "hbGrpfvNrJsUmKmPbR3iY2"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 256 - US - SS/AEAD - 443",
-            "server": "tinkered-pennies-puppies.freesocks.work",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "hbGrpfvNrJsUmKmPbR3iY2"
-        },
-        {
-            "type": "shadowsocks",
             "tag": "🇳🇱 258 - NL - SS/AEAD - 8080",
             "server": "82.38.31.184",
             "server_port": 8080,
@@ -1113,6 +1065,14 @@
             "type": "shadowsocks",
             "tag": "🇳🇱 263 - NL - SS/AEAD - 8080",
             "server": "82.38.31.187",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "k1dBOmOB4oqi7Ump37a1bQ"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇳🇱 264 - NL - SS/AEAD - 8080",
+            "server": "82.38.31.189",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "k1dBOmOB4oqi7Ump37a1bQ"
