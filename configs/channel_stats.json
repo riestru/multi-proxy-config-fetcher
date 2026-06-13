@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-13T10:56:40.156287+00:00",
+  "timestamp": "2026-06-13T13:05:47.159775+00:00",
   "channels": [
     {
       "url": "https://t.me/s/PrivateVPNs",
@@ -51,7 +51,7 @@
       "url": "https://t.me/s/persianvpnhub",
       "enabled": false,
       "metrics": {
-        "total_configs": 14,
+        "total_configs": 17,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,7 +120,7 @@
       "url": "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 275,
+        "total_configs": 70,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -146,11 +146,11 @@
         "total_configs": 418,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.07,
-        "last_success": "2026-06-13T10:56:30.540219+00:00",
+        "overall_score": 75.1,
+        "last_success": "2026-06-13T13:05:37.226420+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -169,11 +169,11 @@
         "total_configs": 1098,
         "valid_configs": 43,
         "unique_configs": 43,
-        "avg_response_time": 0.02,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.95,
-        "last_success": "2026-06-13T10:56:32.572310+00:00",
+        "overall_score": 75.78,
+        "last_success": "2026-06-13T13:05:39.370769+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 43,
@@ -212,7 +212,7 @@
       "url": "https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 22,
+        "total_configs": 43,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
