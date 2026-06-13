@@ -1019,10 +1019,10 @@
       "settings": {
         "servers": [
           {
-            "address": "admin.c1.havij.co",
-            "port": 443,
+            "address": "mx2.drawnrisha.one",
+            "port": 55988,
             "method": "chacha20-ietf-poly1305",
-            "password": "1kVr0KATIJI7mwOF",
+            "password": "2Kt8E86x2tVtKbtpsgVpHHE11rU3XWuhC8WzM6KAUwwwpDLcJF6vqWvyR8VHg2LDbJQQjVA1wA6TMq8JSx17ZcKVxcAPGnur",
             "level": 8
           }
         ]
@@ -1037,10 +1037,10 @@
       "settings": {
         "servers": [
           {
-            "address": "mx2.drawnrisha.one",
-            "port": 55988,
+            "address": "193.29.139.199",
+            "port": 8080,
             "method": "chacha20-ietf-poly1305",
-            "password": "2Kt8E86x2tVtKbtpsgVpHHE11rU3XWuhC8WzM6KAUwwwpDLcJF6vqWvyR8VHg2LDbJQQjVA1wA6TMq8JSx17ZcKVxcAPGnur",
+            "password": "QCXDxuDlTTMD7jtgHUjIoj",
             "level": 8
           }
         ]
@@ -1055,10 +1055,10 @@
       "settings": {
         "servers": [
           {
-            "address": "193.29.139.199",
-            "port": 8080,
+            "address": "admin.c1.webramz.co",
+            "port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "QCXDxuDlTTMD7jtgHUjIoj",
+            "password": "W74XFALLLuw6m5IA",
             "level": 8
           }
         ]
