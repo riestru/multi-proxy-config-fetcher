@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-16T02:08:54.243153+00:00",
+  "timestamp": "2026-06-16T08:23:44.574350+00:00",
   "channels": [
     {
       "url": "https://t.me/s/PrivateVPNs",
@@ -51,7 +51,7 @@
       "url": "https://t.me/s/persianvpnhub",
       "enabled": false,
       "metrics": {
-        "total_configs": 20,
+        "total_configs": 16,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,7 +120,7 @@
       "url": "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 427,
+        "total_configs": 94,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -143,17 +143,17 @@
       "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
       "enabled": true,
       "metrics": {
-        "total_configs": 385,
-        "valid_configs": 2,
-        "unique_configs": 2,
-        "avg_response_time": 0.0,
+        "total_configs": 341,
+        "valid_configs": 4,
+        "unique_configs": 4,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.12,
-        "last_success": "2026-06-16T02:08:40.955476+00:00",
+        "last_success": "2026-06-16T08:23:31.195626+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 2,
+          "hysteria2://": 4,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
@@ -173,7 +173,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.8,
-        "last_success": "2026-06-16T02:08:43.085900+00:00",
+        "last_success": "2026-06-16T08:23:33.325677+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 43,
@@ -212,7 +212,7 @@
       "url": "https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 34,
+        "total_configs": 36,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
