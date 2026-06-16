@@ -107,8 +107,6 @@
                 "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇷🇺 277 - RU - VLESS/WS/TLS - 443",
-                "🇺🇸 404 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 405 - US - VLESS/WS/TLS - 443",
                 "🇭🇰 436 - HK - VLESS/TLS - 8443",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -144,9 +142,6 @@
                 "🇬🇧 191 - GB - SS/AEAD - 443",
                 "🇬🇧 192 - GB - SS/AEAD - 443",
                 "🇬🇧 193 - GB - SS/AEAD - 443",
-                "🇺🇸 255 - US - SS/AEAD - 443",
-                "🇺🇸 254 - US - SS/AEAD - 443",
-                "🇺🇸 256 - US - SS/AEAD - 443",
                 "🇳🇱 258 - NL - SS/AEAD - 8080",
                 "🇳🇱 259 - NL - SS/AEAD - 8080",
                 "🇳🇱 260 - NL - SS/AEAD - 8080",
@@ -173,8 +168,6 @@
                 "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇷🇺 277 - RU - VLESS/WS/TLS - 443",
-                "🇺🇸 404 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 405 - US - VLESS/WS/TLS - 443",
                 "🇭🇰 436 - HK - VLESS/TLS - 8443",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -210,9 +203,6 @@
                 "🇬🇧 191 - GB - SS/AEAD - 443",
                 "🇬🇧 192 - GB - SS/AEAD - 443",
                 "🇬🇧 193 - GB - SS/AEAD - 443",
-                "🇺🇸 255 - US - SS/AEAD - 443",
-                "🇺🇸 254 - US - SS/AEAD - 443",
-                "🇺🇸 256 - US - SS/AEAD - 443",
                 "🇳🇱 258 - NL - SS/AEAD - 8080",
                 "🇳🇱 259 - NL - SS/AEAD - 8080",
                 "🇳🇱 260 - NL - SS/AEAD - 8080",
@@ -340,60 +330,6 @@
                 "path": "/eyJqdW5rIjoiSFM1N0lLQmx2UU1qRzlnTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
                     "Host": "057.electrocellco-cf-057.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 404 - US - VLESS/WS/TLS - 443",
-            "server": "002.inc-electrocell-001-002.workers.dev",
-            "server_port": 443,
-            "uuid": "36a857e4-f3d4-43aa-8b90-d7da849da989",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "002.Inc-ElectROcElL-001-002.WoRKERS.DEV",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "headers": {
-                    "Host": "002.inc-electrocell-001-002.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 405 - US - VLESS/WS/TLS - 443",
-            "server": "002.inc-electrocell-001-002.workers.dev",
-            "server_port": 443,
-            "uuid": "36a857e4-f3d4-43aa-8b90-d7da849da989",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "002.Inc-ElectROcElL-001-002.WoRKERS.DEV",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "headers": {
-                    "Host": "002.inc-electrocell-001-002.workers.dev"
                 }
             }
         },
@@ -1081,30 +1017,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "W74XFALLLuw6m5IA"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 255 - US - SS/AEAD - 443",
-            "server": "tinkered-pennies-puppies.freesocks.work",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "hbGrpfvNrJsUmKmPbR3iY2"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 254 - US - SS/AEAD - 443",
-            "server": "tinkered-pennies-puppies.freesocks.work",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "hbGrpfvNrJsUmKmPbR3iY2"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 256 - US - SS/AEAD - 443",
-            "server": "tinkered-pennies-puppies.freesocks.work",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "hbGrpfvNrJsUmKmPbR3iY2"
         },
         {
             "type": "shadowsocks",
