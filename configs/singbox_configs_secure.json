@@ -137,9 +137,6 @@
                 "🇳🇱 596 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇳🇱 597 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 606 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇺🇸 255 - US - SS/AEAD - 443",
-                "🇺🇸 254 - US - SS/AEAD - 443",
-                "🇺🇸 256 - US - SS/AEAD - 443",
                 "🇳🇱 258 - NL - SS/AEAD - 8080",
                 "🇳🇱 259 - NL - SS/AEAD - 8080",
                 "🇳🇱 260 - NL - SS/AEAD - 8080",
@@ -197,9 +194,6 @@
                 "🇳🇱 596 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇳🇱 597 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 606 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇺🇸 255 - US - SS/AEAD - 443",
-                "🇺🇸 254 - US - SS/AEAD - 443",
-                "🇺🇸 256 - US - SS/AEAD - 443",
                 "🇳🇱 258 - NL - SS/AEAD - 8080",
                 "🇳🇱 259 - NL - SS/AEAD - 8080",
                 "🇳🇱 260 - NL - SS/AEAD - 8080",
@@ -1000,30 +994,6 @@
                 }
             },
             "transport": {}
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 255 - US - SS/AEAD - 443",
-            "server": "tinkered-pennies-puppies.freesocks.work",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "hbGrpfvNrJsUmKmPbR3iY2"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 254 - US - SS/AEAD - 443",
-            "server": "tinkered-pennies-puppies.freesocks.work",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "hbGrpfvNrJsUmKmPbR3iY2"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 256 - US - SS/AEAD - 443",
-            "server": "tinkered-pennies-puppies.freesocks.work",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "hbGrpfvNrJsUmKmPbR3iY2"
         },
         {
             "type": "shadowsocks",
