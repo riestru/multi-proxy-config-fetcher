@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T01:00:42.543097+00:00",
+  "timestamp": "2026-07-08T05:33:38.176709+00:00",
   "channels": [
     {
       "url": "https://t.me/s/PrivateVPNs",
@@ -51,7 +51,7 @@
       "url": "https://t.me/s/persianvpnhub",
       "enabled": false,
       "metrics": {
-        "total_configs": 7,
+        "total_configs": 19,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -77,11 +77,11 @@
         "total_configs": 412,
         "valid_configs": 28,
         "unique_configs": 28,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.65,
-        "last_success": "2026-07-08T01:00:28.245281+00:00",
+        "overall_score": 76.63,
+        "last_success": "2026-07-08T05:33:23.845371+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 28,
@@ -120,7 +120,7 @@
       "url": "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 432,
+        "total_configs": 514,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -143,17 +143,17 @@
       "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
       "enabled": true,
       "metrics": {
-        "total_configs": 518,
-        "valid_configs": 80,
-        "unique_configs": 80,
+        "total_configs": 474,
+        "valid_configs": 87,
+        "unique_configs": 87,
         "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.85,
-        "last_success": "2026-07-08T01:00:34.271993+00:00",
+        "overall_score": 79.58,
+        "last_success": "2026-07-08T05:33:29.882435+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 80,
+          "hysteria2://": 87,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
@@ -172,8 +172,8 @@
         "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.97,
-        "last_success": "2026-07-08T01:00:36.292311+00:00",
+        "overall_score": 75.96,
+        "last_success": "2026-07-08T05:33:31.907175+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 43,
@@ -241,8 +241,8 @@
         "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.41,
-        "last_success": "2026-07-08T01:00:42.542189+00:00",
+        "overall_score": 76.4,
+        "last_success": "2026-07-08T05:33:38.175744+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 73,
