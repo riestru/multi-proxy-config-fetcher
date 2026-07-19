@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T01:02:01.161067+00:00",
+  "timestamp": "2026-07-19T05:34:08.931730+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hy2",
@@ -8,11 +8,11 @@
         "total_configs": 8,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.81,
-        "last_success": "2026-07-19T01:01:52.728748+00:00",
+        "overall_score": 99.8,
+        "last_success": "2026-07-19T05:34:00.469208+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 8,
@@ -31,11 +31,11 @@
         "total_configs": 37,
         "valid_configs": 37,
         "unique_configs": 37,
-        "avg_response_time": 0.0,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.99,
-        "last_success": "2026-07-19T01:01:54.733849+00:00",
+        "overall_score": 99.9,
+        "last_success": "2026-07-19T05:34:02.539584+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 37,
@@ -77,11 +77,11 @@
         "total_configs": 127,
         "valid_configs": 126,
         "unique_configs": 126,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.58,
-        "last_success": "2026-07-19T01:01:58.995716+00:00",
+        "overall_score": 99.59,
+        "last_success": "2026-07-19T05:34:06.783079+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 126,
@@ -99,12 +99,12 @@
       "metrics": {
         "total_configs": 127,
         "valid_configs": 126,
-        "unique_configs": 63,
-        "avg_response_time": 0.16,
+        "unique_configs": 70,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.06,
-        "last_success": "2026-07-19T01:02:01.160217+00:00",
+        "overall_score": 88.48,
+        "last_success": "2026-07-19T05:34:08.930704+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 126,
