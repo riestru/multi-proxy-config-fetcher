@@ -105,8 +105,9 @@
                 "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-                "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇷🇺 277 - RU - VLESS/WS/TLS - 443",
+                "🇫🇷 322 - FR - VLESS/WS - 80",
+                "🇫🇷 323 - FR - VLESS/WS - 80",
                 "🇫🇷 324 - FR - VLESS/WS - 80",
                 "🇺🇸 404 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 405 - US - VLESS/WS/TLS - 443",
@@ -163,8 +164,9 @@
                 "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-                "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇷🇺 277 - RU - VLESS/WS/TLS - 443",
+                "🇫🇷 322 - FR - VLESS/WS - 80",
+                "🇫🇷 323 - FR - VLESS/WS - 80",
                 "🇫🇷 324 - FR - VLESS/WS - 80",
                 "🇺🇸 404 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 405 - US - VLESS/WS/TLS - 443",
@@ -280,28 +282,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-            "server": "47.251.25.74",
-            "server_port": 443,
-            "uuid": "18805ff3-b420-45de-af18-93be14024ae8",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.amazon.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇷🇺 277 - RU - VLESS/WS/TLS - 443",
             "server": "mci.buzzmuzzpanel.online",
             "server_port": 443,
@@ -324,6 +304,42 @@
                 "path": "/eyJqdW5rIjoiSFM1N0lLQmx2UU1qRzlnTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
                 "headers": {
                     "Host": "057.electrocellco-cf-057.workers.dev"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇫🇷 322 - FR - VLESS/WS - 80",
+            "server": "152.228.162.19",
+            "server_port": 80,
+            "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/vless/",
+                "headers": {
+                    "Host": "Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇫🇷 323 - FR - VLESS/WS - 80",
+            "server": "152.228.162.19",
+            "server_port": 80,
+            "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/vless/",
+                "headers": {
+                    "Host": "152.228.162.19"
                 }
             }
         },
