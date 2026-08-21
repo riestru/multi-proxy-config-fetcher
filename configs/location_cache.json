@@ -1,277 +1,77 @@
 {
-  "85.204.107.164": [
-    "🇩🇿",
-    "Algeria"
-  ],
-  "160.187.100.109": [
-    "🇹🇼",
-    "Taiwan (Province of China)"
-  ],
-  "217.60.182.79": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "179.61.132.96": [
+  "91.196.32.163": [
     "🇩🇪",
     "Germany"
   ],
-  "nl174.mechvpn.online": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "89.125.156.80": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "154.31.115.179": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "23-19-231-152.liao.kdns.fr": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "pg-usa2-hy2.gigatapbot.top": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "jp.cryptoofarm.com": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "205.237.109.218": [
-    "🇮🇹",
-    "Italy"
-  ],
-  "olp.crsmaps.com": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "serv21.strettenvpn.com": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "swe.frkn.org": [
-    "🇸🇪",
-    "Sweden"
-  ],
-  "18.118.193.169": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "ee2.sferavpn.pro": [
-    "🇪🇪",
-    "Estonia"
-  ],
-  "151.247.197.253": [
-    "🇫🇷",
-    "France"
-  ],
-  "mg2.mangshe.xyz": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "31.76.27.23": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "nl2.sferavpn.pro": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "137.23.2.19": [
-    "🇦🇺",
-    "Australia"
-  ],
-  "70.34.205.15": [
-    "🇸🇪",
-    "Sweden"
-  ],
-  "ro.h2corp.org": [
-    "🇷🇴",
-    "Romania"
-  ],
-  "62.60.247.164": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "162.249.124.105": [
-    "🇮🇪",
-    "Ireland"
-  ],
-  "3.36.93.74": [
-    "🇰🇷",
-    "Korea (the Republic of)"
-  ],
-  "198.105.123.106": [
-    "🇹🇷",
-    "Turkiye"
-  ],
-  "dns.devmrzero.ir": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "rpc-2068.internet-booster.com": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "94-229-64-108.liao.kdns.fr": [
-    "🇬🇧",
-    "United Kingdom of Great Britain and Northern Ireland"
-  ],
-  "205.237.109.221": [
-    "🇮🇹",
-    "Italy"
-  ],
-  "assets.gateway-stream.com": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "194.180.188.104": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "3.36.96.245": [
-    "🇰🇷",
-    "Korea (the Republic of)"
-  ],
-  "86.107.178.73": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "cabinet.wwwinternetvideo.click": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "181.214.99.162": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "46.229.243.132": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "dereserv.just-cloud.org": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "fg7xl1div.d33tqmk.cc": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "de.1.22.washing.help": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "18.226.172.222": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "es1.xiaoliyu.cyou": [
-    "🇪🇸",
-    "Spain"
-  ],
-  "hy2.123266.xyz": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "85.204.107.165": [
-    "🇩🇿",
-    "Algeria"
-  ],
-  "150.241.102.127": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "nl.prisma-access.club": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "86.53.105.117": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "85.204.107.166": [
-    "🇩🇿",
-    "Algeria"
-  ],
-  "130.49.161.70": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "rou0001ntrhy01.tcp-reset-club.net": [
-    "🇷🇴",
-    "Romania"
-  ],
-  "fast.wwwinternetvideo.click": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "de200.mechvpn.online": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "91.84.119.49": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "198-46-188-116.liao.kdns.fr": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "193.122.104.200": [
-    "🇰🇷",
-    "Korea (the Republic of)"
+  "bel-03.node.lumixnet.com": [
+    "🇧🇪",
+    "Belgium"
   ],
   "159.223.157.129": [
     "🇺🇸",
     "United States of America"
   ],
-  "202.146.222.29": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "139.28.98.26": [
+  "46.229.243.131": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
+  ],
+  "hy2.123266.xyz": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "gorbachev-th.kvnfreetest.uk": [
+    "🇹🇭",
+    "Thailand"
+  ],
+  "86.107.178.66": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "70.34.205.15": [
+    "🇸🇪",
+    "Sweden"
+  ],
+  "194.87.10.29": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "144.31.5.9": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "nl8.mechvpn.online": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "154.31.115.179": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "31.76.80.69": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "86.107.178.73": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "142.249.37.90": [
+    "🇺🇸",
+    "United States of America"
   ],
   "144.31.135.204": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
-  "222.167.212.24": [
-    "🇫🇮",
-    "Finland"
+  "107.181.155.107": [
+    "🇹🇷",
+    "Turkiye"
   ],
-  "86.107.178.75": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
+  "162.249.124.105": [
+    "🇮🇪",
+    "Ireland"
   ],
-  "82.22.41.10": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "86.107.178.72": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "138.124.0.168": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "206.71.158.37": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "185.79.138.71": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "node1.sferavpn.pro": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "pixelcast.wwwinternetvideo.click": [
+  "95.164.123.231": [
     "🇩🇪",
     "Germany"
   ],
@@ -279,243 +79,299 @@
     "🇫🇷",
     "France"
   ],
-  "sg2.xiaoliyu.cyou": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "162.249.124.99": [
-    "🇮🇪",
-    "Ireland"
-  ],
-  "62.210.124.146": [
-    "🇫🇷",
-    "France"
-  ],
-  "player.wwwinternetvideo.click": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "185.156.44.99": [
-    "🇷🇴",
-    "Romania"
-  ],
-  "167.179.34.31": [
-    "🇹🇭",
-    "Thailand"
-  ],
-  "45.192.12.93": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "de120.mechvpn.online": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "nl01ntrhy01.tcp-reset-club.net": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "144.31.5.9": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "vip-sg-1.hkd4fwmg.vip": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "us63.mechvpn.online": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "bel-03.node.lumixnet.com": [
-    "🇧🇪",
-    "Belgium"
-  ],
-  "142.249.37.90": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "86.107.178.66": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "gorbachev-new-th.kvnfreetest.uk": [
-    "🇹🇭",
-    "Thailand"
-  ],
-  "91.196.32.163": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "47.129.155.42": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "194.87.10.29": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "113.30.152.25": [
-    "🇧🇪",
-    "Belgium"
-  ],
-  "185.81.115.8": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "fr.vpn.legendaah.xyz": [
-    "🇫🇷",
-    "France"
-  ],
-  "5.83.129.11": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "h2.vpnushka.lol": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "92.4.68.18": [
-    "🇮🇳",
-    "India"
-  ],
-  "nl8.mechvpn.online": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "162.249.124.102": [
-    "🇮🇪",
-    "Ireland"
-  ],
-  "64.188.98.171": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "44.255.13.86": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "us65.mechvpn.online": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "179.61.251.253": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "vip-jp-4.hkd4fwmg.vip": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "130.61.50.75": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "us54.mechvpn.online": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "ptserv.accuratenetworkchecker.ir": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "77.110.96.201": [
-    "🇸🇪",
-    "Sweden"
+  "pro2.riziro.ir": [
+    "🏳️",
+    "Unknown"
   ],
   "3.148.164.219": [
     "🇺🇸",
     "United States of America"
   ],
-  "194.180.188.97": [
-    "🇩🇪",
-    "Germany"
+  "assets.gateway-stream.com": [
+    "🇫🇮",
+    "Finland"
   ],
-  "43.156.90.144": [
-    "🇸🇬",
-    "Singapore"
+  "185.81.115.8": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
-  "194.180.188.21": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "de.1.23.h2corp.org": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "38.114.103.212": [
+  "hy2.561891.xyz": [
     "🇺🇸",
     "United States of America"
   ],
-  "107.181.155.107": [
-    "🇹🇷",
-    "Turkiye"
+  "95.217.96.131": [
+    "🇫🇮",
+    "Finland"
   ],
-  "86.107.178.68": [
+  "64.188.98.171": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "node3.vpnushka.lol": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
+  ],
+  "de120.mechvpn.online": [
+    "🇩🇪",
+    "Germany"
   ],
   "211.22.154.26": [
     "🇹🇼",
     "Taiwan (Province of China)"
   ],
-  "iq5ny.pleiades.codes": [
+  "18.226.172.222": [
     "🇺🇸",
     "United States of America"
   ],
-  "hk2.xiaoliyu.cyou": [
-    "🇭🇰",
-    "Hong Kong"
+  "193.122.104.200": [
+    "🇰🇷",
+    "Korea (the Republic of)"
   ],
   "2.27.42.66": [
     "🇫🇮",
     "Finland"
   ],
-  "143.246.208.86": [
+  "43.156.90.144": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "85.204.107.165": [
+    "🇩🇿",
+    "Algeria"
+  ],
+  "198-46-188-116.liao.kdns.fr": [
     "🇺🇸",
     "United States of America"
   ],
-  "155.248.209.237": [
-    "🇺🇸",
-    "United States of America"
+  "198.105.123.106": [
+    "🇹🇷",
+    "Turkiye"
   ],
-  "31.76.80.69": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "79.137.205.35": [
+  "nl.prisma-access.club": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
-  "222.167.212.80": [
+  "pixelcast.wwwinternetvideo.click": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "serv21.strettenvpn.com": [
     "🇫🇮",
     "Finland"
+  ],
+  "hk2.xiaoliyu.cyou": [
+    "🇭🇰",
+    "Hong Kong"
   ],
   "54.213.89.22": [
     "🇺🇸",
     "United States of America"
   ],
-  "95.164.123.231": [
+  "85.204.107.164": [
+    "🇩🇿",
+    "Algeria"
+  ],
+  "130.61.50.75": [
     "🇩🇪",
     "Germany"
   ],
-  "db1.mangshe.xyz": [
-    "🇦🇪",
-    "United Arab Emirates"
+  "92.4.68.18": [
+    "🇮🇳",
+    "India"
   ],
-  "at133.mechvpn.online": [
-    "🇦🇹",
-    "Austria"
+  "143.246.208.86": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "113.30.152.25": [
+    "🇧🇪",
+    "Belgium"
+  ],
+  "185.156.44.99": [
+    "🇷🇴",
+    "Romania"
+  ],
+  "h2.vpnushka.lol": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "de.1.23.h2corp.org": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "5.83.129.11": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "181.214.99.162": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "194.180.188.104": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "23-19-231-152.liao.kdns.fr": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "91.84.119.49": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
   "185.47.172.226": [
     "🇮🇹",
     "Italy"
   ],
-  "streambox.wwwinternetvideo.click": [
+  "155.248.209.237": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "gorbachev-new-th.kvnfreetest.uk": [
+    "🇹🇭",
+    "Thailand"
+  ],
+  "45.92.219.237": [
+    "🇹🇷",
+    "Turkiye"
+  ],
+  "151.247.197.253": [
+    "🇫🇷",
+    "France"
+  ],
+  "94-229-64-108.liao.kdns.fr": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "mg2.mangshe.xyz": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "fg7xl1div.d33tqmk.cc": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "139.28.98.26": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "64.235.45.208": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "205.237.109.221": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "206.71.158.37": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "47.129.155.42": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "46.229.243.132": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "us54.mechvpn.online": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "ro.h2corp.org": [
+    "🇷🇴",
+    "Romania"
+  ],
+  "swe.frkn.org": [
+    "🇸🇪",
+    "Sweden"
+  ],
+  "194.180.188.97": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "86.107.178.75": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "150.241.102.127": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "31.76.27.23": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "86.107.178.68": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "18.118.193.169": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "85.204.107.166": [
+    "🇩🇿",
+    "Algeria"
+  ],
+  "fast.wwwinternetvideo.click": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "185.79.138.71": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "222.167.212.24": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "1.1.1.1": [
+    "🇦🇺",
+    "Australia"
+  ],
+  "142.91.104.120": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "5.175.249.174": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "82.22.41.10": [
     "🇵🇱",
     "Poland"
   ],
-  "3.149.228.246": [
+  "162.249.124.99": [
+    "🇮🇪",
+    "Ireland"
+  ],
+  "44.255.13.86": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "89.125.156.80": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "admin.wwwinternetvideo.click": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "79.137.205.35": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "86.107.178.69": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "ee2.sferavpn.pro": [
+    "🇪🇪",
+    "Estonia"
+  ],
+  "38.114.103.212": [
     "🇺🇸",
     "United States of America"
   ],
@@ -523,76 +379,172 @@
     "🇹🇼",
     "Taiwan (Province of China)"
   ],
-  "16.148.5.63": [
-    "🇺🇸",
-    "United States of America"
+  "nl174.mechvpn.online": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
-  "pro2.riziro.ir": [
-    "🏳️",
-    "Unknown"
+  "nl2.sferavpn.pro": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
-  "64.235.45.208": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "gorbachev-th.kvnfreetest.uk": [
-    "🇹🇭",
-    "Thailand"
+  "162.249.124.102": [
+    "🇮🇪",
+    "Ireland"
   ],
   "152.67.200.82": [
     "🇰🇷",
     "Korea (the Republic of)"
   ],
-  "46.229.243.131": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "admin.wwwinternetvideo.click": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "1.1.1.1": [
-    "🇦🇺",
-    "Australia"
-  ],
-  "5.175.249.174": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "162.249.124.104": [
-    "🇮🇪",
-    "Ireland"
-  ],
-  "95.217.96.131": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "45.92.219.237": [
-    "🇹🇷",
-    "Turkiye"
-  ],
   "lsj1.mangshe.xyz": [
     "🇺🇸",
     "United States of America"
   ],
-  "node3.vpnushka.lol": [
+  "77.110.96.201": [
+    "🇸🇪",
+    "Sweden"
+  ],
+  "62.210.124.146": [
+    "🇫🇷",
+    "France"
+  ],
+  "160.187.100.109": [
+    "🇹🇼",
+    "Taiwan (Province of China)"
+  ],
+  "de.1.22.washing.help": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "179.61.132.96": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "us65.mechvpn.online": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "node1.sferavpn.pro": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "sg2.xiaoliyu.cyou": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "us63.mechvpn.online": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "86.107.178.72": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
+  ],
+  "137.23.2.19": [
+    "🇦🇺",
+    "Australia"
+  ],
+  "62.60.247.164": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "217.60.182.79": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "cabinet.wwwinternetvideo.click": [
+    "🇺🇸",
+    "United States of America"
   ],
   "uswx4.wxgqlfx.vip": [
     "🇺🇸",
     "United States of America"
   ],
-  "hy2.561891.xyz": [
-    "🇺🇸",
-    "United States of America"
+  "167.179.34.31": [
+    "🇹🇭",
+    "Thailand"
   ],
-  "86.107.178.69": [
+  "de200.mechvpn.online": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "86.53.105.117": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "pg-usa2-hy2.gigatapbot.top": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "130.49.161.70": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
-  "142.91.104.120": [
+  "179.61.251.253": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "iq5ny.pleiades.codes": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "162.249.124.104": [
+    "🇮🇪",
+    "Ireland"
+  ],
+  "vip-sg-1.hkd4fwmg.vip": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "3.149.228.246": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "194.180.188.21": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "202.146.222.29": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "3.36.96.245": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "222.167.212.80": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "at133.mechvpn.online": [
+    "🇦🇹",
+    "Austria"
+  ],
+  "205.237.109.218": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "rpc-2068.internet-booster.com": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "fr.vpn.legendaah.xyz": [
+    "🇫🇷",
+    "France"
+  ],
+  "vip-jp-4.hkd4fwmg.vip": [
     "🇯🇵",
     "Japan"
+  ],
+  "db1.mangshe.xyz": [
+    "🇦🇪",
+    "United Arab Emirates"
+  ],
+  "dns.devmrzero.ir": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "45.192.12.93": [
+    "🇵🇱",
+    "Poland"
   ]
 }
