@@ -89,11 +89,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "47.251.25.74",
-            "port": 443,
+            "address": "159.89.87.21",
+            "port": 28190,
             "users": [
               {
-                "id": "18805ff3-b420-45de-af18-93be14024ae8",
+                "id": "14c80e0e-f7ce-4991-94fc-99a1db4a9b1e",
                 "flow": "xtls-rprx-vision",
                 "encryption": "none",
                 "level": 8
@@ -106,7 +106,7 @@
         "network": "tcp",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "www.amazon.com",
+          "serverName": "aws.amazon.com",
           "allowInsecure": false,
           "fingerprint": "chrome"
         }
