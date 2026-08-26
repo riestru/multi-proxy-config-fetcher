@@ -102,8 +102,7 @@
             "tag": "🌐 Anonymous Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
-                "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-                "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
+                "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -111,7 +110,6 @@
                 "🇺🇸 574 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 575 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 576 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇺🇸 577 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 578 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 579 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 580 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -157,8 +155,7 @@
             "type": "urltest",
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
-                "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-                "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
+                "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -166,7 +163,6 @@
                 "🇺🇸 574 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 575 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 576 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇺🇸 577 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 578 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 579 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 580 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -208,39 +204,17 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-            "server": "159.89.87.21",
-            "server_port": 28190,
-            "uuid": "14c80e0e-f7ce-4991-94fc-99a1db4a9b1e",
+            "tag": "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
+            "server": "47.253.226.114",
+            "server_port": 443,
+            "uuid": "055a1ce8-2a16-4a0d-a2c2-22826c9b2413",
             "flow": "xtls-rprx-vision",
             "tls": {
                 "enabled": true,
-                "server_name": "aws.amazon.com",
+                "server_name": "www.cloudflare.com",
                 "reality": {
                     "enabled": true,
-                    "public_key": "ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-            "server": "159.89.87.21",
-            "server_port": 28190,
-            "uuid": "14c80e0e-f7ce-4991-94fc-99a1db4a9b1e",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "aws.amazon.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno",
+                    "public_key": "Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc",
                     "short_id": ""
                 },
                 "utls": {
@@ -386,28 +360,6 @@
             "type": "vless",
             "tag": "🇺🇸 576 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
             "server": "15.204.97.206",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 577 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-            "server": "15.204.97.214",
             "server_port": 23576,
             "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
             "flow": "xtls-rprx-vision",
