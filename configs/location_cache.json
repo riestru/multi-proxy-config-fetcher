@@ -1,347 +1,91 @@
 {
-  "15.223.183.81": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "dora4.api3-max.ru": [
-    "🏳️",
-    "Unknown"
-  ],
-  "217.60.33.215": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "34.213.169.127": [
+  "31.76.70.109": [
     "🇺🇸",
     "United States of America"
-  ],
-  "91.142.73.159": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "85.204.107.174": [
-    "🇩🇿",
-    "Algeria"
-  ],
-  "3.123.25.85": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "13.229.82.184": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "85.204.107.181": [
-    "🇩🇿",
-    "Algeria"
-  ],
-  "31.76.22.210": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "dora3.api3-max.ru": [
-    "🏳️",
-    "Unknown"
-  ],
-  "130.61.50.75": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "103.246.248.234": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "155.248.209.237": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "179.61.132.96": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "181.214.99.162": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "62.210.124.146": [
-    "🇫🇷",
-    "France"
-  ],
-  "46.229.243.140": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "de1.sferavpn.pro": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "45.140.205.58": [
-    "🇨🇭",
-    "Switzerland"
-  ],
-  "185.156.44.99": [
-    "🇷🇴",
-    "Romania"
-  ],
-  "162.249.124.114": [
-    "🇮🇪",
-    "Ireland"
-  ],
-  "ltu-01.node.lumixnet.com": [
-    "🇱🇹",
-    "Lithuania"
-  ],
-  "18.136.199.31": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "awlix1.pcjxq.digital": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "giftcard.gisora.ir": [
-    "🇸🇪",
-    "Sweden"
-  ],
-  "103.246.248.231": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "103.246.248.226": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "130.49.219.99": [
-    "🇦🇹",
-    "Austria"
-  ],
-  "205.237.109.162": [
-    "🇮🇹",
-    "Italy"
-  ],
-  "1.1.1.1": [
-    "🇦🇺",
-    "Australia"
-  ],
-  "194.238.40.185": [
-    "🇰🇿",
-    "Kazakhstan"
-  ],
-  "195.133.24.124": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "72.56.92.120": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "77.110.96.201": [
-    "🇸🇪",
-    "Sweden"
-  ],
-  "72.56.116.57": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "72.56.102.31": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "us.frkn.org": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "54.213.89.22": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "144.31.49.47": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "159.223.157.129": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "hy2.123266.xyz": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "179.61.251.253": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "82.38.60.15": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "18.153.59.21": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "h.zz2233.cyou": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "217.60.182.79": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "46.229.243.133": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "46.229.243.137": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "222.167.212.81": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "132.226.226.189": [
-    "🇰🇷",
-    "Korea (the Republic of)"
-  ],
-  "201.51.24.4": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "sg1.xiaoliyu.cyou": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "rm-eco-us-01.409648.xyz": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "13.229.54.166": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "140.238.213.114": [
-    "🇨🇭",
-    "Switzerland"
-  ],
-  "13.212.74.81": [
-    "🇸🇬",
-    "Singapore"
   ],
   "89.125.156.80": [
     "🇩🇪",
     "Germany"
   ],
-  "194.135.34.130": [
-    "🇹🇷",
-    "Turkiye"
-  ],
-  "lmny.mangshe.xyz": [
-    "🇵🇸",
-    "Palestine, State of"
-  ],
-  "nl1.sferavpn.pro": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "167.179.34.31": [
-    "🇹🇭",
-    "Thailand"
-  ],
-  "18.184.156.140": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "95.164.123.231": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "46.229.243.132": [
+  "85.209.157.177": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
-  "c2.bestai.beauty": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "157.228.137.81": [
-    "🇬🇧",
-    "United Kingdom of Great Britain and Northern Ireland"
-  ],
-  "222.167.212.82": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "142.249.37.90": [
+  "217.60.182.79": [
     "🇺🇸",
     "United States of America"
-  ],
-  "bwdf2fnt.xn--e1aatfr8bwa.online": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "fin14qr.wwwinternetvideo.click": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "13.124.233.211": [
-    "🇰🇷",
-    "Korea (the Republic of)"
-  ],
-  "hysteria.udpgw.com": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "45.192.12.93": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "gift-catalog.aroonia.ir": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "70.34.205.15": [
-    "🇸🇪",
-    "Sweden"
   ],
   "85.204.107.178": [
     "🇩🇿",
     "Algeria"
   ],
-  "ro.h2corp.org": [
-    "🇷🇴",
-    "Romania"
+  "hysteria.udpgw.com": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
-  "31.76.80.69": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "205.237.109.163": [
-    "🇮🇹",
-    "Italy"
-  ],
-  "138.124.0.168": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "35.181.166.40": [
-    "🇫🇷",
-    "France"
-  ],
-  "gora4.api3-max.ru": [
-    "🏳️",
-    "Unknown"
-  ],
-  "31.76.70.109": [
+  "ush2.shazamri.xyz": [
     "🇺🇸",
     "United States of America"
   ],
-  "202.146.222.29": [
-    "🇭🇰",
-    "Hong Kong"
+  "hold.wwwinternetvideo.click": [
+    "🇷🇺",
+    "Russian Federation"
   ],
   "46.229.243.142": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
+  ],
+  "nl1.sferavpn.pro": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "5.83.129.11": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "gift-catalog.aroonia.ir": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "64.188.98.171": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "54.202.189.171": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "ltu-01.node.lumixnet.com": [
+    "🇱🇹",
+    "Lithuania"
+  ],
+  "144.31.93.173": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "ee2.sferavpn.pro": [
+    "🇪🇪",
+    "Estonia"
+  ],
+  "157.228.137.81": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "dora4.api3-max.ru": [
+    "🏳️",
+    "Unknown"
+  ],
+  "46.229.243.137": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "46.229.243.132": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "103.246.248.231": [
+    "🇵🇱",
+    "Poland"
   ],
   "162.249.124.118": [
     "🇮🇪",
@@ -351,103 +95,47 @@
     "🇷🇺",
     "Russian Federation"
   ],
-  "46.229.243.131": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "31.76.30.97": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "144.31.93.173": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "hold.wwwinternetvideo.click": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "64.188.98.171": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "45.149.147.194": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "45.88.14.120": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "144.31.49.138": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "ush2.shazamri.xyz": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "giftcard.gateway-stream.com": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "assets.gateway-stream.com": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "38.180.190.215": [
+  "13.212.74.81": [
     "🇸🇬",
     "Singapore"
   ],
-  "xjp1.mangshe.xyz": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "72.56.16.243": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "31.177.111.213": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "ptserv.accuratenetworkchecker.ir": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "85.209.157.177": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "160.187.100.109": [
-    "🇹🇼",
-    "Taiwan (Province of China)"
+  "130.49.219.99": [
+    "🇦🇹",
+    "Austria"
   ],
   "167.179.34.13": [
     "🇹🇭",
     "Thailand"
   ],
-  "144.31.148.87": [
-    "🇩🇪",
-    "Germany"
+  "103.246.248.234": [
+    "🇵🇱",
+    "Poland"
   ],
-  "faq.wwwinternetvideo.click": [
-    "🇺🇸",
-    "United States of America"
+  "35.181.166.40": [
+    "🇫🇷",
+    "France"
   ],
-  "5.83.129.11": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "46.229.243.141": [
+  "195.133.24.124": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
-  "31.76.71.63": [
-    "🇺🇸",
-    "United States of America"
+  "72.56.116.57": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
-  "130.49.161.70": [
+  "140.238.213.114": [
+    "🇨🇭",
+    "Switzerland"
+  ],
+  "1.1.1.1": [
+    "🇦🇺",
+    "Australia"
+  ],
+  "31.177.111.213": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "72.56.102.31": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
@@ -455,19 +143,327 @@
     "🇨🇦",
     "Canada"
   ],
-  "144.31.221.57": [
-    "🇩🇪",
-    "Germany"
+  "18.136.199.31": [
+    "🇸🇬",
+    "Singapore"
   ],
-  "ee2.sferavpn.pro": [
-    "🇪🇪",
-    "Estonia"
+  "202.146.222.29": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "38.180.190.215": [
+    "🇸🇬",
+    "Singapore"
   ],
   "46.229.243.138": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
+  "167.179.34.31": [
+    "🇹🇭",
+    "Thailand"
+  ],
+  "144.31.49.47": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "giftcard.gateway-stream.com": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "45.88.14.120": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "us.frkn.org": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "155.248.209.237": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "xjp1.mangshe.xyz": [
+    "🇸🇬",
+    "Singapore"
+  ],
   "5.175.249.174": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "103.246.248.226": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "c2.bestai.beauty": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "159.223.157.129": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "lmny.mangshe.xyz": [
+    "🇵🇸",
+    "Palestine, State of"
+  ],
+  "144.31.221.57": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "77.110.96.201": [
+    "🇸🇪",
+    "Sweden"
+  ],
+  "31.76.27.23": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "sg1.xiaoliyu.cyou": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "205.237.109.163": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "95.164.123.231": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "72.56.16.243": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "144.31.148.87": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "rm-eco-us-01.409648.xyz": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "dora3.api3-max.ru": [
+    "🏳️",
+    "Unknown"
+  ],
+  "13.229.54.166": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "46.229.243.131": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "91.142.73.159": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "181.214.99.162": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "82.38.60.15": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "185.156.44.99": [
+    "🇷🇴",
+    "Romania"
+  ],
+  "201.51.24.4": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "85.204.107.181": [
+    "🇩🇿",
+    "Algeria"
+  ],
+  "hy2.123266.xyz": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "54.254.190.23": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "162.249.124.114": [
+    "🇮🇪",
+    "Ireland"
+  ],
+  "222.167.212.81": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "hy2.561891.xyz": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "179.61.132.96": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "faq.wwwinternetvideo.click": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "18.184.156.140": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "31.76.30.97": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "132.226.226.189": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "54.213.89.22": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "62.210.124.146": [
+    "🇫🇷",
+    "France"
+  ],
+  "46.229.243.141": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "assets.gateway-stream.com": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "31.76.22.210": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "70.34.205.15": [
+    "🇸🇪",
+    "Sweden"
+  ],
+  "45.192.12.93": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "160.187.100.109": [
+    "🇹🇼",
+    "Taiwan (Province of China)"
+  ],
+  "bwdf2fnt.xn--e1aatfr8bwa.online": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "pro2.riziro.ir": [
+    "🏳️",
+    "Unknown"
+  ],
+  "46.229.243.133": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "13.229.82.184": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "205.237.109.162": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "awlix1.pcjxq.digital": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "85.204.107.174": [
+    "🇩🇿",
+    "Algeria"
+  ],
+  "md1.cnyvpn.com": [
+    "🇲🇩",
+    "Moldova (the Republic of)"
+  ],
+  "130.49.161.70": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "217.60.33.215": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "ro.h2corp.org": [
+    "🇷🇴",
+    "Romania"
+  ],
+  "giftcard.gisora.ir": [
+    "🇸🇪",
+    "Sweden"
+  ],
+  "15.223.183.81": [
+    "🇨🇦",
+    "Canada"
+  ],
+  "ptserv.accuratenetworkchecker.ir": [
+    "🇨🇦",
+    "Canada"
+  ],
+  "de1.sferavpn.pro": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "206.71.158.37": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "31.76.71.63": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "gora4.api3-max.ru": [
+    "🏳️",
+    "Unknown"
+  ],
+  "46.229.243.140": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "h.zz2233.cyou": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "194.238.40.185": [
+    "🇰🇿",
+    "Kazakhstan"
+  ],
+  "45.149.147.194": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "142.249.37.90": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "46.229.243.139": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "222.167.212.82": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "45.140.205.58": [
+    "🇨🇭",
+    "Switzerland"
+  ],
+  "138.124.0.168": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "fin14qr.wwwinternetvideo.click": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "130.61.50.75": [
     "🇩🇪",
     "Germany"
   ],
@@ -475,36 +471,28 @@
     "🇩🇪",
     "Germany"
   ],
-  "46.229.243.139": [
+  "72.56.92.120": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
-  "hy2.561891.xyz": [
-    "🇺🇸",
-    "United States of America"
+  "179.61.251.253": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "194.135.34.130": [
+    "🇹🇷",
+    "Turkiye"
   ],
   "46.229.243.147": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
-  "54.254.190.23": [
-    "🇸🇬",
-    "Singapore"
+  "31.76.80.69": [
+    "🇫🇮",
+    "Finland"
   ],
-  "md1.cnyvpn.com": [
-    "🇲🇩",
-    "Moldova (the Republic of)"
-  ],
-  "206.71.158.37": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "pro2.riziro.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "31.76.27.23": [
-    "🇩🇪",
-    "Germany"
+  "13.125.11.91": [
+    "🇰🇷",
+    "Korea (the Republic of)"
   ]
 }
