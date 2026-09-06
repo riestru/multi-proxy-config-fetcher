@@ -102,8 +102,11 @@
             "tag": "🌐 Anonymous Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
-                "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-                "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
+                "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
+                "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
+                "🇫🇷 322 - FR - VLESS/WS - 80",
+                "🇫🇷 323 - FR - VLESS/WS - 80",
+                "🇫🇷 324 - FR - VLESS/WS - 80",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 573 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -157,8 +160,11 @@
             "type": "urltest",
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
-                "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-                "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
+                "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
+                "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
+                "🇫🇷 322 - FR - VLESS/WS - 80",
+                "🇫🇷 323 - FR - VLESS/WS - 80",
+                "🇫🇷 324 - FR - VLESS/WS - 80",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 573 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -208,17 +214,17 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 155 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-            "server": "159.89.87.21",
-            "server_port": 28190,
-            "uuid": "14c80e0e-f7ce-4991-94fc-99a1db4a9b1e",
+            "tag": "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
+            "server": "47.253.226.114",
+            "server_port": 443,
+            "uuid": "055a1ce8-2a16-4a0d-a2c2-22826c9b2413",
             "flow": "xtls-rprx-vision",
             "tls": {
                 "enabled": true,
-                "server_name": "aws.amazon.com",
+                "server_name": "www.cloudflare.com",
                 "reality": {
                     "enabled": true,
-                    "public_key": "ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno",
+                    "public_key": "Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc",
                     "short_id": ""
                 },
                 "utls": {
@@ -230,17 +236,17 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 156 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-            "server": "159.89.87.21",
-            "server_port": 28190,
-            "uuid": "14c80e0e-f7ce-4991-94fc-99a1db4a9b1e",
+            "tag": "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
+            "server": "47.251.25.74",
+            "server_port": 443,
+            "uuid": "18805ff3-b420-45de-af18-93be14024ae8",
             "flow": "xtls-rprx-vision",
             "tls": {
                 "enabled": true,
-                "server_name": "aws.amazon.com",
+                "server_name": "www.amazon.com",
                 "reality": {
                     "enabled": true,
-                    "public_key": "ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno",
+                    "public_key": "H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8",
                     "short_id": ""
                 },
                 "utls": {
@@ -249,6 +255,60 @@
                 }
             },
             "transport": {}
+        },
+        {
+            "type": "vless",
+            "tag": "🇫🇷 322 - FR - VLESS/WS - 80",
+            "server": "152.228.162.19",
+            "server_port": 80,
+            "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/vless/",
+                "headers": {
+                    "Host": "Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇫🇷 323 - FR - VLESS/WS - 80",
+            "server": "152.228.162.19",
+            "server_port": 80,
+            "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/vless/",
+                "headers": {
+                    "Host": "152.228.162.19"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇫🇷 324 - FR - VLESS/WS - 80",
+            "server": "ov-france1.09vpn.com",
+            "server_port": 80,
+            "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/vless/",
+                "headers": {
+                    "Host": "ov-france1.09vpn.com"
+                }
+            }
         },
         {
             "type": "vless",
