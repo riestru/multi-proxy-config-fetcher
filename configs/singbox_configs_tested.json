@@ -104,8 +104,8 @@
                 "👽 Best Ping 🚀",
                 "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
+                "🇫🇷 324 - FR - VLESS/WS - 80",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 573 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 574 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 575 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -159,8 +159,8 @@
             "outbounds": [
                 "🇺🇸 43 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇺🇸 205 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
+                "🇫🇷 324 - FR - VLESS/WS - 80",
                 "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 573 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 574 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 575 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -252,30 +252,26 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-            "server": "15.204.97.195",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "tag": "🇫🇷 324 - FR - VLESS/WS - 80",
+            "server": "ov-france1.09vpn.com",
+            "server_port": 80,
+            "uuid": "25f86cb1-2140-4085-abcb-c3a0ea7a4be0",
+            "flow": "",
             "tls": {
-                "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "enabled": false
             },
-            "transport": {}
+            "transport": {
+                "type": "ws",
+                "path": "/vless/",
+                "headers": {
+                    "Host": "ov-france1.09vpn.com"
+                }
+            }
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 572 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-            "server": "15.204.97.197",
+            "tag": "🇺🇸 571 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
+            "server": "15.204.97.195",
             "server_port": 23576,
             "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
             "flow": "xtls-rprx-vision",
